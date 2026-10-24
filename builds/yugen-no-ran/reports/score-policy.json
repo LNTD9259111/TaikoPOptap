@@ -1,0 +1,34 @@
+{
+  "Easy": {
+    "score_init": 220,
+    "score_diff": 60,
+    "generated_missing_score_fields": true,
+    "catalog_score_estimate": 423800,
+    "shinuti_custom": 2080,
+    "official_scoring_claim": false
+  },
+  "Normal": {
+    "score_init": 270,
+    "score_diff": 70,
+    "generated_missing_score_fields": true,
+    "catalog_score_estimate": 723190,
+    "shinuti_custom": 1420,
+    "official_scoring_claim": false
+  },
+  "Hard": {
+    "score_init": 250,
+    "score_diff": 70,
+    "generated_missing_score_fields": false,
+    "catalog_score_estimate": 886550,
+    "shinuti_custom": 1140,
+    "official_scoring_claim": false
+  },
+  "Oni": {
+    "score_init": 290,
+    "score_diff": 60,
+    "generated_missing_score_fields": false,
+    "catalog_score_estimate": 1199670,
+    "shinuti_custom": 800,
+    "official_scoring_claim": false
+  }
+}

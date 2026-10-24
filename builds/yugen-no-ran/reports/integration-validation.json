@@ -1,0 +1,11 @@
+{
+  "fumen_byte_roundtrip_all_four": "passed",
+  "catalog_id_uniqueness": "passed",
+  "catalog_asset_links_all_four": "passed",
+  "genre_Namco_7": "passed",
+  "unlocked_nondebug_entry": "passed",
+  "cue_index_zero_embedded_audio": "passed",
+  "original_ogg_to_cri_compensation_samples": 128,
+  "ffmpeg_independent_decode_snr_db_polarity_normalized": 35.61638665310081,
+  "limitations": "These are host-side format/PCM tests, not native iOS playback or gameplay."
+}

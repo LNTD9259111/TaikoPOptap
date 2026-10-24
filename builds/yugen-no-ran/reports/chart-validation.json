@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "TITLE": "YUGEN NO RAN",
+    "TITLEJA": "YUGEN NO RAN",
+    "TITLEZH": "Yuugen no Ran",
+    "TITLEKO": "Yuugen no Ran",
+    "SUBTITLE": "--Tatsh a.k.a. Zeami",
+    "SUBTITLEJA": "\u4e16\u963f\u5f25",
+    "SUBTITLEZH": "\u4e16\u963f\u5f25",
+    "BPM": "160",
+    "WAVE": "Yuugen no Ran.ogg",
+    "OFFSET": "-1.816",
+    "DEMOSTART": "1.816"
+  },
+  "commands": [
+    "#BPMCHANGE",
+    "#END",
+    "#GOGOEND",
+    "#GOGOSTART",
+    "#MEASURE",
+    "#START"
+  ],
+  "courses": {
+    "Easy": {
+      "stars": 5,
+      "measures": 145,
+      "hit_notes": 481,
+      "drumrolls": 3,
+      "first_note_seconds": 1.816,
+      "last_hit_seconds": 121.816,
+      "last_roll_end_seconds": 123.49933333333333,
+      "chart_end_seconds": 125.916,
+      "max_conversion_timing_error_ms": 0,
+      "conversion": "passed",
+      "device_install_and_play_to_results": "NOT RUN"
+    },
+    "Normal": {
+      "stars": 7,
+      "measures": 145,
+      "hit_notes": 708,
+      "drumrolls": 3,
+      "first_note_seconds": 1.816,
+      "last_hit_seconds": 121.816,
+      "last_roll_end_seconds": 123.49933333333333,
+      "chart_end_seconds": 125.916,
+      "max_conversion_timing_error_ms": 0,
+      "conversion": "passed",
+      "device_install_and_play_to_results": "NOT RUN"
+    },
+    "Hard": {
+      "stars": 8,
+      "measures": 145,
+      "hit_notes": 883,
+      "drumrolls": 2,
+      "first_note_seconds": 1.816,
+      "last_hit_seconds": 121.816,
+      "last_roll_end_seconds": 123.49933333333333,
+      "chart_end_seconds": 125.916,
+      "max_conversion_timing_error_ms": 0,
+      "conversion": "passed",
+      "device_install_and_play_to_results": "NOT RUN"
+    },
+    "Oni": {
+      "stars": 10,
+      "measures": 142,
+      "hit_notes": 1262,
+      "drumrolls": 1,
+      "first_note_seconds": 1.816,
+      "last_hit_seconds": 121.866,
+      "last_roll_end_seconds": 123.49933333333333,
+      "chart_end_seconds": 123.516,
+      "max_conversion_timing_error_ms": 0,
+      "conversion": "passed",
+      "device_install_and_play_to_results": "NOT RUN"
+    }
+  }
+}

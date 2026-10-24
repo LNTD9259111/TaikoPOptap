@@ -1,0 +1,27 @@
+{
+  "status": "EXPERIMENTAL; NOT ACCEPTANCE-TESTED ON IOS",
+  "input_sha256": "ae6f5943999b0e1db606c8575b32a3c653e2fea087bb12c9d621c6be827539f9",
+  "output_sha256": "934011dde939872db91555811227944b49bd473d5c9ae0fd59cb18c93346243a",
+  "output_bytes": 1141403630,
+  "changed_existing_entries": [
+    "Payload/BNEI0361.app/Data/Raw/ReadAssets/musicinfo.bin",
+    "Payload/BNEI0361.app/Data/Raw/ReadAssets/songinfo.bin",
+    "Payload/BNEI0361.app/Data/Raw/ReadAssets/wordlist.bin"
+  ],
+  "added_entries": [
+    "Payload/BNEI0361.app/Data/Raw/fumen/yugen/yugen_e.bin",
+    "Payload/BNEI0361.app/Data/Raw/fumen/yugen/yugen_h.bin",
+    "Payload/BNEI0361.app/Data/Raw/fumen/yugen/yugen_m.bin",
+    "Payload/BNEI0361.app/Data/Raw/fumen/yugen/yugen_n.bin",
+    "Payload/BNEI0361.app/Data/Raw/sound/song_yugen.bin"
+  ],
+  "unchanged_existing_entries": 3032,
+  "catalog_preservation": "All original records unchanged; only new entries appended",
+  "binary_change": "None relative to tutorial-skip base",
+  "signing": "Requires Sideloadly re-signing",
+  "ios_clean_install": "NOT RUN",
+  "song_visibility_on_device": "NOT RUN",
+  "full_playthrough_each_difficulty": "NOT RUN",
+  "audio_synchronization_on_device": "NOT RUN",
+  "existing_songs_regression_on_device": "NOT RUN"
+}

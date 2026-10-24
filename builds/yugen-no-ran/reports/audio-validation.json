@@ -1,0 +1,16 @@
+{
+  "ogg_codec": "Vorbis",
+  "channels": 2,
+  "sample_rate": 44100,
+  "source_pcm_samples": 5587049,
+  "decoded_acb_samples": 5587049,
+  "duration_seconds": 126.69045351473923,
+  "encoding": "HCA 0x0200, highest quality, embedded AFS2 in ACB",
+  "cue": "song_yugen",
+  "cue_id": 0,
+  "external_awb_required": false,
+  "pcm_lag_samples": 0,
+  "roundtrip_snr_db": 35.61657372170927,
+  "checks": "passed",
+  "device_audio_and_chart_sync": "NOT RUN"
+}
