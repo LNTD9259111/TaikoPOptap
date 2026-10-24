@@ -1,0 +1,13 @@
+{
+  "probed_binary_sha256": "92d62adc730c4fde50432a1c12eb21e1f41f8d4627f00f628295bf83f7004041",
+  "final_binary_sha256": "4f1b4fb479ffc765b05b7387a655a6297252dbfef32ab1bb740aefcdcaedd657",
+  "changed_bytes": 51,
+  "changes_after_probe_started": [
+    "inlined_tuning_uses_new_song",
+    "inlined_tuning_uses_new_song entry",
+    "Inlined tuning course Oni",
+    "development_fallback_uses_new_song",
+    "development_fallback_uses_new_song entry"
+  ],
+  "same_fumen_code_and_cave": "PASS: every differing byte belongs only to the later tuning/development fallback patches; these are exercised separately by native-speed-tests.json"
+}

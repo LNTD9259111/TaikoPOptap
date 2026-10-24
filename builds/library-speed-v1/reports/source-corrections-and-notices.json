@@ -1,0 +1,5779 @@
+{
+  "corrections": [
+    {
+      "id": "tl0155",
+      "title": "OOZORA TO TAIKO NO ODORI",
+      "course": "Easy",
+      "changes": [
+        "User authorized 8 hits for each of the final two Easy balloons, 2026-10-25 Asia/Saigon."
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "id": "tl0007",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 112
+        }
+      ]
+    },
+    {
+      "id": "tl0007",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 194
+        }
+      ]
+    },
+    {
+      "id": "tl0007",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 276
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 322
+        }
+      ]
+    },
+    {
+      "id": "tl0009",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 273
+        }
+      ]
+    },
+    {
+      "id": "tl0009",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 428
+        }
+      ]
+    },
+    {
+      "id": "tl0009",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 583
+        }
+      ]
+    },
+    {
+      "id": "tl0010",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 126
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 154
+        }
+      ]
+    },
+    {
+      "id": "tl0010",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 200
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 228
+        }
+      ]
+    },
+    {
+      "id": "tl0010",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 274
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 302
+        }
+      ]
+    },
+    {
+      "id": "tl0016",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 227
+        }
+      ]
+    },
+    {
+      "id": "tl0016",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 358
+        }
+      ]
+    },
+    {
+      "id": "tl0016",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 489
+        }
+      ]
+    },
+    {
+      "id": "tl0020",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 219
+        }
+      ]
+    },
+    {
+      "id": "tl0020",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 295
+        }
+      ]
+    },
+    {
+      "id": "tl0020",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 371
+        }
+      ]
+    },
+    {
+      "id": "tl0021",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 175
+        }
+      ]
+    },
+    {
+      "id": "tl0021",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 258
+        }
+      ]
+    },
+    {
+      "id": "tl0021",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 341
+        }
+      ]
+    },
+    {
+      "id": "tl0022",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 273
+        }
+      ]
+    },
+    {
+      "id": "tl0022",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 428
+        }
+      ]
+    },
+    {
+      "id": "tl0022",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 583
+        }
+      ]
+    },
+    {
+      "id": "tl0023",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 146
+        }
+      ]
+    },
+    {
+      "id": "tl0023",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 212
+        }
+      ]
+    },
+    {
+      "id": "tl0023",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 278
+        }
+      ]
+    },
+    {
+      "id": "tl0025",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 192
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 210
+        }
+      ]
+    },
+    {
+      "id": "tl0025",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 263
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 281
+        }
+      ]
+    },
+    {
+      "id": "tl0026",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 338
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 354
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 370
+        }
+      ]
+    },
+    {
+      "id": "tl0026",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 437
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 448
+        }
+      ]
+    },
+    {
+      "id": "tl0026",
+      "course": "NormalP1",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 510
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 521
+        }
+      ]
+    },
+    {
+      "id": "tl0026",
+      "course": "NormalP2",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 582
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 593
+        }
+      ]
+    },
+    {
+      "id": "tl0026",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 660
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 671
+        }
+      ]
+    },
+    {
+      "id": "tl0027",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 296
+        }
+      ]
+    },
+    {
+      "id": "tl0027",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 410
+        }
+      ]
+    },
+    {
+      "id": "tl0028",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 277
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 350
+        }
+      ]
+    },
+    {
+      "id": "tl0028",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 458
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 531
+        }
+      ]
+    },
+    {
+      "id": "tl0028",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 639
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 712
+        }
+      ]
+    },
+    {
+      "id": "tl0033",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 410
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 418
+        }
+      ]
+    },
+    {
+      "id": "tl0033",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 543
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 551
+        }
+      ]
+    },
+    {
+      "id": "tl0033",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 676
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 684
+        }
+      ]
+    },
+    {
+      "id": "tl0039",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 697
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 719
+        }
+      ]
+    },
+    {
+      "id": "tl0045",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 293
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 436
+        }
+      ]
+    },
+    {
+      "id": "tl0045",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 533
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 676
+        }
+      ]
+    },
+    {
+      "id": "tl0045",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 773
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 916
+        }
+      ]
+    },
+    {
+      "id": "tl0046",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 164
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 198
+        }
+      ]
+    },
+    {
+      "id": "tl0046",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 261
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 295
+        }
+      ]
+    },
+    {
+      "id": "tl0046",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 358
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 392
+        }
+      ]
+    },
+    {
+      "id": "tl0054",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 404
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 572
+        }
+      ]
+    },
+    {
+      "id": "tl0054",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 627
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 760
+        }
+      ]
+    },
+    {
+      "id": "tl0054",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 815
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 947
+        }
+      ]
+    },
+    {
+      "id": "tl0058",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 415
+        }
+      ]
+    },
+    {
+      "id": "tl0059",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 270
+        }
+      ]
+    },
+    {
+      "id": "tl0059",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 377
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 442
+        }
+      ]
+    },
+    {
+      "id": "tl0061",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 686
+        }
+      ]
+    },
+    {
+      "id": "tl0061",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 908
+        }
+      ]
+    },
+    {
+      "id": "tl0063",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 226
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 234
+        }
+      ]
+    },
+    {
+      "id": "tl0063",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 306
+        }
+      ]
+    },
+    {
+      "id": "tl0064",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 217
+        }
+      ]
+    },
+    {
+      "id": "tl0064",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 311
+        }
+      ]
+    },
+    {
+      "id": "tl0065",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 368
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 423
+        }
+      ]
+    },
+    {
+      "id": "tl0067",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 291
+        }
+      ]
+    },
+    {
+      "id": "tl0067",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 389
+        }
+      ]
+    },
+    {
+      "id": "tl0070",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 904
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 918
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 932
+        }
+      ]
+    },
+    {
+      "id": "tl0070",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1209
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1223
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1237
+        }
+      ]
+    },
+    {
+      "id": "tl0074",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 315
+        }
+      ]
+    },
+    {
+      "id": "tl0075",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 325
+        }
+      ]
+    },
+    {
+      "id": "tl0075",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 429
+        }
+      ]
+    },
+    {
+      "id": "tl0076",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 437
+        }
+      ]
+    },
+    {
+      "id": "tl0076",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 570
+        }
+      ]
+    },
+    {
+      "id": "tl0078",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1072
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1087
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1090
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1092
+        }
+      ]
+    },
+    {
+      "id": "tl0078",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1370
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1385
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1388
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1390
+        }
+      ]
+    },
+    {
+      "id": "tl0080",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 543
+        }
+      ]
+    },
+    {
+      "id": "tl0080",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 814
+        }
+      ]
+    },
+    {
+      "id": "tl0080",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1085
+        }
+      ]
+    },
+    {
+      "id": "tl0081",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 295
+        }
+      ]
+    },
+    {
+      "id": "tl0081",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 382
+        }
+      ]
+    },
+    {
+      "id": "tl0082",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 325
+        }
+      ]
+    },
+    {
+      "id": "tl0082",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 552
+        }
+      ]
+    },
+    {
+      "id": "tl0082",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 779
+        }
+      ]
+    },
+    {
+      "id": "tl0086",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 510
+        }
+      ]
+    },
+    {
+      "id": "tl0086",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 704
+        }
+      ]
+    },
+    {
+      "id": "tl0086",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 898
+        }
+      ]
+    },
+    {
+      "id": "tl0089",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 206
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 252
+        }
+      ]
+    },
+    {
+      "id": "tl0089",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 349
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 395
+        }
+      ]
+    },
+    {
+      "id": "tl0089",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 492
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 538
+        }
+      ]
+    },
+    {
+      "id": "tl0090",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 346
+        }
+      ]
+    },
+    {
+      "id": "tl0090",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 473
+        }
+      ]
+    },
+    {
+      "id": "tl0093",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 208
+        }
+      ]
+    },
+    {
+      "id": "tl0093",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 310
+        }
+      ]
+    },
+    {
+      "id": "tl0093",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 380
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 412
+        }
+      ]
+    },
+    {
+      "id": "tl0096",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 469
+        }
+      ]
+    },
+    {
+      "id": "tl0096",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 677
+        }
+      ]
+    },
+    {
+      "id": "tl0097",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 296
+        }
+      ]
+    },
+    {
+      "id": "tl0097",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 410
+        }
+      ]
+    },
+    {
+      "id": "tl0098",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 362
+        }
+      ]
+    },
+    {
+      "id": "tl0098",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 488
+        }
+      ]
+    },
+    {
+      "id": "tl0100",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 344
+        }
+      ]
+    },
+    {
+      "id": "tl0100",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 439
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 463
+        }
+      ]
+    },
+    {
+      "id": "tl0116",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 239
+        }
+      ]
+    },
+    {
+      "id": "tl0116",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 355
+        }
+      ]
+    },
+    {
+      "id": "tl0116",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 471
+        }
+      ]
+    },
+    {
+      "id": "tl0118",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1279
+        }
+      ]
+    },
+    {
+      "id": "tl0118",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1786
+        }
+      ]
+    },
+    {
+      "id": "tl0118",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 2293
+        }
+      ]
+    },
+    {
+      "id": "tl0121",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 184
+        }
+      ]
+    },
+    {
+      "id": "tl0121",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 282
+        }
+      ]
+    },
+    {
+      "id": "tl0121",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 380
+        }
+      ]
+    },
+    {
+      "id": "tl0122",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 406
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 459
+        }
+      ]
+    },
+    {
+      "id": "tl0122",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 557
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 610
+        }
+      ]
+    },
+    {
+      "id": "tl0126",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 352
+        }
+      ]
+    },
+    {
+      "id": "tl0126",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 532
+        }
+      ]
+    },
+    {
+      "id": "tl0126",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 712
+        }
+      ]
+    },
+    {
+      "id": "tl0128",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 618
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 738
+        }
+      ]
+    },
+    {
+      "id": "tl0128",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 869
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 989
+        }
+      ]
+    },
+    {
+      "id": "tl0128",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1120
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1240
+        }
+      ]
+    },
+    {
+      "id": "tl0130",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 745
+        }
+      ]
+    },
+    {
+      "id": "tl0130",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 993
+        }
+      ]
+    },
+    {
+      "id": "tl0130",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1241
+        }
+      ]
+    },
+    {
+      "id": "tl0132",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 505
+        }
+      ]
+    },
+    {
+      "id": "tl0132",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 672
+        }
+      ]
+    },
+    {
+      "id": "tl0132",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 839
+        }
+      ]
+    },
+    {
+      "id": "tl0140",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 267
+        }
+      ]
+    },
+    {
+      "id": "tl0140",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 503
+        }
+      ]
+    },
+    {
+      "id": "tl0140",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 731
+        }
+      ]
+    },
+    {
+      "id": "tl0143",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 214
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 275
+        }
+      ]
+    },
+    {
+      "id": "tl0143",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 348
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 409
+        }
+      ]
+    },
+    {
+      "id": "tl0143",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 482
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 543
+        }
+      ]
+    },
+    {
+      "id": "tl0147",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 298
+        }
+      ]
+    },
+    {
+      "id": "tl0147",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 411
+        }
+      ]
+    },
+    {
+      "id": "tl0148",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 429
+        }
+      ]
+    },
+    {
+      "id": "tl0148",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 629
+        }
+      ]
+    },
+    {
+      "id": "tl0148",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 829
+        }
+      ]
+    },
+    {
+      "id": "tl0151",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 491
+        }
+      ]
+    },
+    {
+      "id": "tl0151",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 581
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 619
+        }
+      ]
+    },
+    {
+      "id": "tl0153",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 469
+        }
+      ]
+    },
+    {
+      "id": "tl0153",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 593
+        }
+      ]
+    },
+    {
+      "id": "tl0154",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 469
+        }
+      ]
+    },
+    {
+      "id": "tl0154",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 593
+        }
+      ]
+    },
+    {
+      "id": "tl0156",
+      "course": "Oni",
+      "notices": [
+        {
+          "type": "redundant_roll_end",
+          "line": 67
+        }
+      ]
+    },
+    {
+      "id": "tl0156",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 285
+        }
+      ]
+    },
+    {
+      "id": "tl0156",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 422
+        }
+      ]
+    },
+    {
+      "id": "tl0156",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 559
+        }
+      ]
+    },
+    {
+      "id": "tl0158",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 422
+        }
+      ]
+    },
+    {
+      "id": "tl0158",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 544
+        }
+      ]
+    },
+    {
+      "id": "tl0163",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 255
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 329
+        }
+      ]
+    },
+    {
+      "id": "tl0163",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 347
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 421
+        }
+      ]
+    },
+    {
+      "id": "tl0166",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 399
+        }
+      ]
+    },
+    {
+      "id": "tl0166",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 485
+        }
+      ]
+    },
+    {
+      "id": "tl0167",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 386
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 416
+        }
+      ]
+    },
+    {
+      "id": "tl0167",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 498
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 528
+        }
+      ]
+    },
+    {
+      "id": "tl0167",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 610
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 640
+        }
+      ]
+    },
+    {
+      "id": "tl0177",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 345
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 385
+        }
+      ]
+    },
+    {
+      "id": "tl0177",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 475
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 515
+        }
+      ]
+    },
+    {
+      "id": "tl0177",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 605
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 645
+        }
+      ]
+    },
+    {
+      "id": "tl0182",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 387
+        }
+      ]
+    },
+    {
+      "id": "tl0182",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 477
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 514
+        }
+      ]
+    },
+    {
+      "id": "tl0182",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 604
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 641
+        }
+      ]
+    },
+    {
+      "id": "tl0188",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 256
+        }
+      ]
+    },
+    {
+      "id": "tl0188",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 346
+        }
+      ]
+    },
+    {
+      "id": "tl0188",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 436
+        }
+      ]
+    },
+    {
+      "id": "tl0193",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 398
+        }
+      ]
+    },
+    {
+      "id": "tl0199",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 556
+        }
+      ]
+    },
+    {
+      "id": "tl0201",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 780
+        }
+      ]
+    },
+    {
+      "id": "tl0202",
+      "course": "Hard",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 687
+        }
+      ]
+    },
+    {
+      "id": "tl0202",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1050
+        }
+      ]
+    },
+    {
+      "id": "tl0202",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1413
+        }
+      ]
+    },
+    {
+      "id": "tl0206",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 278
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 327
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 332
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 381
+        }
+      ]
+    },
+    {
+      "id": "tl0206",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 404
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 453
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 458
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 507
+        }
+      ]
+    },
+    {
+      "id": "tl0208",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1068
+        }
+      ]
+    },
+    {
+      "id": "tl0208",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 1321
+        }
+      ]
+    },
+    {
+      "id": "tl0210",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 638
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 739
+        }
+      ]
+    },
+    {
+      "id": "tl0210",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 814
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 914
+        }
+      ]
+    },
+    {
+      "id": "tl0212",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 369
+        }
+      ]
+    },
+    {
+      "id": "tl0212",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 479
+        }
+      ]
+    },
+    {
+      "id": "tl0214",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 391
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 414
+        }
+      ]
+    },
+    {
+      "id": "tl0214",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 553
+        }
+      ]
+    },
+    {
+      "id": "tl0216",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 393
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 395
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 403
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 405
+        }
+      ]
+    },
+    {
+      "id": "tl0216",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 544
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 546
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 554
+        },
+        {
+          "type": "additional_kusudama_marker",
+          "line": 556
+        }
+      ]
+    },
+    {
+      "id": "tl0219",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 618
+        }
+      ]
+    },
+    {
+      "id": "tl0221",
+      "course": "Normal",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 469
+        }
+      ]
+    },
+    {
+      "id": "tl0221",
+      "course": "Easy",
+      "notices": [
+        {
+          "type": "additional_kusudama_marker",
+          "line": 678
+        }
+      ]
+    }
+  ],
+  "lyrics": [
+    {
+      "id": "tl0033",
+      "course": "Ura",
+      "events": [
+        {
+          "ms": 32921.831168831115,
+          "text": "Daitan futeki ni haikara kakume",
+          "line": 44
+        },
+        {
+          "ms": 36038.71428571434,
+          "text": "Rairai rakuraku hansen kokka",
+          "line": 47
+        },
+        {
+          "ms": 39155.59740259757,
+          "text": "Hinomaru jirushi no nirinsha korogashi",
+          "line": 50
+        },
+        {
+          "ms": 42272.48051948079,
+          "text": "Akuryou taisan ICBM",
+          "line": 53
+        },
+        {
+          "ms": 45389.36363636402,
+          "text": "Kanjousen o hashirinukete",
+          "line": 56
+        },
+        {
+          "ms": 48506.246753247186,
+          "text": "Touhon seisou nan no sono",
+          "line": 59
+        },
+        {
+          "ms": 51623.12987013035,
+          "text": "Shounen shoujo sengoku musou",
+          "line": 62
+        },
+        {
+          "ms": 54350.40259740312,
+          "text": "Ukiyo no manima ni",
+          "line": 65
+        },
+        {
+          "ms": 57467.28571428624,
+          "text": "Senbonzakura yoru ni magire",
+          "line": 69
+        },
+        {
+          "ms": 60584.16883116945,
+          "text": "Kimi no koe mo todokanai yo",
+          "line": 75
+        },
+        {
+          "ms": 63701.05194805268,
+          "text": "Koko wa utage hagane no ori",
+          "line": 79
+        },
+        {
+          "ms": 66817.9350649359,
+          "text": "So no dantoudai de mioroshite",
+          "line": 83
+        },
+        {
+          "ms": 69934.81818181912,
+          "text": "Sanzen sekai tokoyo no yami",
+          "line": 87
+        },
+        {
+          "ms": 73051.70129870235,
+          "text": "Nageku uta mo kikoenai yo",
+          "line": 91
+        },
+        {
+          "ms": 76168.58441558557,
+          "text": "Seiran no sora haruka kanata",
+          "line": 95
+        },
+        {
+          "ms": 79285.4675324688,
+          "text": "So no kousenjuu de uchinuite",
+          "line": 99
+        },
+        {
+          "ms": 82791.96103896243,
+          "text": "",
+          "line": 105
+        },
+        {
+          "ms": 113960.79220779463,
+          "text": "Kanjousen o hashirinukete",
+          "line": 126
+        },
+        {
+          "ms": 117077.6753246778,
+          "text": "Touhon seisou nan no sono",
+          "line": 129
+        },
+        {
+          "ms": 120194.55844156102,
+          "text": "Shounen shoujo sengoku musou",
+          "line": 132
+        },
+        {
+          "ms": 122921.83116883379,
+          "text": "Ukiyo no manima ni",
+          "line": 135
+        },
+        {
+          "ms": 126038.71428571697,
+          "text": "Senbonzakura yoru ni magire",
+          "line": 139
+        },
+        {
+          "ms": 129155.59740260008,
+          "text": "Kimi no koe mo todokanai yo",
+          "line": 143
+        },
+        {
+          "ms": 132272.48051948324,
+          "text": "Koko wa utage hagane no ori",
+          "line": 147
+        },
+        {
+          "ms": 135389.36363636647,
+          "text": "So no dantoudai o tobiorite",
+          "line": 151
+        },
+        {
+          "ms": 138506.2467532497,
+          "text": "Senbonzakura yoru ni magire",
+          "line": 155
+        },
+        {
+          "ms": 141623.12987013292,
+          "text": "Kimi ga utai boku wa odoru",
+          "line": 161
+        },
+        {
+          "ms": 144740.01298701615,
+          "text": "Koko wa utage hagane no ori",
+          "line": 165
+        },
+        {
+          "ms": 147856.89610389937,
+          "text": "Saa kousenjuu o uchimakure",
+          "line": 169
+        },
+        {
+          "ms": 151363.389610393,
+          "text": "",
+          "line": 175
+        }
+      ]
+    },
+    {
+      "id": "tl0039",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 1697.1176470588234,
+          "text": "Tousan kaasan ima made gomen",
+          "line": 22
+        },
+        {
+          "ms": 6402.999999999998,
+          "text": "Hiza o furuwase oyayubi shaburu",
+          "line": 29
+        },
+        {
+          "ms": 11108.882352941191,
+          "text": "Niisan neesan sore jaa mata ne",
+          "line": 36
+        },
+        {
+          "ms": 15814.764705882395,
+          "text": "Saenai kutsu no kakato tsubushita",
+          "line": 43
+        },
+        {
+          "ms": 19923.938061812296,
+          "text": "YAY",
+          "line": 53
+        },
+        {
+          "ms": 20218.05570887112,
+          "text": "",
+          "line": 57
+        },
+        {
+          "ms": 29923.938061812354,
+          "text": "Mie hatta size de katagami o toru",
+          "line": 70
+        },
+        {
+          "ms": 34629.82041475356,
+          "text": "Nandatte ii no sa kawari ni nareba",
+          "line": 77
+        },
+        {
+          "ms": 38600.4086500477,
+          "text": "Aisaretai to kuchi o koboshita",
+          "line": 82
+        },
+        {
+          "ms": 43159.23217945949,
+          "text": "Motta joubuna hasami de kao o kiritoru no sa",
+          "line": 89
+        },
+        {
+          "ms": 47570.99688534187,
+          "text": "Zenchi zennou no kotoba o hora kikasete yo",
+          "line": 96
+        },
+        {
+          "ms": 52276.87923828307,
+          "text": "Noumiso igai mou irenai to why not? I don’t know",
+          "line": 105
+        },
+        {
+          "ms": 56982.761591224276,
+          "text": "Kinmirai souzou asu no shousou tada yurashite yo",
+          "line": 112
+        },
+        {
+          "ms": 61688.64394416548,
+          "text": "Nuime no sukima o umete okure",
+          "line": 119
+        },
+        {
+          "ms": 67129.82041475365,
+          "text": "",
+          "line": 128
+        },
+        {
+          "ms": 75758.47877464896,
+          "text": "Mou nanimo nai yo nanimo nai yo hikihagasarete",
+          "line": 143
+        },
+        {
+          "ms": 80517.96877754694,
+          "text": "Itokuzu no umi e to kono saibou mo",
+          "line": 153
+        },
+        {
+          "ms": 85223.85113048814,
+          "text": "Sou boku inai yo boku inai yo nagesuterarete",
+          "line": 160
+        },
+        {
+          "ms": 89929.73348342934,
+          "text": "Kaeru basho sura doko ni mo nain da yo",
+          "line": 169
+        },
+        {
+          "ms": 94629.87695545216,
+          "text": "Sonzai shoumei",
+          "line": 180
+        },
+        {
+          "ms": 95512.22989662855,
+          "text": "",
+          "line": 182
+        },
+        {
+          "ms": 95806.34754368734,
+          "text": "Aa, shut up usodarake no karada",
+          "line": 185
+        },
+        {
+          "ms": 99335.7593083929,
+          "text": "Kansei shitai yo kuru shitai yo ima kaitou o",
+          "line": 190
+        },
+        {
+          "ms": 104041.64166133363,
+          "text": "Kawarenai no? Kawaretai no?",
+          "line": 197
+        },
+        {
+          "ms": 106394.582837804,
+          "text": "Nanimo nai? Konna no boku janai!",
+          "line": 202
+        },
+        {
+          "ms": 108747.52401427437,
+          "text": "Nuime wa hodokete hikichigireta",
+          "line": 206
+        },
+        {
+          "ms": 114335.75930839161,
+          "text": "",
+          "line": 214
+        },
+        {
+          "ms": 124041.64166133189,
+          "text": "Nietatta days de inochi bi o tatsu",
+          "line": 226
+        },
+        {
+          "ms": 128747.52401427263,
+          "text": "Dare datta ii no sa kawari ni nareba",
+          "line": 233
+        },
+        {
+          "ms": 132718.1122495664,
+          "text": "",
+          "line": 238
+        }
+      ]
+    },
+    {
+      "id": "tl0041",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 16555.894736842176,
+          "text": "Dance!",
+          "line": 39
+        },
+        {
+          "ms": 17029.578947368496,
+          "text": "Jizai no step to step datte",
+          "line": 41
+        },
+        {
+          "ms": 19082.210526315885,
+          "text": "Program no hanchuu sa",
+          "line": 44
+        },
+        {
+          "ms": 21608.526315789593,
+          "text": "You!",
+          "line": 47
+        },
+        {
+          "ms": 22082.210526315914,
+          "text": "Kokyuu o midashite iru?",
+          "line": 49
+        },
+        {
+          "ms": 23661.15789473698,
+          "text": "Nante hi kouritsuteki deshou",
+          "line": 52
+        },
+        {
+          "ms": 25871.684210526477,
+          "text": "Robot dance",
+          "line": 56
+        },
+        {
+          "ms": 27924.315789473865,
+          "text": "",
+          "line": 61
+        },
+        {
+          "ms": 31713.78947368443,
+          "text": "Lock!",
+          "line": 67
+        },
+        {
+          "ms": 32187.47368421075,
+          "text": "Kawashite eye to eye",
+          "line": 69
+        },
+        {
+          "ms": 33766.42105263181,
+          "text": "Sude ni jigen mo koeta senjou da",
+          "line": 72
+        },
+        {
+          "ms": 36766.42105263184,
+          "text": "AI",
+          "line": 76
+        },
+        {
+          "ms": 37240.10526315816,
+          "text": "Shikou o midashite iru",
+          "line": 78
+        },
+        {
+          "ms": 38819.05263157923,
+          "text": "Mune ga takanatte iku",
+          "line": 81
+        },
+        {
+          "ms": 40555.894736842405,
+          "text": "In",
+          "line": 84
+        },
+        {
+          "ms": 40871.68421052662,
+          "text": "Inpu",
+          "line": 86
+        },
+        {
+          "ms": 41187.47368421083,
+          "text": "Input",
+          "line": 88
+        },
+        {
+          "ms": 41819.05263157926,
+          "text": "Up",
+          "line": 90
+        },
+        {
+          "ms": 42450.63157894769,
+          "text": "Up side",
+          "line": 92
+        },
+        {
+          "ms": 43082.210526316114,
+          "text": "Up",
+          "line": 94
+        },
+        {
+          "ms": 43398.00000000033,
+          "text": "Up side",
+          "line": 96
+        },
+        {
+          "ms": 43713.78947368454,
+          "text": "Up side down",
+          "line": 98
+        },
+        {
+          "ms": 44345.36842105297,
+          "text": "Up",
+          "line": 100
+        },
+        {
+          "ms": 44661.15789473718,
+          "text": "Up side",
+          "line": 102
+        },
+        {
+          "ms": 44976.947368421395,
+          "text": "Up side down",
+          "line": 104
+        },
+        {
+          "ms": 45292.73684210561,
+          "text": "Up side down side",
+          "line": 106
+        },
+        {
+          "ms": 45608.52631578982,
+          "text": "Up",
+          "line": 108
+        },
+        {
+          "ms": 45924.315789474036,
+          "text": "Up and",
+          "line": 110
+        },
+        {
+          "ms": 46240.10526315825,
+          "text": "Up and down",
+          "line": 112
+        },
+        {
+          "ms": 46871.68421052668,
+          "text": "Left",
+          "line": 114
+        },
+        {
+          "ms": 47503.263157895104,
+          "text": "Left side",
+          "line": 116
+        },
+        {
+          "ms": 48134.84210526353,
+          "text": "Left",
+          "line": 118
+        },
+        {
+          "ms": 48450.631578947745,
+          "text": "Left side",
+          "line": 120
+        },
+        {
+          "ms": 48766.42105263196,
+          "text": "Left side right",
+          "line": 122
+        },
+        {
+          "ms": 49398.000000000386,
+          "text": "Left",
+          "line": 124
+        },
+        {
+          "ms": 49713.7894736846,
+          "text": "Left right",
+          "line": 126
+        },
+        {
+          "ms": 50029.57894736881,
+          "text": "Left right up",
+          "line": 128
+        },
+        {
+          "ms": 50345.36842105303,
+          "text": "Left right up down",
+          "line": 130
+        },
+        {
+          "ms": 50661.15789473724,
+          "text": "You",
+          "line": 132
+        },
+        {
+          "ms": 50976.94736842145,
+          "text": "You and",
+          "line": 134
+        },
+        {
+          "ms": 51292.73684210567,
+          "text": "You and me",
+          "line": 136
+        },
+        {
+          "ms": 51924.315789474094,
+          "text": "Tokimeku kokoro no motion ga",
+          "line": 140
+        },
+        {
+          "ms": 56976.94736842163,
+          "text": "Anata ni kyoumei shite yamanai no!",
+          "line": 145
+        },
+        {
+          "ms": 62029.57894736916,
+          "text": "Gouri to wa magyaku no program",
+          "line": 150
+        },
+        {
+          "ms": 66450.63157894803,
+          "text": "Shiritai",
+          "line": 155
+        },
+        {
+          "ms": 67713.78947368465,
+          "text": "Shiritai shiritai",
+          "line": 158
+        },
+        {
+          "ms": 68661.15789473712,
+          "text": "Nee",
+          "line": 161
+        },
+        {
+          "ms": 68976.94736842127,
+          "text": "Nee mo",
+          "line": 163
+        },
+        {
+          "ms": 69292.73684210543,
+          "text": "Nee motto",
+          "line": 165
+        },
+        {
+          "ms": 69608.52631578958,
+          "text": "Nee motto tsu",
+          "line": 167
+        },
+        {
+          "ms": 69924.3157894738,
+          "text": "Nee motto tsuki",
+          "line": 169
+        },
+        {
+          "ms": 70240.10526315801,
+          "text": "Nee motto tsukia",
+          "line": 171
+        },
+        {
+          "ms": 70871.68421052644,
+          "text": "Nee motto tsukiatte!",
+          "line": 173
+        },
+        {
+          "ms": 72134.84210526306,
+          "text": "Dance robot dance",
+          "line": 175
+        },
+        {
+          "ms": 73555.89473684202,
+          "text": "Mou ii kai?",
+          "line": 178
+        },
+        {
+          "ms": 74661.15789473677,
+          "text": "Dance robot dance",
+          "line": 180
+        },
+        {
+          "ms": 76082.21052631573,
+          "text": "Maada da yo",
+          "line": 183
+        },
+        {
+          "ms": 77187.47368421048,
+          "text": "Dance robot dance",
+          "line": 185
+        },
+        {
+          "ms": 78608.52631578944,
+          "text": "Mou ii kai?",
+          "line": 188
+        },
+        {
+          "ms": 79713.78947368418,
+          "text": "Dance robot dance",
+          "line": 190
+        },
+        {
+          "ms": 81134.84210526315,
+          "text": "Mou chotto!",
+          "line": 193
+        },
+        {
+          "ms": 82240.1052631579,
+          "text": "① Abunai koto wa shicha dame",
+          "line": 197
+        },
+        {
+          "ms": 84766.4210526316,
+          "text": "② Shiji ni wa shitagau koto",
+          "line": 200
+        },
+        {
+          "ms": 87292.73684210531,
+          "text": "③ Jibun no mi wa mamoru koto",
+          "line": 203
+        },
+        {
+          "ms": 89819.05263157902,
+          "text": "④ Dokidoki sasenai koto!",
+          "line": 206
+        },
+        {
+          "ms": 92345.36842105273,
+          "text": "Tokimeku kokoro no motion wa",
+          "line": 211
+        },
+        {
+          "ms": 97428.78215270772,
+          "text": "Anata ni tsutawariyashinai na",
+          "line": 218
+        },
+        {
+          "ms": 102481.41373165508,
+          "text": "kokyuu ya ondo no imi nante",
+          "line": 223
+        },
+        {
+          "ms": 106902.46636323405,
+          "text": "Shiranai",
+          "line": 228
+        },
+        {
+          "ms": 108165.6242579709,
+          "text": "Shiranai iranai",
+          "line": 231
+        },
+        {
+          "ms": 109112.99267902355,
+          "text": "Nee",
+          "line": 234
+        },
+        {
+          "ms": 109428.78215270776,
+          "text": "Nee mo",
+          "line": 236
+        },
+        {
+          "ms": 109744.57162639197,
+          "text": "Nee motto",
+          "line": 238
+        },
+        {
+          "ms": 110060.36110007619,
+          "text": "Nee motto chi",
+          "line": 242
+        },
+        {
+          "ms": 110368.43257265784,
+          "text": "Nee motto chika",
+          "line": 244
+        },
+        {
+          "ms": 110676.50404523949,
+          "text": "Nee motto chikazu",
+          "line": 246
+        },
+        {
+          "ms": 111138.61125411197,
+          "text": "Nee motto chikazui",
+          "line": 248
+        },
+        {
+          "ms": 111292.64699040279,
+          "text": "Nee motto chikazuite",
+          "line": 252
+        },
+        {
+          "ms": 112555.80488513941,
+          "text": "Koi to wa kokoro no bug nano sa",
+          "line": 256
+        },
+        {
+          "ms": 117608.4364640866,
+          "text": "Sore demo kyoumei shite,",
+          "line": 261
+        },
+        {
+          "ms": 120450.54172724452,
+          "text": "I",
+          "line": 265
+        },
+        {
+          "ms": 120766.33120092873,
+          "text": "Itai",
+          "line": 267
+        },
+        {
+          "ms": 121397.91014829716,
+          "text": "Itai no!",
+          "line": 269
+        },
+        {
+          "ms": 122661.06804303378,
+          "text": "Anata to watashi no singularity",
+          "line": 271
+        },
+        {
+          "ms": 127082.12067461277,
+          "text": "Gomen ne!",
+          "line": 276
+        },
+        {
+          "ms": 128345.27856934951,
+          "text": "Gomen ne! Gomen ne!",
+          "line": 279
+        },
+        {
+          "ms": 129292.64699040198,
+          "text": "Mou",
+          "line": 282
+        },
+        {
+          "ms": 129608.43646408613,
+          "text": "Mou zu",
+          "line": 284
+        },
+        {
+          "ms": 129924.22593777029,
+          "text": "Mou zutto",
+          "line": 286
+        },
+        {
+          "ms": 130240.01541145444,
+          "text": "Mou zutto tsu",
+          "line": 288
+        },
+        {
+          "ms": 130555.80488513866,
+          "text": "Mou zutto tsuki",
+          "line": 290
+        },
+        {
+          "ms": 130871.59435882287,
+          "text": "Mou zutto tsukia",
+          "line": 292
+        },
+        {
+          "ms": 131503.17330619128,
+          "text": "Mou zutto tsukiatte!",
+          "line": 294
+        },
+        {
+          "ms": 132766.3312009279,
+          "text": "Dance robot dance",
+          "line": 296
+        },
+        {
+          "ms": 134187.3838325066,
+          "text": "Mou ii kai?",
+          "line": 299
+        },
+        {
+          "ms": 135292.64699040115,
+          "text": "Dance robot dance",
+          "line": 301
+        },
+        {
+          "ms": 136713.69962197985,
+          "text": "Maada da yo",
+          "line": 304
+        },
+        {
+          "ms": 137818.9627798744,
+          "text": "Dance robot dance",
+          "line": 306
+        },
+        {
+          "ms": 139240.0154114531,
+          "text": "Mou ii kai",
+          "line": 309
+        },
+        {
+          "ms": 140345.27856934763,
+          "text": "Dance robot dance",
+          "line": 311
+        },
+        {
+          "ms": 141766.33120092633,
+          "text": "Mou ii yo!",
+          "line": 314
+        },
+        {
+          "ms": 142871.59435882088,
+          "text": "",
+          "line": 318
+        }
+      ]
+    },
+    {
+      "id": "tl0044",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 1365.0,
+          "text": "Boku ga zutto mae kara omotteru koto o hanasou ka?",
+          "line": 24
+        },
+        {
+          "ms": 6165.0,
+          "text": "Tomodachi ni modoretara kore ijou wa mou nozomanai sa",
+          "line": 32
+        },
+        {
+          "ms": 10965.0,
+          "text": "Kimi ga sore de ii nara boku datte sore de kamawanai sa",
+          "line": 38
+        },
+        {
+          "ms": 15765.0,
+          "text": "Usotsuki no boku ga haita hantai kotoba no ai no uta",
+          "line": 44
+        },
+        {
+          "ms": 22065.0,
+          "text": "",
+          "line": 51
+        },
+        {
+          "ms": 39765.0,
+          "text": "Kyou wa kotchi no chihou wa doshaburi no seiten deshita",
+          "line": 67
+        },
+        {
+          "ms": 44565.0,
+          "text": "Kinou mo zutto hima de ichinichi mankitsu shite mashita",
+          "line": 73
+        },
+        {
+          "ms": 49365.0,
+          "text": "Betsu ni kimi no koto nante kangaete nanka inai sa",
+          "line": 79
+        },
+        {
+          "ms": 54165.0,
+          "text": "Iya demo chotto hontou wa kangaeteta ka mo nante",
+          "line": 85
+        },
+        {
+          "ms": 58965.0,
+          "text": "Meriigourando mitai ni mawaru",
+          "line": 91
+        },
+        {
+          "ms": 62265.0,
+          "text": "Boku no atamannaka wa mou guruguru sa",
+          "line": 98
+        },
+        {
+          "ms": 66414.81008133249,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 111
+        },
+        {
+          "ms": 71092.05374697296,
+          "text": "Kimi ni moratta ai wa doko ni suteyou?",
+          "line": 123
+        },
+        {
+          "ms": 75774.98057624119,
+          "text": "Kagiri no aru shoumouhin nante boku wa",
+          "line": 129
+        },
+        {
+          "ms": 82842.8385815538,
+          "text": "Iranai yo",
+          "line": 141
+        },
+        {
+          "ms": 85219.07620531615,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 145
+        },
+        {
+          "ms": 89910.69658686643,
+          "text": "Kimi ni watasu ai o dare ni yuzurou?",
+          "line": 155
+        },
+        {
+          "ms": 94593.62341613465,
+          "text": "Sonnan doko ni mo ate ga aru wake nai daro",
+          "line": 161
+        },
+        {
+          "ms": 101661.48142144727,
+          "text": "Mada matsu yo",
+          "line": 171
+        },
+        {
+          "ms": 108213.86800338901,
+          "text": "Mou ii kai?",
+          "line": 180
+        },
+        {
+          "ms": 110596.01666601645,
+          "text": "",
+          "line": 185
+        }
+      ]
+    },
+    {
+      "id": "tl0044",
+      "course": "Hard",
+      "events": [
+        {
+          "ms": 1365.0,
+          "text": "Boku ga zutto mae kara omotteru koto o hanasou ka?",
+          "line": 220
+        },
+        {
+          "ms": 6165.0,
+          "text": "Tomodachi ni modoretara kore ijou wa mou nozomanai sa",
+          "line": 228
+        },
+        {
+          "ms": 10965.0,
+          "text": "Kimi ga sore de ii nara boku datte sore de kamawanai sa",
+          "line": 234
+        },
+        {
+          "ms": 15765.0,
+          "text": "Usotsuki no boku ga haita hantai kotoba no ai no uta",
+          "line": 240
+        },
+        {
+          "ms": 22065.0,
+          "text": "",
+          "line": 247
+        },
+        {
+          "ms": 39765.0,
+          "text": "Kyou wa kotchi no chihou wa doshaburi no seiten deshita",
+          "line": 263
+        },
+        {
+          "ms": 44565.0,
+          "text": "Kinou mo zutto hima de ichinichi mankitsu shite mashita",
+          "line": 269
+        },
+        {
+          "ms": 49365.0,
+          "text": "Betsu ni kimi no koto nante kangaete nanka inai sa",
+          "line": 275
+        },
+        {
+          "ms": 54165.0,
+          "text": "Iya demo chotto hontou wa kangaeteta ka mo nante",
+          "line": 281
+        },
+        {
+          "ms": 58965.0,
+          "text": "Meriigourando mitai ni mawaru",
+          "line": 287
+        },
+        {
+          "ms": 62265.0,
+          "text": "Boku no atamannaka wa mou guruguru sa",
+          "line": 294
+        },
+        {
+          "ms": 66414.81008133251,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 307
+        },
+        {
+          "ms": 71092.053746973,
+          "text": "Kimi ni moratta ai wa doko ni suteyou?",
+          "line": 319
+        },
+        {
+          "ms": 75774.98057624123,
+          "text": "Kagiri no aru shoumouhin nante boku wa",
+          "line": 325
+        },
+        {
+          "ms": 82842.83858155385,
+          "text": "Iranai yo",
+          "line": 337
+        },
+        {
+          "ms": 85219.0762053163,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 341
+        },
+        {
+          "ms": 89910.6965868667,
+          "text": "Kimi ni watasu ai o dare ni yuzurou?",
+          "line": 351
+        },
+        {
+          "ms": 94593.62341613493,
+          "text": "Sonnan doko ni mo ate ga aru wake nai daro",
+          "line": 357
+        },
+        {
+          "ms": 101661.48142144755,
+          "text": "Mada matsu yo",
+          "line": 367
+        },
+        {
+          "ms": 108213.86800338952,
+          "text": "Mou ii kai?",
+          "line": 376
+        },
+        {
+          "ms": 110596.01666601696,
+          "text": "",
+          "line": 381
+        }
+      ]
+    },
+    {
+      "id": "tl0044",
+      "course": "Normal",
+      "events": [
+        {
+          "ms": 1365.0,
+          "text": "Boku ga zutto mae kara omotteru koto o hanasou ka?",
+          "line": 416
+        },
+        {
+          "ms": 6165.0,
+          "text": "Tomodachi ni modoretara kore ijou wa mou nozomanai sa",
+          "line": 424
+        },
+        {
+          "ms": 10965.0,
+          "text": "Kimi ga sore de ii nara boku datte sore de kamawanai sa",
+          "line": 430
+        },
+        {
+          "ms": 15765.0,
+          "text": "Usotsuki no boku ga haita hantai kotoba no ai no uta",
+          "line": 436
+        },
+        {
+          "ms": 22065.0,
+          "text": "",
+          "line": 443
+        },
+        {
+          "ms": 39765.0,
+          "text": "Kyou wa kotchi no chihou wa doshaburi no seiten deshita",
+          "line": 459
+        },
+        {
+          "ms": 44565.0,
+          "text": "Kinou mo zutto hima de ichinichi mankitsu shite mashita",
+          "line": 465
+        },
+        {
+          "ms": 49365.0,
+          "text": "Betsu ni kimi no koto nante kangaete nanka inai sa",
+          "line": 471
+        },
+        {
+          "ms": 54165.0,
+          "text": "Iya demo chotto hontou wa kangaeteta ka mo nante",
+          "line": 477
+        },
+        {
+          "ms": 58965.0,
+          "text": "Meriigourando mitai ni mawaru",
+          "line": 483
+        },
+        {
+          "ms": 62265.0,
+          "text": "Boku no atamannaka wa mou guruguru sa",
+          "line": 490
+        },
+        {
+          "ms": 66414.81008133254,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 503
+        },
+        {
+          "ms": 71092.05374697305,
+          "text": "Kimi ni moratta ai wa doko ni suteyou?",
+          "line": 515
+        },
+        {
+          "ms": 75774.9805762413,
+          "text": "Kagiri no aru shoumouhin nante boku wa",
+          "line": 521
+        },
+        {
+          "ms": 82842.83858155421,
+          "text": "Iranai yo",
+          "line": 533
+        },
+        {
+          "ms": 85219.07620531668,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 537
+        },
+        {
+          "ms": 89910.6965868671,
+          "text": "Kimi ni watasu ai o dare ni yuzurou?",
+          "line": 547
+        },
+        {
+          "ms": 94593.62341613535,
+          "text": "Sonnan doko ni mo ate ga aru wake nai daro",
+          "line": 553
+        },
+        {
+          "ms": 101661.48142144826,
+          "text": "Mada matsu yo",
+          "line": 563
+        },
+        {
+          "ms": 108213.86800339005,
+          "text": "Mou ii kai?",
+          "line": 572
+        },
+        {
+          "ms": 110596.01666601772,
+          "text": "",
+          "line": 577
+        }
+      ]
+    },
+    {
+      "id": "tl0044",
+      "course": "Easy",
+      "events": [
+        {
+          "ms": 1365.0,
+          "text": "Boku ga zutto mae kara omotteru koto o hanasou ka?",
+          "line": 612
+        },
+        {
+          "ms": 6165.0,
+          "text": "Tomodachi ni modoretara kore ijou wa mou nozomanai sa",
+          "line": 620
+        },
+        {
+          "ms": 10965.0,
+          "text": "Kimi ga sore de ii nara boku datte sore de kamawanai sa",
+          "line": 626
+        },
+        {
+          "ms": 15765.0,
+          "text": "Usotsuki no boku ga haita hantai kotoba no ai no uta",
+          "line": 632
+        },
+        {
+          "ms": 22065.0,
+          "text": "",
+          "line": 639
+        },
+        {
+          "ms": 39765.0,
+          "text": "Kyou wa kotchi no chihou wa doshaburi no seiten deshita",
+          "line": 655
+        },
+        {
+          "ms": 44565.0,
+          "text": "Kinou mo zutto hima de ichinichi mankitsu shite mashita",
+          "line": 661
+        },
+        {
+          "ms": 49365.0,
+          "text": "Betsu ni kimi no koto nante kangaete nanka inai sa",
+          "line": 667
+        },
+        {
+          "ms": 54165.0,
+          "text": "Iya demo chotto hontou wa kangaeteta ka mo nante",
+          "line": 673
+        },
+        {
+          "ms": 58965.0,
+          "text": "Meriigourando mitai ni mawaru",
+          "line": 679
+        },
+        {
+          "ms": 62265.0,
+          "text": "Boku no atamannaka wa mou guruguru sa",
+          "line": 686
+        },
+        {
+          "ms": 66414.81008133254,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 699
+        },
+        {
+          "ms": 71092.05374697306,
+          "text": "Kimi ni moratta ai wa doko ni suteyou?",
+          "line": 711
+        },
+        {
+          "ms": 75774.98057624132,
+          "text": "Kagiri no aru shoumouhin nante boku wa",
+          "line": 717
+        },
+        {
+          "ms": 82842.83858155424,
+          "text": "Iranai yo",
+          "line": 729
+        },
+        {
+          "ms": 85219.07620531671,
+          "text": "Kono ryoute kara koboresou na hodo",
+          "line": 733
+        },
+        {
+          "ms": 89910.69658686714,
+          "text": "Kimi ni watasu ai o dare ni yuzurou?",
+          "line": 743
+        },
+        {
+          "ms": 94593.6234161354,
+          "text": "Sonnan doko ni mo ate ga aru wake nai daro",
+          "line": 749
+        },
+        {
+          "ms": 101661.48142144832,
+          "text": "Mada matsu yo",
+          "line": 759
+        },
+        {
+          "ms": 108213.8680033901,
+          "text": "Mou ii kai?",
+          "line": 768
+        },
+        {
+          "ms": 110596.01666601756,
+          "text": "",
+          "line": 773
+        }
+      ]
+    },
+    {
+      "id": "tl0047",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 16555.894736842176,
+          "text": "Dance!",
+          "line": 39
+        },
+        {
+          "ms": 17029.578947368496,
+          "text": "Jizai no step to step datte",
+          "line": 41
+        },
+        {
+          "ms": 19082.210526315885,
+          "text": "Program no hanchuu sa",
+          "line": 44
+        },
+        {
+          "ms": 21608.526315789593,
+          "text": "You!",
+          "line": 47
+        },
+        {
+          "ms": 22082.210526315914,
+          "text": "Kokyuu o midashite iru?",
+          "line": 49
+        },
+        {
+          "ms": 23661.15789473698,
+          "text": "Nante hi kouritsuteki deshou",
+          "line": 52
+        },
+        {
+          "ms": 25871.684210526477,
+          "text": "Robot dance",
+          "line": 56
+        },
+        {
+          "ms": 27924.315789473865,
+          "text": "",
+          "line": 61
+        },
+        {
+          "ms": 31713.78947368443,
+          "text": "Lock!",
+          "line": 67
+        },
+        {
+          "ms": 32187.47368421075,
+          "text": "Kawashite eye to eye",
+          "line": 69
+        },
+        {
+          "ms": 33766.42105263181,
+          "text": "Sude ni jigen mo koeta senjou da",
+          "line": 72
+        },
+        {
+          "ms": 36766.42105263184,
+          "text": "AI",
+          "line": 76
+        },
+        {
+          "ms": 37240.10526315816,
+          "text": "Shikou o midashite iru",
+          "line": 78
+        },
+        {
+          "ms": 38819.05263157923,
+          "text": "Mune ga takanatte iku",
+          "line": 81
+        },
+        {
+          "ms": 40555.894736842405,
+          "text": "In",
+          "line": 84
+        },
+        {
+          "ms": 40871.68421052662,
+          "text": "Inpu",
+          "line": 86
+        },
+        {
+          "ms": 41187.47368421083,
+          "text": "Input",
+          "line": 88
+        },
+        {
+          "ms": 41819.05263157926,
+          "text": "Up",
+          "line": 90
+        },
+        {
+          "ms": 42450.63157894769,
+          "text": "Up side",
+          "line": 92
+        },
+        {
+          "ms": 43082.210526316114,
+          "text": "Up",
+          "line": 94
+        },
+        {
+          "ms": 43398.00000000033,
+          "text": "Up side",
+          "line": 96
+        },
+        {
+          "ms": 43713.78947368454,
+          "text": "Up side down",
+          "line": 98
+        },
+        {
+          "ms": 44345.36842105297,
+          "text": "Up",
+          "line": 100
+        },
+        {
+          "ms": 44661.15789473718,
+          "text": "Up side",
+          "line": 102
+        },
+        {
+          "ms": 44976.947368421395,
+          "text": "Up side down",
+          "line": 104
+        },
+        {
+          "ms": 45292.73684210561,
+          "text": "Up side down side",
+          "line": 106
+        },
+        {
+          "ms": 45608.52631578982,
+          "text": "Up",
+          "line": 108
+        },
+        {
+          "ms": 45924.315789474036,
+          "text": "Up and",
+          "line": 110
+        },
+        {
+          "ms": 46240.10526315825,
+          "text": "Up and down",
+          "line": 112
+        },
+        {
+          "ms": 46871.68421052668,
+          "text": "Left",
+          "line": 114
+        },
+        {
+          "ms": 47503.263157895104,
+          "text": "Left side",
+          "line": 116
+        },
+        {
+          "ms": 48134.84210526353,
+          "text": "Left",
+          "line": 118
+        },
+        {
+          "ms": 48450.631578947745,
+          "text": "Left side",
+          "line": 120
+        },
+        {
+          "ms": 48766.42105263196,
+          "text": "Left side right",
+          "line": 122
+        },
+        {
+          "ms": 49398.000000000386,
+          "text": "Left",
+          "line": 124
+        },
+        {
+          "ms": 49713.7894736846,
+          "text": "Left right",
+          "line": 126
+        },
+        {
+          "ms": 50029.57894736881,
+          "text": "Left right up",
+          "line": 128
+        },
+        {
+          "ms": 50345.36842105303,
+          "text": "Left right up down",
+          "line": 130
+        },
+        {
+          "ms": 50661.15789473724,
+          "text": "You",
+          "line": 132
+        },
+        {
+          "ms": 50976.94736842145,
+          "text": "You and",
+          "line": 134
+        },
+        {
+          "ms": 51292.73684210567,
+          "text": "You and me",
+          "line": 136
+        },
+        {
+          "ms": 51924.315789474094,
+          "text": "Tokimeku kokoro no motion ga",
+          "line": 140
+        },
+        {
+          "ms": 56976.94736842163,
+          "text": "Anata ni kyoumei shite yamanai no!",
+          "line": 145
+        },
+        {
+          "ms": 62029.57894736916,
+          "text": "Gouri to wa magyaku no program",
+          "line": 150
+        },
+        {
+          "ms": 66450.63157894803,
+          "text": "Shiritai",
+          "line": 155
+        },
+        {
+          "ms": 67713.78947368465,
+          "text": "Shiritai shiritai",
+          "line": 158
+        },
+        {
+          "ms": 68661.15789473712,
+          "text": "Nee",
+          "line": 161
+        },
+        {
+          "ms": 68976.94736842127,
+          "text": "Nee mo",
+          "line": 163
+        },
+        {
+          "ms": 69292.73684210543,
+          "text": "Nee motto",
+          "line": 165
+        },
+        {
+          "ms": 69608.52631578958,
+          "text": "Nee motto tsu",
+          "line": 167
+        },
+        {
+          "ms": 69924.3157894738,
+          "text": "Nee motto tsuki",
+          "line": 169
+        },
+        {
+          "ms": 70240.10526315801,
+          "text": "Nee motto tsukia",
+          "line": 171
+        },
+        {
+          "ms": 70871.68421052644,
+          "text": "Nee motto tsukiatte!",
+          "line": 173
+        },
+        {
+          "ms": 72134.84210526306,
+          "text": "Dance robot dance",
+          "line": 175
+        },
+        {
+          "ms": 73555.89473684202,
+          "text": "Mou ii kai?",
+          "line": 178
+        },
+        {
+          "ms": 74661.15789473677,
+          "text": "Dance robot dance",
+          "line": 180
+        },
+        {
+          "ms": 76082.21052631573,
+          "text": "Maada da yo",
+          "line": 183
+        },
+        {
+          "ms": 77187.47368421048,
+          "text": "Dance robot dance",
+          "line": 185
+        },
+        {
+          "ms": 78608.52631578944,
+          "text": "Mou ii kai?",
+          "line": 188
+        },
+        {
+          "ms": 79713.78947368418,
+          "text": "Dance robot dance",
+          "line": 190
+        },
+        {
+          "ms": 81134.84210526315,
+          "text": "Mou chotto!",
+          "line": 193
+        },
+        {
+          "ms": 82240.1052631579,
+          "text": "① Abunai koto wa shicha dame",
+          "line": 197
+        },
+        {
+          "ms": 84766.4210526316,
+          "text": "② Shiji ni wa shitagau koto",
+          "line": 200
+        },
+        {
+          "ms": 87292.73684210531,
+          "text": "③ Jibun no mi wa mamoru koto",
+          "line": 203
+        },
+        {
+          "ms": 89819.05263157902,
+          "text": "④ Dokidoki sasenai koto!",
+          "line": 206
+        },
+        {
+          "ms": 92345.36842105273,
+          "text": "Tokimeku kokoro no motion wa",
+          "line": 211
+        },
+        {
+          "ms": 97428.78215270772,
+          "text": "Anata ni tsutawariyashinai na",
+          "line": 218
+        },
+        {
+          "ms": 102481.41373165508,
+          "text": "kokyuu ya ondo no imi nante",
+          "line": 223
+        },
+        {
+          "ms": 106902.46636323405,
+          "text": "Shiranai",
+          "line": 228
+        },
+        {
+          "ms": 108165.6242579709,
+          "text": "Shiranai iranai",
+          "line": 231
+        },
+        {
+          "ms": 109112.99267902355,
+          "text": "Nee",
+          "line": 234
+        },
+        {
+          "ms": 109428.78215270776,
+          "text": "Nee mo",
+          "line": 236
+        },
+        {
+          "ms": 109744.57162639197,
+          "text": "Nee motto",
+          "line": 238
+        },
+        {
+          "ms": 110060.36110007619,
+          "text": "Nee motto chi",
+          "line": 242
+        },
+        {
+          "ms": 110368.43257265784,
+          "text": "Nee motto chika",
+          "line": 244
+        },
+        {
+          "ms": 110676.50404523949,
+          "text": "Nee motto chikazu",
+          "line": 246
+        },
+        {
+          "ms": 111138.61125411197,
+          "text": "Nee motto chikazui",
+          "line": 248
+        },
+        {
+          "ms": 111292.64699040279,
+          "text": "Nee motto chikazuite",
+          "line": 252
+        },
+        {
+          "ms": 112555.80488513941,
+          "text": "Koi to wa kokoro no bug nano sa",
+          "line": 256
+        },
+        {
+          "ms": 117608.4364640866,
+          "text": "Sore demo kyoumei shite,",
+          "line": 261
+        },
+        {
+          "ms": 120450.54172724452,
+          "text": "I",
+          "line": 265
+        },
+        {
+          "ms": 120766.33120092873,
+          "text": "Itai",
+          "line": 267
+        },
+        {
+          "ms": 121397.91014829716,
+          "text": "Itai no!",
+          "line": 269
+        },
+        {
+          "ms": 122661.06804303378,
+          "text": "Anata to watashi no singularity",
+          "line": 271
+        },
+        {
+          "ms": 127082.12067461277,
+          "text": "Gomen ne!",
+          "line": 276
+        },
+        {
+          "ms": 128345.27856934951,
+          "text": "Gomen ne! Gomen ne!",
+          "line": 279
+        },
+        {
+          "ms": 129292.64699040198,
+          "text": "Mou",
+          "line": 282
+        },
+        {
+          "ms": 129608.43646408613,
+          "text": "Mou zu",
+          "line": 284
+        },
+        {
+          "ms": 129924.22593777029,
+          "text": "Mou zutto",
+          "line": 286
+        },
+        {
+          "ms": 130240.01541145444,
+          "text": "Mou zutto tsu",
+          "line": 288
+        },
+        {
+          "ms": 130555.80488513866,
+          "text": "Mou zutto tsuki",
+          "line": 290
+        },
+        {
+          "ms": 130871.59435882287,
+          "text": "Mou zutto tsukia",
+          "line": 292
+        },
+        {
+          "ms": 131503.17330619128,
+          "text": "Mou zutto tsukiatte!",
+          "line": 294
+        },
+        {
+          "ms": 132766.3312009279,
+          "text": "Dance robot dance",
+          "line": 296
+        },
+        {
+          "ms": 134187.3838325066,
+          "text": "Mou ii kai?",
+          "line": 299
+        },
+        {
+          "ms": 135292.64699040115,
+          "text": "Dance robot dance",
+          "line": 301
+        },
+        {
+          "ms": 136713.69962197985,
+          "text": "Maada da yo",
+          "line": 304
+        },
+        {
+          "ms": 137818.9627798744,
+          "text": "Dance robot dance",
+          "line": 306
+        },
+        {
+          "ms": 139240.0154114531,
+          "text": "Mou ii kai",
+          "line": 309
+        },
+        {
+          "ms": 140345.27856934763,
+          "text": "Dance robot dance",
+          "line": 311
+        },
+        {
+          "ms": 141766.33120092633,
+          "text": "Mou ii yo!",
+          "line": 314
+        },
+        {
+          "ms": 142871.59435882088,
+          "text": "",
+          "line": 318
+        }
+      ]
+    },
+    {
+      "id": "tl0087",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 59279.903228713294,
+          "text": "*",
+          "line": 203
+        },
+        {
+          "ms": 60686.043374014414,
+          "text": "*",
+          "line": 205
+        },
+        {
+          "ms": 62092.183519315535,
+          "text": "* T",
+          "line": 207
+        },
+        {
+          "ms": 63498.323664616655,
+          "text": "* Th",
+          "line": 209
+        },
+        {
+          "ms": 64904.463809917776,
+          "text": "* Thr",
+          "line": 211
+        },
+        {
+          "ms": 66310.6039552189,
+          "text": "* Thro",
+          "line": 213
+        },
+        {
+          "ms": 67716.74410052002,
+          "text": "* Throu",
+          "line": 215
+        },
+        {
+          "ms": 69122.88424582114,
+          "text": "* Throug",
+          "line": 217
+        },
+        {
+          "ms": 70529.02439112226,
+          "text": "* Through",
+          "line": 220
+        },
+        {
+          "ms": 71935.16453642338,
+          "text": "* Through",
+          "line": 222
+        },
+        {
+          "ms": 73341.3046817245,
+          "text": "* Through D",
+          "line": 224
+        },
+        {
+          "ms": 74747.44482702563,
+          "text": "* Through DE",
+          "line": 226
+        },
+        {
+          "ms": 76153.58497232675,
+          "text": "* Through DET",
+          "line": 228
+        },
+        {
+          "ms": 77559.72511762787,
+          "text": "* Through DETE",
+          "line": 230
+        },
+        {
+          "ms": 78965.86526292899,
+          "text": "* Through DETER",
+          "line": 232
+        },
+        {
+          "ms": 80372.0054082301,
+          "text": "* Through DETERM",
+          "line": 235
+        },
+        {
+          "ms": 81778.14555353123,
+          "text": "* Through DETERMI",
+          "line": 237
+        },
+        {
+          "ms": 83184.28569883235,
+          "text": "* Through DETERMIN",
+          "line": 239
+        },
+        {
+          "ms": 84590.42584413347,
+          "text": "* Through DETERMINA",
+          "line": 241
+        },
+        {
+          "ms": 85996.56598943459,
+          "text": "* Through DETERMINAT",
+          "line": 243
+        },
+        {
+          "ms": 87402.70613473571,
+          "text": "* Through DETERMINATI",
+          "line": 245
+        },
+        {
+          "ms": 88808.84628003683,
+          "text": "* Through DETERMINATIO",
+          "line": 247
+        },
+        {
+          "ms": 90214.98642533795,
+          "text": "* Through DETERMINATION",
+          "line": 249
+        },
+        {
+          "ms": 91621.12657063907,
+          "text": "* Through DETERMINATION,",
+          "line": 251
+        },
+        {
+          "ms": 93027.26671594019,
+          "text": "* Through DETERMINATION,",
+          "line": 253
+        },
+        {
+          "ms": 94433.40686124131,
+          "text": "* Through DETERMINATION, t",
+          "line": 255
+        },
+        {
+          "ms": 95839.54700654243,
+          "text": "* Through DETERMINATION, th",
+          "line": 257
+        },
+        {
+          "ms": 97245.68715184355,
+          "text": "* Through DETERMINATION, the",
+          "line": 259
+        },
+        {
+          "ms": 98651.82729714467,
+          "text": "* Through DETERMINATION, the",
+          "line": 261
+        },
+        {
+          "ms": 100057.96744244579,
+          "text": "* Through DETERMINATION, the d",
+          "line": 263
+        },
+        {
+          "ms": 101464.10758774691,
+          "text": "* Through DETERMINATION, the dr",
+          "line": 265
+        },
+        {
+          "ms": 102870.24773304803,
+          "text": "* Through DETERMINATION, the dre",
+          "line": 268
+        },
+        {
+          "ms": 104276.38787834915,
+          "text": "* Through DETERMINATION, the drea",
+          "line": 270
+        },
+        {
+          "ms": 105682.52802365027,
+          "text": "* Through DETERMINATION, the dream",
+          "line": 272
+        },
+        {
+          "ms": 107088.6681689514,
+          "text": "* Through DETERMINATION, the dream",
+          "line": 274
+        },
+        {
+          "ms": 108494.80831425251,
+          "text": "* Through DETERMINATION, the dream b",
+          "line": 276
+        },
+        {
+          "ms": 109900.94845955363,
+          "text": "* Through DETERMINATION, the dream be",
+          "line": 278
+        },
+        {
+          "ms": 111307.08860485475,
+          "text": "* Through DETERMINATION, the dream bec",
+          "line": 280
+        },
+        {
+          "ms": 112713.22875015587,
+          "text": "* Through DETERMINATION, the dream beco",
+          "line": 282
+        },
+        {
+          "ms": 114119.368895457,
+          "text": "* Through DETERMINATION, the dream becom",
+          "line": 285
+        },
+        {
+          "ms": 115525.50904075812,
+          "text": "* Through DETERMINATION, the dream become",
+          "line": 287
+        },
+        {
+          "ms": 116931.64918605924,
+          "text": "* Through DETERMINATION, the dream become",
+          "line": 289
+        },
+        {
+          "ms": 118337.78933136036,
+          "text": "* Through DETERMINATION, the dream become t",
+          "line": 291
+        },
+        {
+          "ms": 119743.92947666148,
+          "text": "* Through DETERMINATION, the dream become tr",
+          "line": 293
+        },
+        {
+          "ms": 121150.0696219626,
+          "text": "* Through DETERMINATION, the dream become tru",
+          "line": 295
+        },
+        {
+          "ms": 122556.20976726372,
+          "text": "* Through DETERMINATION, the dream become true",
+          "line": 297
+        },
+        {
+          "ms": 123962.34991256484,
+          "text": "* Through DETERMINATION, the dream become true.",
+          "line": 299
+        },
+        {
+          "ms": 133805.33092967284,
+          "text": "",
+          "line": 313
+        }
+      ]
+    },
+    {
+      "id": "tl0087",
+      "course": "Hard",
+      "events": [
+        {
+          "ms": 69122.88424582162,
+          "text": "*",
+          "line": 598
+        },
+        {
+          "ms": 70529.02439112274,
+          "text": "*",
+          "line": 600
+        },
+        {
+          "ms": 71935.16453642386,
+          "text": "* Y",
+          "line": 602
+        },
+        {
+          "ms": 73341.30468172499,
+          "text": "* Yo",
+          "line": 604
+        },
+        {
+          "ms": 74747.4448270261,
+          "text": "* You",
+          "line": 606
+        },
+        {
+          "ms": 76153.58497232723,
+          "text": "* You",
+          "line": 608
+        },
+        {
+          "ms": 77559.72511762835,
+          "text": "* You t",
+          "line": 610
+        },
+        {
+          "ms": 78965.86526292947,
+          "text": "* You th",
+          "line": 612
+        },
+        {
+          "ms": 80372.00540823059,
+          "text": "* You thi",
+          "line": 615
+        },
+        {
+          "ms": 81778.1455535317,
+          "text": "* You thin",
+          "line": 617
+        },
+        {
+          "ms": 83184.28569883283,
+          "text": "* You think",
+          "line": 619
+        },
+        {
+          "ms": 84590.42584413395,
+          "text": "* You think",
+          "line": 621
+        },
+        {
+          "ms": 85996.56598943507,
+          "text": "* You think a",
+          "line": 623
+        },
+        {
+          "ms": 87402.70613473619,
+          "text": "* You think ab",
+          "line": 625
+        },
+        {
+          "ms": 88808.84628003731,
+          "text": "* You think abo",
+          "line": 627
+        },
+        {
+          "ms": 90214.98642533843,
+          "text": "* You think abou",
+          "line": 629
+        },
+        {
+          "ms": 91621.12657063955,
+          "text": "* You think about",
+          "line": 631
+        },
+        {
+          "ms": 93027.26671594067,
+          "text": "* You think about",
+          "line": 633
+        },
+        {
+          "ms": 94433.40686124179,
+          "text": "* You think about w",
+          "line": 635
+        },
+        {
+          "ms": 95839.54700654291,
+          "text": "* You think about wh",
+          "line": 637
+        },
+        {
+          "ms": 97245.68715184403,
+          "text": "* You think about why",
+          "line": 639
+        },
+        {
+          "ms": 98651.82729714515,
+          "text": "* You think about why",
+          "line": 641
+        },
+        {
+          "ms": 100057.96744244627,
+          "text": "* You think about why y",
+          "line": 643
+        },
+        {
+          "ms": 101464.10758774739,
+          "text": "* You think about why yo",
+          "line": 645
+        },
+        {
+          "ms": 102870.24773304851,
+          "text": "* You think about why you",
+          "line": 648
+        },
+        {
+          "ms": 104276.38787834963,
+          "text": "* You think about why you’",
+          "line": 650
+        },
+        {
+          "ms": 105682.52802365075,
+          "text": "* You think about why you’r",
+          "line": 652
+        },
+        {
+          "ms": 107088.66816895187,
+          "text": "* You think about why you’re",
+          "line": 654
+        },
+        {
+          "ms": 108494.808314253,
+          "text": "* You think about why you’re",
+          "line": 656
+        },
+        {
+          "ms": 109900.94845955411,
+          "text": "* You think about why you’re h",
+          "line": 658
+        },
+        {
+          "ms": 111307.08860485523,
+          "text": "* You think about why you’re he",
+          "line": 660
+        },
+        {
+          "ms": 112713.22875015636,
+          "text": "* You think about why you’re her",
+          "line": 662
+        },
+        {
+          "ms": 114119.36889545748,
+          "text": "* You think about why you’re her",
+          "line": 665
+        },
+        {
+          "ms": 115525.5090407586,
+          "text": "* You think about why you’re here",
+          "line": 667
+        },
+        {
+          "ms": 116931.64918605972,
+          "text": "* You think about why you’re here n",
+          "line": 669
+        },
+        {
+          "ms": 118337.78933136084,
+          "text": "* You think about why you’re here no",
+          "line": 671
+        },
+        {
+          "ms": 119743.92947666196,
+          "text": "* You think about why you’re here now",
+          "line": 673
+        },
+        {
+          "ms": 121150.06962196308,
+          "text": "* You think about why you’re here now.",
+          "line": 675
+        },
+        {
+          "ms": 122556.2097672642,
+          "text": "* You think about why you’re here now..",
+          "line": 677
+        },
+        {
+          "ms": 123962.34991256532,
+          "text": "* You think about why you’re here now...",
+          "line": 679
+        },
+        {
+          "ms": 133805.33092967334,
+          "text": "",
+          "line": 693
+        }
+      ]
+    },
+    {
+      "id": "tl0087",
+      "course": "Normal",
+      "events": [
+        {
+          "ms": 83184.2856988336,
+          "text": "*",
+          "line": 987
+        },
+        {
+          "ms": 84590.42584413472,
+          "text": "*",
+          "line": 989
+        },
+        {
+          "ms": 85996.56598943584,
+          "text": "* Y",
+          "line": 991
+        },
+        {
+          "ms": 87402.70613473696,
+          "text": "* Yo",
+          "line": 993
+        },
+        {
+          "ms": 88808.84628003808,
+          "text": "* You",
+          "line": 995
+        },
+        {
+          "ms": 90214.9864253392,
+          "text": "* You",
+          "line": 997
+        },
+        {
+          "ms": 91621.12657064032,
+          "text": "* You h",
+          "line": 999
+        },
+        {
+          "ms": 93027.26671594144,
+          "text": "* You he",
+          "line": 1001
+        },
+        {
+          "ms": 94433.40686124256,
+          "text": "* You hel",
+          "line": 1003
+        },
+        {
+          "ms": 95839.54700654368,
+          "text": "* You held",
+          "line": 1005
+        },
+        {
+          "ms": 97245.6871518448,
+          "text": "* You held",
+          "line": 1007
+        },
+        {
+          "ms": 98651.82729714592,
+          "text": "* You held o",
+          "line": 1009
+        },
+        {
+          "ms": 100057.96744244704,
+          "text": "* You held on",
+          "line": 1011
+        },
+        {
+          "ms": 101464.10758774816,
+          "text": "* You held on",
+          "line": 1013
+        },
+        {
+          "ms": 102870.24773304928,
+          "text": "* You held on t",
+          "line": 1016
+        },
+        {
+          "ms": 104276.3878783504,
+          "text": "* You held on to",
+          "line": 1018
+        },
+        {
+          "ms": 105682.52802365152,
+          "text": "* You held on to",
+          "line": 1020
+        },
+        {
+          "ms": 107088.66816895264,
+          "text": "* You held on to y",
+          "line": 1022
+        },
+        {
+          "ms": 108494.80831425377,
+          "text": "* You held on to yo",
+          "line": 1024
+        },
+        {
+          "ms": 109900.94845955489,
+          "text": "* You held on to you",
+          "line": 1026
+        },
+        {
+          "ms": 111307.088604856,
+          "text": "* You held on to your",
+          "line": 1028
+        },
+        {
+          "ms": 112713.22875015713,
+          "text": "* You held on to your",
+          "line": 1030
+        },
+        {
+          "ms": 114119.36889545825,
+          "text": "* You held on to your h",
+          "line": 1033
+        },
+        {
+          "ms": 115525.50904075937,
+          "text": "* You held on to your ho",
+          "line": 1035
+        },
+        {
+          "ms": 116931.64918606049,
+          "text": "* You held on to your hop",
+          "line": 1037
+        },
+        {
+          "ms": 118337.78933136161,
+          "text": "* You held on to your hope",
+          "line": 1039
+        },
+        {
+          "ms": 119743.92947666273,
+          "text": "* You held on to your hopes",
+          "line": 1041
+        },
+        {
+          "ms": 121150.06962196385,
+          "text": "* You held on to your hopes.",
+          "line": 1043
+        },
+        {
+          "ms": 122556.20976726497,
+          "text": "* You held on to your hopes..",
+          "line": 1045
+        },
+        {
+          "ms": 123962.34991256609,
+          "text": "* You held on to your hopes...",
+          "line": 1047
+        },
+        {
+          "ms": 133805.3309296741,
+          "text": "",
+          "line": 1061
+        }
+      ]
+    },
+    {
+      "id": "tl0087",
+      "course": "Easy",
+      "events": [
+        {
+          "ms": 101464.10758774854,
+          "text": "*",
+          "line": 1367
+        },
+        {
+          "ms": 102870.24773304966,
+          "text": "*",
+          "line": 1370
+        },
+        {
+          "ms": 104276.38787835078,
+          "text": "* B",
+          "line": 1372
+        },
+        {
+          "ms": 105682.5280236519,
+          "text": "* Bu",
+          "line": 1374
+        },
+        {
+          "ms": 107088.66816895302,
+          "text": "* But",
+          "line": 1376
+        },
+        {
+          "ms": 108494.80831425414,
+          "text": "* But",
+          "line": 1378
+        },
+        {
+          "ms": 109900.94845955526,
+          "text": "* But i",
+          "line": 1380
+        },
+        {
+          "ms": 111307.08860485638,
+          "text": "* But it",
+          "line": 1382
+        },
+        {
+          "ms": 112713.2287501575,
+          "text": "* But it",
+          "line": 1384
+        },
+        {
+          "ms": 114119.36889545863,
+          "text": "* But it r",
+          "line": 1387
+        },
+        {
+          "ms": 115525.50904075975,
+          "text": "* But it re",
+          "line": 1389
+        },
+        {
+          "ms": 116931.64918606087,
+          "text": "* But it ref",
+          "line": 1391
+        },
+        {
+          "ms": 118337.78933136199,
+          "text": "* But it refu",
+          "line": 1393
+        },
+        {
+          "ms": 119743.9294766631,
+          "text": "* But it refus",
+          "line": 1395
+        },
+        {
+          "ms": 121150.06962196423,
+          "text": "* But it refuse",
+          "line": 1397
+        },
+        {
+          "ms": 122556.20976726535,
+          "text": "* But it refused",
+          "line": 1399
+        },
+        {
+          "ms": 123962.34991256647,
+          "text": "* But it refused.",
+          "line": 1401
+        },
+        {
+          "ms": 133805.33092967447,
+          "text": "",
+          "line": 1415
+        }
+      ]
+    },
+    {
+      "id": "tl0218",
+      "course": "Oni",
+      "events": [
+        {
+          "ms": 5083.684210526317,
+          "text": "X-DAY2",
+          "line": 20
+        },
+        {
+          "ms": 6031.052631578949,
+          "text": "",
+          "line": 23
+        },
+        {
+          "ms": 8636.315789473689,
+          "text": "The time limit of your love is...",
+          "line": 27
+        },
+        {
+          "ms": 11083.684210526344,
+          "text": "",
+          "line": 31
+        },
+        {
+          "ms": 16767.894736842187,
+          "text": "...accesses",
+          "line": 37
+        },
+        {
+          "ms": 18031.05263157904,
+          "text": "\"The future connected with current state\"",
+          "line": 39
+        },
+        {
+          "ms": 21504.73684210539,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 43
+        },
+        {
+          "ms": 24346.84210526329,
+          "text": "BODY HEART MONEY",
+          "line": 47
+        },
+        {
+          "ms": 26083.684210526466,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 50
+        },
+        {
+          "ms": 29399.47368421071,
+          "text": "BODY HEART MONEY",
+          "line": 54
+        },
+        {
+          "ms": 31136.315789473883,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 57
+        },
+        {
+          "ms": 33188.94736842127,
+          "text": "XDAY2 wa",
+          "line": 60
+        },
+        {
+          "ms": 35083.68421052655,
+          "text": "Ima no mama no nariyuki de okoru mirai ni access shi,",
+          "line": 63
+        },
+        {
+          "ms": 38873.157894737116,
+          "text": "O-kyaku-sama no \"Ren ai jyumyou\" o kensaku shimasu.",
+          "line": 68
+        },
+        {
+          "ms": 42978.42105263189,
+          "text": "",
+          "line": 73
+        },
+        {
+          "ms": 54662.631578947796,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 84
+        },
+        {
+          "ms": 57820.52631578993,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 88
+        },
+        {
+          "ms": 59715.26315789521,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 91
+        },
+        {
+          "ms": 62873.15789473735,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 95
+        },
+        {
+          "ms": 64136.3157894742,
+          "text": "and retrieves your \"Love longevi",
+          "line": 98
+        },
+        {
+          "ms": 64215.26315789526,
+          "text": "and retrieves your \"Love lon",
+          "line": 100
+        },
+        {
+          "ms": 64294.21052631631,
+          "text": "and retrieves your \"Love",
+          "line": 102
+        },
+        {
+          "ms": 64373.157894737364,
+          "text": "and retrieves your \"",
+          "line": 104
+        },
+        {
+          "ms": 64452.10526315842,
+          "text": "and retrieves yo",
+          "line": 106
+        },
+        {
+          "ms": 64531.05263157947,
+          "text": "and retrieve",
+          "line": 108
+        },
+        {
+          "ms": 64610.000000000524,
+          "text": "and retr",
+          "line": 110
+        },
+        {
+          "ms": 64688.94736842158,
+          "text": "and",
+          "line": 112
+        },
+        {
+          "ms": 64767.89473684263,
+          "text": "",
+          "line": 115
+        },
+        {
+          "ms": 72504.73684210586,
+          "text": "O-kyaku sama no \"Ren ai jyumyou\" wa, ato",
+          "line": 124
+        },
+        {
+          "ms": 75662.631578948,
+          "text": "nanoka",
+          "line": 129
+        },
+        {
+          "ms": 77083.68421052696,
+          "text": "muika",
+          "line": 132
+        },
+        {
+          "ms": 78662.63157894803,
+          "text": "5 days",
+          "line": 135
+        },
+        {
+          "ms": 80083.68421052699,
+          "text": "4 days",
+          "line": 138
+        },
+        {
+          "ms": 81346.84210526384,
+          "text": "3 days",
+          "line": 141
+        },
+        {
+          "ms": 82767.8947368428,
+          "text": "2 days",
+          "line": 144
+        },
+        {
+          "ms": 84031.05263157966,
+          "text": "1 day",
+          "line": 148
+        },
+        {
+          "ms": 84978.4210526323,
+          "text": "",
+          "line": 150
+        },
+        {
+          "ms": 87188.94736842178,
+          "text": "The time limit of your love is the",
+          "line": 153
+        },
+        {
+          "ms": 90188.94736842178,
+          "text": "3 hours",
+          "line": 158
+        },
+        {
+          "ms": 91452.10526315864,
+          "text": "2 hours",
+          "line": 161
+        },
+        {
+          "ms": 92715.26315789549,
+          "text": "1 hour",
+          "line": 164
+        },
+        {
+          "ms": 93978.42105263234,
+          "text": "The time limit of your love is the",
+          "line": 167
+        },
+        {
+          "ms": 96662.63157894815,
+          "text": "3 minutes",
+          "line": 171
+        },
+        {
+          "ms": 98241.57894736921,
+          "text": "2 minutes",
+          "line": 174
+        },
+        {
+          "ms": 99662.63157894817,
+          "text": "1 minute",
+          "line": 177
+        },
+        {
+          "ms": 100925.78947368503,
+          "text": "The time limit of your love is the",
+          "line": 182
+        },
+        {
+          "ms": 103767.89473684295,
+          "text": "5 seconds",
+          "line": 186
+        },
+        {
+          "ms": 105504.73684210613,
+          "text": "4",
+          "line": 190
+        },
+        {
+          "ms": 106452.10526315877,
+          "text": "3",
+          "line": 192
+        },
+        {
+          "ms": 107478.42105263246,
+          "text": "2",
+          "line": 194
+        },
+        {
+          "ms": 108504.73684210615,
+          "text": "1",
+          "line": 197
+        },
+        {
+          "ms": 109531.05263157985,
+          "text": "0",
+          "line": 200
+        },
+        {
+          "ms": 110557.36842105354,
+          "text": "The end of your love.",
+          "line": 204
+        },
+        {
+          "ms": 112136.3157894745,
+          "text": "",
+          "line": 207
+        }
+      ]
+    },
+    {
+      "id": "tl0218",
+      "course": "Hard",
+      "events": [
+        {
+          "ms": 5083.684210526317,
+          "text": "X-DAY2",
+          "line": 222
+        },
+        {
+          "ms": 6031.052631578949,
+          "text": "",
+          "line": 225
+        },
+        {
+          "ms": 8636.315789473689,
+          "text": "The time limit of your love is...",
+          "line": 229
+        },
+        {
+          "ms": 11083.684210526322,
+          "text": "",
+          "line": 233
+        },
+        {
+          "ms": 16767.894736842158,
+          "text": "...accesses",
+          "line": 239
+        },
+        {
+          "ms": 18031.052631579012,
+          "text": "\"The future connected with current state\"",
+          "line": 241
+        },
+        {
+          "ms": 21504.73684210536,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 245
+        },
+        {
+          "ms": 24346.842105263262,
+          "text": "BODY HEART MONEY",
+          "line": 249
+        },
+        {
+          "ms": 26083.684210526437,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 252
+        },
+        {
+          "ms": 29399.47368421068,
+          "text": "BODY HEART MONEY",
+          "line": 256
+        },
+        {
+          "ms": 31136.315789473854,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 259
+        },
+        {
+          "ms": 33188.94736842124,
+          "text": "XDAY2 wa",
+          "line": 262
+        },
+        {
+          "ms": 35083.684210526524,
+          "text": "Ima no mama no nariyuki de okoru mirai ni access shi,",
+          "line": 265
+        },
+        {
+          "ms": 38873.15789473709,
+          "text": "O-kyaku-sama no \"Ren ai jyumyou\" o kensaku shimasu.",
+          "line": 270
+        },
+        {
+          "ms": 42978.421052631864,
+          "text": "",
+          "line": 275
+        },
+        {
+          "ms": 54662.63157894777,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 286
+        },
+        {
+          "ms": 57820.5263157899,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 290
+        },
+        {
+          "ms": 59715.263157895184,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 293
+        },
+        {
+          "ms": 62873.15789473732,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 297
+        },
+        {
+          "ms": 64136.315789474174,
+          "text": "and retrieves your \"Love longevi",
+          "line": 300
+        },
+        {
+          "ms": 64215.26315789523,
+          "text": "and retrieves your \"Love lon",
+          "line": 302
+        },
+        {
+          "ms": 64294.21052631628,
+          "text": "and retrieves your \"Love",
+          "line": 304
+        },
+        {
+          "ms": 64373.157894737335,
+          "text": "and retrieves your \"",
+          "line": 306
+        },
+        {
+          "ms": 64452.10526315839,
+          "text": "and retrieves yo",
+          "line": 308
+        },
+        {
+          "ms": 64531.05263157944,
+          "text": "and retrieve",
+          "line": 310
+        },
+        {
+          "ms": 64610.000000000495,
+          "text": "and retr",
+          "line": 312
+        },
+        {
+          "ms": 64688.94736842155,
+          "text": "and",
+          "line": 314
+        },
+        {
+          "ms": 64767.8947368426,
+          "text": "",
+          "line": 317
+        },
+        {
+          "ms": 72504.73684210583,
+          "text": "O-kyaku sama no \"Ren ai jyumyou\" wa, ato",
+          "line": 326
+        },
+        {
+          "ms": 75662.63157894797,
+          "text": "nanoka",
+          "line": 331
+        },
+        {
+          "ms": 77083.68421052693,
+          "text": "muika",
+          "line": 334
+        },
+        {
+          "ms": 78662.631578948,
+          "text": "5 days",
+          "line": 337
+        },
+        {
+          "ms": 80083.68421052696,
+          "text": "4 days",
+          "line": 340
+        },
+        {
+          "ms": 81346.84210526382,
+          "text": "3 days",
+          "line": 343
+        },
+        {
+          "ms": 82767.89473684278,
+          "text": "2 days",
+          "line": 346
+        },
+        {
+          "ms": 84031.05263157963,
+          "text": "1 day",
+          "line": 350
+        },
+        {
+          "ms": 84978.42105263227,
+          "text": "",
+          "line": 352
+        },
+        {
+          "ms": 87188.94736842175,
+          "text": "The time limit of your love is the",
+          "line": 355
+        },
+        {
+          "ms": 90188.94736842178,
+          "text": "3 hours",
+          "line": 360
+        },
+        {
+          "ms": 91452.10526315864,
+          "text": "2 hours",
+          "line": 363
+        },
+        {
+          "ms": 92715.26315789549,
+          "text": "1 hour",
+          "line": 366
+        },
+        {
+          "ms": 93978.42105263234,
+          "text": "The time limit of your love is the",
+          "line": 369
+        },
+        {
+          "ms": 96662.63157894816,
+          "text": "3 minutes",
+          "line": 373
+        },
+        {
+          "ms": 98241.57894736923,
+          "text": "2 minutes",
+          "line": 376
+        },
+        {
+          "ms": 99662.63157894819,
+          "text": "1 minute",
+          "line": 379
+        },
+        {
+          "ms": 100925.78947368504,
+          "text": "The time limit of your love is the",
+          "line": 383
+        },
+        {
+          "ms": 103767.89473684297,
+          "text": "5 seconds",
+          "line": 387
+        },
+        {
+          "ms": 105504.73684210614,
+          "text": "4",
+          "line": 391
+        },
+        {
+          "ms": 106452.10526315878,
+          "text": "3",
+          "line": 393
+        },
+        {
+          "ms": 107478.42105263248,
+          "text": "2",
+          "line": 395
+        },
+        {
+          "ms": 108504.73684210617,
+          "text": "1",
+          "line": 398
+        },
+        {
+          "ms": 109531.05263157986,
+          "text": "0",
+          "line": 401
+        },
+        {
+          "ms": 110557.36842105356,
+          "text": "The end of your love.",
+          "line": 405
+        },
+        {
+          "ms": 112136.31578947451,
+          "text": "",
+          "line": 408
+        }
+      ]
+    },
+    {
+      "id": "tl0218",
+      "course": "Normal",
+      "events": [
+        {
+          "ms": 5083.684210526317,
+          "text": "X-DAY2",
+          "line": 423
+        },
+        {
+          "ms": 6031.052631578949,
+          "text": "",
+          "line": 426
+        },
+        {
+          "ms": 8636.315789473692,
+          "text": "The time limit of your love is...",
+          "line": 430
+        },
+        {
+          "ms": 11083.684210526326,
+          "text": "",
+          "line": 434
+        },
+        {
+          "ms": 16767.89473684211,
+          "text": "...accesses",
+          "line": 440
+        },
+        {
+          "ms": 18031.05263157895,
+          "text": "\"The future connected with current state\"",
+          "line": 442
+        },
+        {
+          "ms": 21504.736842105285,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 446
+        },
+        {
+          "ms": 24346.842105263186,
+          "text": "BODY HEART MONEY",
+          "line": 450
+        },
+        {
+          "ms": 26083.68421052636,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 453
+        },
+        {
+          "ms": 29399.47368421059,
+          "text": "BODY HEART MONEY",
+          "line": 457
+        },
+        {
+          "ms": 31136.315789473763,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 460
+        },
+        {
+          "ms": 33188.94736842115,
+          "text": "XDAY2 wa",
+          "line": 463
+        },
+        {
+          "ms": 35083.68421052643,
+          "text": "Ima no mama no nariyuki de okoru mirai ni access shi,",
+          "line": 466
+        },
+        {
+          "ms": 38873.15789473699,
+          "text": "O-kyaku-sama no \"Ren ai jyumyou\" o kensaku shimasu.",
+          "line": 471
+        },
+        {
+          "ms": 42978.42105263177,
+          "text": "",
+          "line": 476
+        },
+        {
+          "ms": 54662.63157894767,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 487
+        },
+        {
+          "ms": 57820.52631578981,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 491
+        },
+        {
+          "ms": 59715.26315789509,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 494
+        },
+        {
+          "ms": 62873.157894737225,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 498
+        },
+        {
+          "ms": 64136.31578947408,
+          "text": "and retrieves your \"Love longevi",
+          "line": 501
+        },
+        {
+          "ms": 64215.26315789513,
+          "text": "and retrieves your \"Love lon",
+          "line": 503
+        },
+        {
+          "ms": 64294.21052631619,
+          "text": "and retrieves your \"Love",
+          "line": 505
+        },
+        {
+          "ms": 64373.15789473724,
+          "text": "and retrieves your \"",
+          "line": 507
+        },
+        {
+          "ms": 64452.10526315829,
+          "text": "and retrieves yo",
+          "line": 509
+        },
+        {
+          "ms": 64531.05263157935,
+          "text": "and retrieve",
+          "line": 511
+        },
+        {
+          "ms": 64610.0000000004,
+          "text": "and retr",
+          "line": 513
+        },
+        {
+          "ms": 64688.94736842145,
+          "text": "and",
+          "line": 515
+        },
+        {
+          "ms": 64767.89473684251,
+          "text": "",
+          "line": 518
+        },
+        {
+          "ms": 72504.73684210573,
+          "text": "O-kyaku sama no \"Ren ai jyumyou\" wa, ato",
+          "line": 527
+        },
+        {
+          "ms": 75662.63157894787,
+          "text": "nanoka",
+          "line": 532
+        },
+        {
+          "ms": 77083.68421052683,
+          "text": "muika",
+          "line": 535
+        },
+        {
+          "ms": 78662.6315789479,
+          "text": "5 days",
+          "line": 538
+        },
+        {
+          "ms": 80083.68421052686,
+          "text": "4 days",
+          "line": 541
+        },
+        {
+          "ms": 81346.84210526371,
+          "text": "3 days",
+          "line": 544
+        },
+        {
+          "ms": 82767.89473684267,
+          "text": "2 days",
+          "line": 547
+        },
+        {
+          "ms": 84031.05263157953,
+          "text": "1 day",
+          "line": 551
+        },
+        {
+          "ms": 84978.42105263217,
+          "text": "",
+          "line": 553
+        },
+        {
+          "ms": 87188.94736842165,
+          "text": "The time limit of your love is the",
+          "line": 556
+        },
+        {
+          "ms": 90188.94736842165,
+          "text": "3 hours",
+          "line": 561
+        },
+        {
+          "ms": 91452.1052631585,
+          "text": "2 hours",
+          "line": 564
+        },
+        {
+          "ms": 92715.26315789536,
+          "text": "1 hour",
+          "line": 567
+        },
+        {
+          "ms": 93978.42105263221,
+          "text": "The time limit of your love is the",
+          "line": 570
+        },
+        {
+          "ms": 96662.63157894803,
+          "text": "3 minutes",
+          "line": 574
+        },
+        {
+          "ms": 98241.5789473691,
+          "text": "2 minutes",
+          "line": 577
+        },
+        {
+          "ms": 99662.63157894806,
+          "text": "1 minute",
+          "line": 580
+        },
+        {
+          "ms": 100925.78947368491,
+          "text": "The time limit of your love is the",
+          "line": 584
+        },
+        {
+          "ms": 103767.89473684283,
+          "text": "5 seconds",
+          "line": 588
+        },
+        {
+          "ms": 105504.73684210601,
+          "text": "4",
+          "line": 592
+        },
+        {
+          "ms": 106452.10526315865,
+          "text": "3",
+          "line": 594
+        },
+        {
+          "ms": 107478.42105263234,
+          "text": "2",
+          "line": 596
+        },
+        {
+          "ms": 108504.73684210604,
+          "text": "1",
+          "line": 599
+        },
+        {
+          "ms": 109531.05263157973,
+          "text": "0",
+          "line": 602
+        },
+        {
+          "ms": 110557.36842105337,
+          "text": "The end of your love.",
+          "line": 606
+        },
+        {
+          "ms": 112136.31578947426,
+          "text": "",
+          "line": 609
+        }
+      ]
+    },
+    {
+      "id": "tl0218",
+      "course": "Easy",
+      "events": [
+        {
+          "ms": 5083.684210526317,
+          "text": "X-DAY2",
+          "line": 624
+        },
+        {
+          "ms": 6031.052631578949,
+          "text": "",
+          "line": 627
+        },
+        {
+          "ms": 8636.315789473692,
+          "text": "The time limit of your love is...",
+          "line": 631
+        },
+        {
+          "ms": 11083.684210526326,
+          "text": "",
+          "line": 635
+        },
+        {
+          "ms": 16767.894736842107,
+          "text": "...accesses",
+          "line": 641
+        },
+        {
+          "ms": 18031.052631578947,
+          "text": "\"The future connected with current state\"",
+          "line": 643
+        },
+        {
+          "ms": 21504.736842105256,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 647
+        },
+        {
+          "ms": 24346.842105263153,
+          "text": "BODY HEART MONEY",
+          "line": 651
+        },
+        {
+          "ms": 26083.684210526313,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 654
+        },
+        {
+          "ms": 29399.473684210527,
+          "text": "BODY HEART MONEY",
+          "line": 658
+        },
+        {
+          "ms": 31136.315789473687,
+          "text": "SURVIVALVALVALVALVALVALVAL...",
+          "line": 661
+        },
+        {
+          "ms": 33188.94736842107,
+          "text": "XDAY2 wa",
+          "line": 664
+        },
+        {
+          "ms": 35083.68421052635,
+          "text": "Ima no mama no nariyuki de okoru mirai ni access shi,",
+          "line": 667
+        },
+        {
+          "ms": 38873.15789473691,
+          "text": "O-kyaku-sama no \"Ren ai jyumyou\" o kensaku shimasu.",
+          "line": 672
+        },
+        {
+          "ms": 42978.42105263169,
+          "text": "",
+          "line": 677
+        },
+        {
+          "ms": 54662.63157894759,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 688
+        },
+        {
+          "ms": 57820.52631578973,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 692
+        },
+        {
+          "ms": 59715.26315789501,
+          "text": "X-DAY2 accesses \"The future connected with current state\"",
+          "line": 695
+        },
+        {
+          "ms": 62873.157894737145,
+          "text": "and retrieves your \"Love longevity\".",
+          "line": 699
+        },
+        {
+          "ms": 64136.315789474,
+          "text": "and retrieves your \"Love longevi",
+          "line": 702
+        },
+        {
+          "ms": 64215.26315789505,
+          "text": "and retrieves your \"Love lon",
+          "line": 704
+        },
+        {
+          "ms": 64294.21052631611,
+          "text": "and retrieves your \"Love",
+          "line": 706
+        },
+        {
+          "ms": 64373.15789473716,
+          "text": "and retrieves your \"",
+          "line": 708
+        },
+        {
+          "ms": 64452.10526315821,
+          "text": "and retrieves yo",
+          "line": 710
+        },
+        {
+          "ms": 64531.05263157927,
+          "text": "and retrieve",
+          "line": 712
+        },
+        {
+          "ms": 64610.00000000032,
+          "text": "and retr",
+          "line": 714
+        },
+        {
+          "ms": 64688.94736842137,
+          "text": "and",
+          "line": 716
+        },
+        {
+          "ms": 64767.89473684243,
+          "text": "",
+          "line": 719
+        },
+        {
+          "ms": 72504.73684210566,
+          "text": "O-kyaku sama no \"Ren ai jyumyou\" wa, ato",
+          "line": 728
+        },
+        {
+          "ms": 75662.6315789478,
+          "text": "nanoka",
+          "line": 733
+        },
+        {
+          "ms": 77083.68421052676,
+          "text": "muika",
+          "line": 736
+        },
+        {
+          "ms": 78662.63157894782,
+          "text": "5 days",
+          "line": 739
+        },
+        {
+          "ms": 80083.68421052679,
+          "text": "4 days",
+          "line": 742
+        },
+        {
+          "ms": 81346.84210526364,
+          "text": "3 days",
+          "line": 745
+        },
+        {
+          "ms": 82767.8947368426,
+          "text": "2 days",
+          "line": 748
+        },
+        {
+          "ms": 84031.05263157946,
+          "text": "1 day",
+          "line": 752
+        },
+        {
+          "ms": 84978.4210526321,
+          "text": "",
+          "line": 754
+        },
+        {
+          "ms": 87188.94736842158,
+          "text": "The time limit of your love is the",
+          "line": 757
+        },
+        {
+          "ms": 90188.94736842158,
+          "text": "3 hours",
+          "line": 762
+        },
+        {
+          "ms": 91452.10526315843,
+          "text": "2 hours",
+          "line": 765
+        },
+        {
+          "ms": 92715.26315789529,
+          "text": "1 hour",
+          "line": 768
+        },
+        {
+          "ms": 93978.42105263214,
+          "text": "The time limit of your love is the",
+          "line": 771
+        },
+        {
+          "ms": 96662.63157894796,
+          "text": "3 minutes",
+          "line": 775
+        },
+        {
+          "ms": 98241.57894736902,
+          "text": "2 minutes",
+          "line": 778
+        },
+        {
+          "ms": 99662.63157894798,
+          "text": "1 minute",
+          "line": 781
+        },
+        {
+          "ms": 100925.78947368484,
+          "text": "The time limit of your love is the",
+          "line": 785
+        },
+        {
+          "ms": 103767.89473684276,
+          "text": "5 seconds",
+          "line": 789
+        },
+        {
+          "ms": 105504.73684210594,
+          "text": "4",
+          "line": 793
+        },
+        {
+          "ms": 106452.10526315858,
+          "text": "3",
+          "line": 795
+        },
+        {
+          "ms": 107478.42105263227,
+          "text": "2",
+          "line": 797
+        },
+        {
+          "ms": 108504.73684210597,
+          "text": "1",
+          "line": 800
+        },
+        {
+          "ms": 109531.05263157966,
+          "text": "0",
+          "line": 803
+        },
+        {
+          "ms": 110557.3684210533,
+          "text": "The end of your love.",
+          "line": 807
+        },
+        {
+          "ms": 112136.31578947419,
+          "text": "",
+          "line": 810
+        }
+      ]
+    }
+  ],
+  "branch_adapters": [
+    {
+      "id": "tl0085",
+      "course": "Hard",
+      "reason": "normal event 72 line 181: {'type': '1', 'ms': 26219.433850085203, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 26216.075923486642, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 181, 'column': 3}\nnormal event 73 line 181: {'type': '1', 'ms': 26345.553158951392, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 26341.075923486642, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 181, 'column': 4}\nnormal event 74 line 181: {'type': '1', 'ms': 26471.672467817578, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 26466.075923486642, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 181, 'column': 5}\nnormal event 75 line 181: {'type': '1', 'ms': 26597.791776683767, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 26591.075923486642, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 181, 'column': 6}\nnormal event 141 line 267: {'type': '1', 'ms': 50219.05603698466, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 50216.22228383621, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 267, 'column': 3}\nnormal event 142 line 267: {'type': '1', 'ms': 50345.00062136752, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 50341.22228383621, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 267, 'column': 4}\nnormal event 143 line 267: {'type': '1', 'ms': 50470.945205750395, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 50466.22228383621, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 267, 'column': 5}\nnormal event 144 line 267: {'type': '1', 'ms': 50596.88979013327, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 50591.22228383621, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 267, 'column': 6}\nnormal event 146 line 268: {'type': '1', 'ms': 51719.05603698466, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 51716.22228383621, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 268, 'column': 1}\nprofessional event 76 line 195: {'type': '1', 'ms': 26219.433850085203, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 160.0} vs {'type': '1', 'ms': 26216.075923486642, 'gogo': False, 'scroll': 1.0, 'bpm': 160.0, 'line': 195, 'column': 3}"
+    },
+    {
+      "id": "tl0087",
+      "course": "Oni",
+      "reason": "Branches do not have the same number of measures. (This check was performed after splitting up the measures due to mid-measure commands. Please check any GOGO, BPMCHANGE, and SCROLL commands you have in your branches, and make sure that each branch has the same number of commands.)"
+    },
+    {
+      "id": "tl0087",
+      "course": "Hard",
+      "reason": "Branches do not have the same number of measures. (This check was performed after splitting up the measures due to mid-measure commands. Please check any GOGO, BPMCHANGE, and SCROLL commands you have in your branches, and make sure that each branch has the same number of commands.)"
+    },
+    {
+      "id": "tl0087",
+      "course": "Normal",
+      "reason": "Branches do not have the same number of measures. (This check was performed after splitting up the measures due to mid-measure commands. Please check any GOGO, BPMCHANGE, and SCROLL commands you have in your branches, and make sure that each branch has the same number of commands.)"
+    },
+    {
+      "id": "tl0087",
+      "course": "Easy",
+      "reason": "Branches do not have the same number of measures. (This check was performed after splitting up the measures due to mid-measure commands. Please check any GOGO, BPMCHANGE, and SCROLL commands you have in your branches, and make sure that each branch has the same number of commands.)"
+    },
+    {
+      "id": "tl0094",
+      "course": "Ura",
+      "reason": "normal event 396 line 370: {'type': '1', 'ms': 90222.27272727275, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '1', 'ms': 90222.27272727115, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 0}\nnormal event 397 line 370: {'type': '2', 'ms': 90585.90909090912, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '2', 'ms': 90585.9090909075, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 4}\nnormal event 398 line 370: {'type': '1', 'ms': 90767.7272727273, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '1', 'ms': 90767.72727272568, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 6}\nnormal event 399 line 370: {'type': '1', 'ms': 90949.54545454547, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '1', 'ms': 90949.54545454386, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 8}\nnormal event 400 line 370: {'type': '2', 'ms': 91040.45454545457, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '2', 'ms': 91040.45454545294, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 9}\nnormal event 401 line 370: {'type': '2', 'ms': 91222.27272727275, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '2', 'ms': 91222.27272727112, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 11}\nnormal event 402 line 370: {'type': '1', 'ms': 91313.18181818184, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '1', 'ms': 91313.18181818021, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 12}\nnormal event 403 line 370: {'type': '2', 'ms': 91495.00000000003, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '2', 'ms': 91494.99999999838, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 370, 'column': 14}\nnormal event 404 line 371: {'type': '1', 'ms': 91676.8181818182, 'duration': 0.0, 'hits': 0, 'gogo': False, 'velocity': 165.0} vs {'type': '1', 'ms': 91676.81818181656, 'gogo': True, 'scroll': 1.0, 'bpm': 165.0, 'line': 371, 'column': 0}"
+    },
+    {
+      "id": "tl0111",
+      "course": "Oni",
+      "reason": "normal event 1258 line 833: {'type': '7', 'ms': 151036.54877840567, 'duration': 2950.0, 'hits': 5, 'gogo': False, 'velocity': 298.9} vs {'type': '7', 'ms': 151036.54877840838, 'gogo': False, 'scroll': 0.98, 'bpm': 305.0, 'line': 833, 'column': 0, 'duration': 2950.8196721311833, 'hits': 83}\nprofessional event 740 line 470: {'type': '7', 'ms': 91922.41527817579, 'duration': 432.0, 'hits': 13, 'gogo': True, 'velocity': 298.89} vs {'type': '7', 'ms': 91922.41527817599, 'gogo': True, 'scroll': 1.23, 'bpm': 243.0, 'line': 470, 'column': 0, 'duration': 432.0987654320925, 'hits': 5}\nprofessional event 779 line 487: {'type': '7', 'ms': 96119.9461423733, 'duration': 617.0, 'hits': 5, 'gogo': True, 'velocity': 3159.0} vs {'type': '7', 'ms': 96119.94614237346, 'gogo': True, 'scroll': 13.0, 'bpm': 243.0, 'line': 487, 'column': 0, 'duration': 617.283950617275, 'hits': 13}\nprofessional event 1258 line 833: {'type': '7', 'ms': 151036.54877840567, 'duration': 2950.0, 'hits': 5, 'gogo': False, 'velocity': 298.9} vs {'type': '7', 'ms': 151036.54877840838, 'gogo': False, 'scroll': 0.98, 'bpm': 305.0, 'line': 833, 'column': 0, 'duration': 2950.8196721311833, 'hits': 83}\nmaster event 764 line 567: {'type': '7', 'ms': 91922.41527817579, 'duration': 432.0, 'hits': 13, 'gogo': True, 'velocity': 298.89} vs {'type': '7', 'ms': 91922.41527817599, 'gogo': True, 'scroll': 1.23, 'bpm': 243.0, 'line': 567, 'column': 0, 'duration': 432.0987654320925, 'hits': 5}\nmaster event 813 line 584: {'type': '7', 'ms': 96119.9461423733, 'duration': 617.0, 'hits': 2, 'gogo': True, 'velocity': 3159.0} vs {'type': '7', 'ms': 96119.94614237349, 'gogo': True, 'scroll': 13.0, 'bpm': 243.0, 'line': 584, 'column': 0, 'duration': 617.2839506173477, 'hits': 13}\nmaster event 894 line 612: {'type': '7', 'ms': 103660.68688311405, 'duration': 100.0, 'hits': 83, 'gogo': True, 'velocity': 300.0} vs {'type': '7', 'ms': 103660.68688311454, 'gogo': True, 'scroll': 1.0, 'bpm': 300.0, 'line': 612, 'column': 0, 'duration': 100.0, 'hits': 2}\nmaster event 1324 line 833: {'type': '7', 'ms': 151036.54877840567, 'duration': 2950.0, 'hits': 5, 'gogo': False, 'velocity': 298.9} vs {'type': '7', 'ms': 151036.54877840838, 'gogo': False, 'scroll': 0.98, 'bpm': 305.0, 'line': 833, 'column': 0, 'duration': 2950.8196721311833, 'hits': 83}"
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "method": "Load/inspect/dispose converted fumen with the actual ARM64 LibTaiko classes.\n\nOnly allocation/libc are host shims. No rendering, sound output, iOS installation,\ntouch judgment, or result-screen test is implied by this probe.\n",
+  "binary_sha256": "4f1b4fb479ffc765b05b7387a655a6297252dbfef32ab1bb740aefcdcaedd657",
+  "charts": [
+    {
+      "file": "dojoaet_e.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoaet_e_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoaet_e_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoaet_h.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoaet_h_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoaet_h_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoaet_m.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoaet_m_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoaet_m_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoaet_n.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "dojoaet_n_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "dojoaet_n_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "dojoajt_e.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoajt_e_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoajt_e_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ded5d6f4338037d41bb2f7a3be29862fc1e1243d46df66ef798f95d54097a250"
+    },
+    {
+      "file": "dojoajt_h.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoajt_h_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoajt_h_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "ffc0d5571cd9e7150ffe2774b3a8bd16f189b9d8ffd8b73afea86d03c646c85b"
+    },
+    {
+      "file": "dojoajt_m.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoajt_m_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoajt_m_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "a431d4d466e359166ef990c7f9f969c996069a04829ad176dd108cb10487906a"
+    },
+    {
+      "file": "dojoajt_n.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "dojoajt_n_1.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "dojoajt_n_2.bin",
+      "native_measures": 61,
+      "native_note_counts": {
+        "normal": 43
+      },
+      "max_native_timing_error_ms": 0.005703780057956465,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 5048,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "144aa1fa8a46d8049611c1d90bd3545b1fa5f6eb6166f330a4ad6b3c22d7e207"
+    },
+    {
+      "file": "kakunin3_e.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "90c6ac9c20b08a080ae4aee96e9eca8713e04259fb513c61e818360f721ec9a2"
+    },
+    {
+      "file": "kakunin3_e_1.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "90c6ac9c20b08a080ae4aee96e9eca8713e04259fb513c61e818360f721ec9a2"
+    },
+    {
+      "file": "kakunin3_e_2.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "90c6ac9c20b08a080ae4aee96e9eca8713e04259fb513c61e818360f721ec9a2"
+    },
+    {
+      "file": "kakunin3_h.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "62a12022d71c374b45b5fbf078b4093eb0db3c6f9f911c4e888dc843c00d67fd"
+    },
+    {
+      "file": "kakunin3_h_1.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "62a12022d71c374b45b5fbf078b4093eb0db3c6f9f911c4e888dc843c00d67fd"
+    },
+    {
+      "file": "kakunin3_h_2.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "62a12022d71c374b45b5fbf078b4093eb0db3c6f9f911c4e888dc843c00d67fd"
+    },
+    {
+      "file": "kakunin3_m.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f9e152c928b1dea3a8503d93367f07f7609f9eafeca51a89582259964f3137b1"
+    },
+    {
+      "file": "kakunin3_m_1.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f9e152c928b1dea3a8503d93367f07f7609f9eafeca51a89582259964f3137b1"
+    },
+    {
+      "file": "kakunin3_m_2.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f9e152c928b1dea3a8503d93367f07f7609f9eafeca51a89582259964f3137b1"
+    },
+    {
+      "file": "kakunin3_n.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e8c6c0cddd8f444324c5cdb0026d0e1becb069a8929e48191f5daa8be42284d2"
+    },
+    {
+      "file": "kakunin3_n_1.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e8c6c0cddd8f444324c5cdb0026d0e1becb069a8929e48191f5daa8be42284d2"
+    },
+    {
+      "file": "kakunin3_n_2.bin",
+      "native_measures": 25,
+      "native_note_counts": {
+        "normal": 92
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 7424,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e8c6c0cddd8f444324c5cdb0026d0e1becb069a8929e48191f5daa8be42284d2"
+    },
+    {
+      "file": "tmap4_e.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "7cf4fa3d7cc74a0ae5c68167ff23ff830394418b9728b1482e45541d97f57148"
+    },
+    {
+      "file": "tmap4_e_1.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "7cf4fa3d7cc74a0ae5c68167ff23ff830394418b9728b1482e45541d97f57148"
+    },
+    {
+      "file": "tmap4_e_2.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "7cf4fa3d7cc74a0ae5c68167ff23ff830394418b9728b1482e45541d97f57148"
+    },
+    {
+      "file": "tmap4_h.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e0b4c249613aa7bcc0dd6cbdc564edc93e8365327a90eee72e6d6d967cab2528"
+    },
+    {
+      "file": "tmap4_h_1.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e0b4c249613aa7bcc0dd6cbdc564edc93e8365327a90eee72e6d6d967cab2528"
+    },
+    {
+      "file": "tmap4_h_2.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "e0b4c249613aa7bcc0dd6cbdc564edc93e8365327a90eee72e6d6d967cab2528"
+    },
+    {
+      "file": "tmap4_m.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "d4e314634161870d5cf6e3f1f22a9b7538ff81589bf26ff973d510726ed4ee78"
+    },
+    {
+      "file": "tmap4_m_1.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "d4e314634161870d5cf6e3f1f22a9b7538ff81589bf26ff973d510726ed4ee78"
+    },
+    {
+      "file": "tmap4_m_2.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "d4e314634161870d5cf6e3f1f22a9b7538ff81589bf26ff973d510726ed4ee78"
+    },
+    {
+      "file": "tmap4_n.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f7dab2c00e483cb0f70b04f07446a91b357476b7d25565f88482c58ca41cba8b"
+    },
+    {
+      "file": "tmap4_n_1.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f7dab2c00e483cb0f70b04f07446a91b357476b7d25565f88482c58ca41cba8b"
+    },
+    {
+      "file": "tmap4_n_2.bin",
+      "native_measures": 151,
+      "native_note_counts": {
+        "normal": 586,
+        "professional": 586,
+        "master": 586
+      },
+      "max_native_timing_error_ms": 0,
+      "heap_overflow_measures": 0,
+      "peak_probe_heap_bytes": 131408,
+      "load_and_dispose": "PASS",
+      "device_playthrough": "NOT RUN",
+      "sha256": "f7dab2c00e483cb0f70b04f07446a91b357476b7d25565f88482c58ca41cba8b"
+    }
+  ]
+}

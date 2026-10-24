@@ -1,5 +1,14 @@
 # Taiko Pop Tap workflow
 
+For the replacement TJA-LISTED library and decimal scroll speeds, read
+`library-tools/README.md` and `builds/library-speed-v1/REPORT.md` first. This
+user-authorized replacement supersedes the preserve-old-playable-songs rule
+and the old MusicMax=200 guard only for its version-locked pipeline. It keeps
+required hidden system tracks and patches/tests native capacity. The user
+requested limited native sampling to save their usage limit; do not launch
+an exhaustive new probe unless needed or requested. Device tests are NOT RUN;
+the new IPA is not a replacement for the accepted KNOWN-GOOD baseline yet.
+
 For adding songs or modifying the IPA, first read `song-tools/README.md` and
 `song-tools/KNOWN-GOOD.json`. Do not restart reverse engineering of the resource
 format unless a new build or unsupported chart feature requires it.
