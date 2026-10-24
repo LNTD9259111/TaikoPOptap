@@ -1,0 +1,105 @@
+{
+  "root_cause": "Outer UTF rebuild lost original 32-byte data alignment. Native CRI parser reads StreamAwbHash as a legacy table; tightly packed following data is interpreted as a nonzero stream-AWB row count and causes E2015051807 Stream awb work overflow. Restoring 32-byte alignment keeps the required zero padding and avoids the erroneous count.",
+  "fix": "Set outer ACB UTF data alignment to 32 before build. No chart, scoring, catalog, HCA or app binary changes.",
+  "native_test_method": "Unicorn executes original game ARM64 context initializer 0xe3eee4 and ACB parser 0xe3f070; standard libc and error callbacks are emulated. No device or full CRI playback runtime.",
+  "native_cases": [
+    {
+      "input": "original_song_rot",
+      "buffer_alignment_mod32": 0,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "original_song_rot",
+      "buffer_alignment_mod32": 8,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "original_song_rot",
+      "buffer_alignment_mod32": 16,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "broken_yugen",
+      "buffer_alignment_mod32": 0,
+      "native_return": 0,
+      "stream_awb_rows_interpreted": 33,
+      "log": [
+        "E2015051807:[cuesheet:%s] Stream awb work overflow."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "broken_yugen",
+      "buffer_alignment_mod32": 8,
+      "native_return": 0,
+      "stream_awb_rows_interpreted": 33,
+      "log": [
+        "E2015051807:[cuesheet:%s] Stream awb work overflow."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "broken_yugen",
+      "buffer_alignment_mod32": 16,
+      "native_return": 0,
+      "stream_awb_rows_interpreted": 33,
+      "log": [
+        "E2015051807:[cuesheet:%s] Stream awb work overflow."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "fixed_yugen",
+      "buffer_alignment_mod32": 0,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "fixed_yugen",
+      "buffer_alignment_mod32": 8,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    },
+    {
+      "input": "fixed_yugen",
+      "buffer_alignment_mod32": 16,
+      "native_return": 1,
+      "stream_awb_rows_interpreted": 0,
+      "log": [
+        "W2010030405:ACF file is not registered."
+      ],
+      "expected_result_observed": true
+    }
+  ],
+  "encrypted_resource_roundtrip_native_parser": "passed",
+  "cue_id": 0,
+  "cue_name": "song_yugen",
+  "hca_payload_unchanged": true,
+  "acb_logical_fields_unchanged": true,
+  "fixed_sound_sha256": "495fd99b54330e362235179a3611284ba87357c5f4ad8633a7347e7c9883acf1",
+  "device_test": "NOT RUN. User must install and test menu preview and all four charts.",
+  "acf_warning": "Probe does not register game ACF; identical ACF-not-registered warning occurs for both original and fixed assets. It is not treated as a device result."
+}

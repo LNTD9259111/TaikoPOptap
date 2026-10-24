@@ -1,0 +1,13 @@
+{
+  "input_sha256": "934011dde939872db91555811227944b49bd473d5c9ae0fd59cb18c93346243a",
+  "output_sha256": "ab4041be14ff3bf9f78450147c39aaae01c7e1af60791432ca5c342a6841d16d",
+  "bytes": 1141403982,
+  "changed_members": [
+    "Payload/BNEI0361.app/Data/Raw/sound/song_yugen.bin"
+  ],
+  "unchanged_members": 3039,
+  "native_parser_on_final_ipa_asset": "passed",
+  "device_install_and_preview": "NOT RUN",
+  "playthrough_all_four_difficulties": "NOT RUN",
+  "signing": "Re-sign with Sideloadly"
+}

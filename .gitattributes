@@ -4,3 +4,4 @@
 taiko-no-tatsujin-pop-tap-beat-v1.24.0.ipa filter=lfs diff=lfs merge=lfs -text
 builds/skip-tutorial/*.ipa filter=lfs diff=lfs merge=lfs -text
 builds/yugen-no-ran/*.ipa filter=lfs diff=lfs merge=lfs -text
+builds/yugen-preview-fix1/*.ipa filter=lfs diff=lfs merge=lfs -text
