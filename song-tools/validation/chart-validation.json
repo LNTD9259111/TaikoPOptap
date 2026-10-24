@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "TITLE": "YUGEN NO RAN",
+    "TITLEJA": "YUGEN NO RAN",
+    "TITLEZH": "Yuugen no Ran",
+    "TITLEKO": "Yuugen no Ran",
+    "SUBTITLE": "--Tatsh a.k.a. Zeami",
+    "SUBTITLEJA": "世阿弥",
+    "SUBTITLEZH": "世阿弥",
+    "BPM": "160",
+    "WAVE": "Yuugen no Ran.ogg",
+    "OFFSET": "-1.816",
+    "DEMOSTART": "1.816"
+  },
+  "commands": [
+    "#BPMCHANGE",
+    "#END",
+    "#GOGOEND",
+    "#GOGOSTART",
+    "#MEASURE",
+    "#START"
+  ],
+  "courses": {
+    "Easy": {
+      "stars": 5,
+      "hit_notes": 481,
+      "measures": 145,
+      "max_timing_error_ms": 0.0,
+      "score_init": 220,
+      "score_diff": 60,
+      "generated_missing_score_fields": true,
+      "catalog_score_estimate": 423800,
+      "shinuti_custom": 2080,
+      "official_scoring_claim": false,
+      "device_playthrough": "NOT RUN"
+    },
+    "Normal": {
+      "stars": 7,
+      "hit_notes": 708,
+      "measures": 145,
+      "max_timing_error_ms": 0.0,
+      "score_init": 270,
+      "score_diff": 70,
+      "generated_missing_score_fields": true,
+      "catalog_score_estimate": 723190,
+      "shinuti_custom": 1420,
+      "official_scoring_claim": false,
+      "device_playthrough": "NOT RUN"
+    },
+    "Hard": {
+      "stars": 8,
+      "hit_notes": 883,
+      "measures": 145,
+      "max_timing_error_ms": 0.0,
+      "score_init": 250,
+      "score_diff": 70,
+      "generated_missing_score_fields": false,
+      "catalog_score_estimate": 886550,
+      "shinuti_custom": 1140,
+      "official_scoring_claim": false,
+      "device_playthrough": "NOT RUN"
+    },
+    "Oni": {
+      "stars": 10,
+      "hit_notes": 1262,
+      "measures": 142,
+      "max_timing_error_ms": 0.0,
+      "score_init": 290,
+      "score_diff": 60,
+      "generated_missing_score_fields": false,
+      "catalog_score_estimate": 1199670,
+      "shinuti_custom": 800,
+      "official_scoring_claim": false,
+      "device_playthrough": "NOT RUN"
+    }
+  }
+}

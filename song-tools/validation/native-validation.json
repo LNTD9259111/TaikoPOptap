@@ -1,0 +1,26 @@
+[
+  {
+    "alignment_mod32": 0,
+    "return": 1,
+    "stream_awb_rows": 0,
+    "logs": [
+      "W2010030405:ACF file is not registered."
+    ]
+  },
+  {
+    "alignment_mod32": 8,
+    "return": 1,
+    "stream_awb_rows": 0,
+    "logs": [
+      "W2010030405:ACF file is not registered."
+    ]
+  },
+  {
+    "alignment_mod32": 16,
+    "return": 1,
+    "stream_awb_rows": 0,
+    "logs": [
+      "W2010030405:ACF file is not registered."
+    ]
+  }
+]

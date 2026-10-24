@@ -1,0 +1,5 @@
+pycryptodome==4.2.0
+cricodecs==1.2.0
+unicorn==2.1.4
+numpy==2.5.4
+tja2fumen @ git+https://github.com/vivaria/tja2fumen.git@6b4d64e2cee4cfea208a94576cebba99597b3327

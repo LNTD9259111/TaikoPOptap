@@ -1,0 +1,106 @@
+{
+  "golden_yugen_four_charts_byte_equal": true,
+  "native_good": [
+    {
+      "alignment_mod32": 0,
+      "return": 1,
+      "stream_awb_rows": 0,
+      "logs": [
+        "W2010030405:ACF file is not registered."
+      ]
+    },
+    {
+      "alignment_mod32": 8,
+      "return": 1,
+      "stream_awb_rows": 0,
+      "logs": [
+        "W2010030405:ACF file is not registered."
+      ]
+    },
+    {
+      "alignment_mod32": 16,
+      "return": 1,
+      "stream_awb_rows": 0,
+      "logs": [
+        "W2010030405:ACF file is not registered."
+      ]
+    }
+  ],
+  "native_bad_padding_rejected": "Original native ACB parser rejected bank: {\"alignment_mod32\": 0, \"return\": 0, \"stream_awb_rows\": 33, \"logs\": [\"E2015051807:[cuesheet:%s] Stream awb work overflow.\"]}",
+  "unsupported_command_rejected": "Unsupported command #SCROLL at line 21; review converter support before adding this song",
+  "missing_course_rejected": "Exactly Easy, Normal, Hard and Oni are required; never fabricate missing charts",
+  "duplicate_id_rejected": "ID yugen already exists; refuse to overwrite it",
+  "capacity_guard": "MusicMax=200 reached. Stop and investigate native capacity; do not silently exceed it.",
+  "end_to_end_build": {
+    "changed": [
+      "Payload/BNEI0361.app/Data/Raw/ReadAssets/musicinfo.bin",
+      "Payload/BNEI0361.app/Data/Raw/ReadAssets/songinfo.bin",
+      "Payload/BNEI0361.app/Data/Raw/ReadAssets/wordlist.bin"
+    ],
+    "added": [
+      "Payload/BNEI0361.app/Data/Raw/fumen/yugentest/yugentest_e.bin",
+      "Payload/BNEI0361.app/Data/Raw/fumen/yugentest/yugentest_h.bin",
+      "Payload/BNEI0361.app/Data/Raw/fumen/yugentest/yugentest_m.bin",
+      "Payload/BNEI0361.app/Data/Raw/fumen/yugentest/yugentest_n.bin",
+      "Payload/BNEI0361.app/Data/Raw/sound/song_yugentest.bin"
+    ],
+    "unchanged_entries": 3037,
+    "output_sha256": "5e00564034a828d432fd8e44a8cfbf4460139c48ffb89a5cdb593c77eda401b1",
+    "input_sha256": "ab4041be14ff3bf9f78450147c39aaae01c7e1af60791432ca5c342a6841d16d",
+    "tja_sha256": "57bc47882ab65b97131963faf4964c9d816271dda2c455694b879b9498633616",
+    "audio_sha256": "933c02a269adc976c95ef0ca60032d9c6e20636dca4c1179d7d4a89888ef2a70",
+    "registration": {
+      "uniqueId": 193,
+      "id": "yugentest",
+      "songFileName": "song_yugentest",
+      "order": 35002,
+      "genreNo": 7,
+      "isLock": false,
+      "isNew": true,
+      "debug": false,
+      "temp": false,
+      "temp2": false,
+      "branchEasy": false,
+      "branchNormal": false,
+      "branchHard": false,
+      "branchMania": false,
+      "branchUra": false,
+      "starEasy": 5,
+      "starNormal": 7,
+      "starHard": 8,
+      "starMania": 10,
+      "starUra": 0,
+      "shinutiEasy": 2080,
+      "shinutiNormal": 1420,
+      "shinutiHard": 1140,
+      "shinutiMania": 800,
+      "shinutiUra": 0,
+      "shinutiEasyDuet": 2080,
+      "shinutiNormalDuet": 1420,
+      "shinutiHardDuet": 1140,
+      "shinutiManiaDuet": 800,
+      "shinutiUraDuet": 0,
+      "scoreEasy": 423800,
+      "scoreNormal": 723190,
+      "scoreHard": 886550,
+      "scoreMania": 1199670,
+      "scoreUra": 0
+    },
+    "device_test": "NOT RUN",
+    "signing": "Use Sideloadly",
+    "tool_scope": "Taiko Pop Tap 1.24.0 / 159; four nonbranching single-player charts",
+    "scoring": "Estimated custom scores; no official scoring claim"
+  },
+  "audio": {
+    "sample_rate": 44100,
+    "channels": 2,
+    "frames": 5587049,
+    "duration_seconds": 126.69045351473923,
+    "lag_samples": 0,
+    "snr_db": 35.61657372170927,
+    "encoder_compensation_samples": 128,
+    "device_audio_and_sync": "NOT RUN"
+  },
+  "all_host_checks_passed": true,
+  "device_test": "NOT RUN for the duplicate test build; do not distribute it as a new song."
+}

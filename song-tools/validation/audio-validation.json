@@ -1,0 +1,10 @@
+{
+  "sample_rate": 44100,
+  "channels": 2,
+  "frames": 5587049,
+  "duration_seconds": 126.69045351473923,
+  "lag_samples": 0,
+  "snr_db": 35.61657372170927,
+  "encoder_compensation_samples": 128,
+  "device_audio_and_sync": "NOT RUN"
+}

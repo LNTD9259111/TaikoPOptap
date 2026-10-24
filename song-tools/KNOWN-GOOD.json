@@ -1,0 +1,18 @@
+{
+  "game": "Taiko no Tatsujin Pop Tap Beat",
+  "version": "1.24.0",
+  "build": "159",
+  "baseline_repository_path": "builds/yugen-preview-fix1/TaikoPopTap-1.24.0-YUGEN-preview-fix1-needs-signing.ipa",
+  "baseline_git_commit": "44e71e4b6f10529be9e4712c9a8db2dfbed8fb0c",
+  "baseline_sha256": "ab4041be14ff3bf9f78450147c39aaae01c7e1af60791432ca5c342a6841d16d",
+  "signing": "Sideloadly, on the user's computer",
+  "custom_songs": [{"id": "yugen", "uniqueId": 192, "title": "YUGEN NO RAN", "genre": 7, "stars": [5, 7, 8, 10]}],
+  "music_max_guard": 200,
+  "next_available_id": 193,
+  "native_audio_alignment_bytes": 32,
+  "user_feedback_date": "2026-10-24",
+  "user_feedback_quote": "đấy giờ nó được rồi đấy bạn ạ",
+  "user_feedback_scope": "User reports the fixed IPA now works following the instant song-selection crash. No detailed four-course playthrough or fresh-install checklist was provided.",
+  "host_validation": "Original ARM64 ACB parser accepted fixed bank at buffer offsets 0,8,16; old packed bank reproduced E2015051807. All 3039 other IPA entries were unchanged.",
+  "device_full_playthrough_each_course": "Not separately confirmed"
+}
