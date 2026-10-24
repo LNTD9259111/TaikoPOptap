@@ -1,0 +1,4 @@
+address	class_file	method	status
+0xf9fec4	02784_ConnectUpPlayer.c	ConnectUpPlayer$$OptUpdate	failed
+0xfea854	02892_SongListPlayer.c	SongListPlayer$$Update	ok
+0x100e294	02923_SystemOptionsPlayer.c	SystemOptionsPlayer$$OptUpdate	failed

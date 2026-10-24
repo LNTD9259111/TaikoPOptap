@@ -1,0 +1,16 @@
+[
+  {
+    "tool": "Il2CppDumper",
+    "version": "v6.7.46",
+    "source": "https://github.com/Perfare/Il2CppDumper/releases/download/v6.7.46/Il2CppDumper-win-v6.7.46.zip",
+    "sha256": "f5fc60dfc5c034c1ff3fc651514416ebd47658a63493207734537fd25fa2dea2",
+    "release_digest_verified": false
+  },
+  {
+    "tool": "ghidra",
+    "version": "Ghidra_12.2_build",
+    "source": "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip",
+    "sha256": "2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67",
+    "release_digest_verified": true
+  }
+]

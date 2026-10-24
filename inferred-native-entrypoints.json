@@ -1,0 +1,205 @@
+[
+  {
+    "address": 15369672,
+    "name": "inferred_TaikoNative_SetFumenData",
+    "signature": "void inferred_TaikoNative_SetFumenData (int32_t player, intptr_t fumenData, int32_t size);",
+    "wrapperAddress": 17561220,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369736,
+    "name": "inferred_TaikoNative_SetPlayerSetting",
+    "signature": "void inferred_TaikoNative_SetPlayerSetting (int32_t player, Blittables_PlayerSetting_o* setting);",
+    "wrapperAddress": 17561224,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369792,
+    "name": "inferred_TaikoNative_Initialize",
+    "signature": "void inferred_TaikoNative_Initialize ();",
+    "wrapperAddress": 17561228,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369820,
+    "name": "inferred_TaikoNative_SetUserInput",
+    "signature": "void inferred_TaikoNative_SetUserInput (int32_t player, uint32_t input);",
+    "wrapperAddress": 17562040,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369876,
+    "name": "inferred_TaikoNative_Update",
+    "signature": "void inferred_TaikoNative_Update (float totalTime);",
+    "wrapperAddress": 17562044,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369920,
+    "name": "inferred_TaikoNative__Finalize",
+    "signature": "void inferred_TaikoNative__Finalize ();",
+    "wrapperAddress": 17562424,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369948,
+    "name": "inferred_TaikoNative_IsAllOnpuEndPlayer",
+    "signature": "int32_t inferred_TaikoNative_IsAllOnpuEndPlayer (int32_t player);",
+    "wrapperAddress": 17562308,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15369996,
+    "name": "inferred_TaikoNative_IsAllOnpuEnd",
+    "signature": "int32_t inferred_TaikoNative_IsAllOnpuEnd ();",
+    "wrapperAddress": 17562052,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370024,
+    "name": "inferred_TaikoNative_IsPastLastOnpuJustTime",
+    "signature": "int32_t inferred_TaikoNative_IsPastLastOnpuJustTime ();",
+    "wrapperAddress": 17562056,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370052,
+    "name": "inferred_TaikoNative_IsEnd",
+    "signature": "int32_t inferred_TaikoNative_IsEnd ();",
+    "wrapperAddress": 17562048,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370080,
+    "name": "inferred_TaikoNative_ResetToRetry",
+    "signature": "void inferred_TaikoNative_ResetToRetry ();",
+    "wrapperAddress": 17562488,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370108,
+    "name": "inferred_TaikoNative_ResetOnpuBetween",
+    "signature": "void inferred_TaikoNative_ResetOnpuBetween (float begin, float end);",
+    "wrapperAddress": 17562508,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370160,
+    "name": "inferred_TaikoNative_SetOffsetTimeAdjustment",
+    "signature": "void inferred_TaikoNative_SetOffsetTimeAdjustment (float offset);",
+    "wrapperAddress": 17562444,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370204,
+    "name": "inferred_TaikoNative_SetPlayerDelay",
+    "signature": "void inferred_TaikoNative_SetPlayerDelay (int32_t player, float delay);",
+    "wrapperAddress": 17562468,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370260,
+    "name": "inferred_TaikoNative_GetFumenLength",
+    "signature": "float inferred_TaikoNative_GetFumenLength ();",
+    "wrapperAddress": 17561232,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370288,
+    "name": "inferred_TaikoNative_IsGogoTime",
+    "signature": "int32_t inferred_TaikoNative_IsGogoTime ();",
+    "wrapperAddress": 17562060,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370316,
+    "name": "inferred_TaikoNative_GetTempo",
+    "signature": "float inferred_TaikoNative_GetTempo ();",
+    "wrapperAddress": 17562064,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370392,
+    "name": "inferred_TaikoNative_GetCoopOnpuCommonInfoIsSuccess",
+    "signature": "int32_t inferred_TaikoNative_GetCoopOnpuCommonInfoIsSuccess ();",
+    "wrapperAddress": 17562068,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370524,
+    "name": "inferred_TaikoNative_GetEachPlayerBase",
+    "signature": "void inferred_TaikoNative_GetEachPlayerBase (BlittablesInternal_EachPlayerBase_o* dst, int32_t player);",
+    "wrapperAddress": 17562836,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370804,
+    "name": "inferred_TaikoNative_GetGameDrawInfoArraySize",
+    "signature": "uint32_t inferred_TaikoNative_GetGameDrawInfoArraySize (int32_t player);",
+    "wrapperAddress": 17562312,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15370916,
+    "name": "inferred_TaikoNative_GetGameDrawInfoBase",
+    "signature": "void inferred_TaikoNative_GetGameDrawInfoBase (BlittablesInternal_GameDrawInfoBase_o* dst, int32_t player, int32_t index);",
+    "wrapperAddress": 17563988,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371044,
+    "name": "inferred_TaikoNative_GetGameDrawInfoOnpuBase",
+    "signature": "void inferred_TaikoNative_GetGameDrawInfoOnpuBase (BlittablesInternal_OnpuStatusBase_o* dst, int32_t player, int32_t index);",
+    "wrapperAddress": 17564264,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371236,
+    "name": "inferred_TaikoNative_GetLaneBasicInfo",
+    "signature": "void inferred_TaikoNative_GetLaneBasicInfo (Blittables_LaneBasicInfo_o* dst, int32_t player);",
+    "wrapperAddress": 17561236,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371356,
+    "name": "inferred_TaikoNative_CheckFisrtOnpuTillSpecifiedTime",
+    "signature": "int32_t inferred_TaikoNative_CheckFisrtOnpuTillSpecifiedTime (int32_t player, float time);",
+    "wrapperAddress": 17564972,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371412,
+    "name": "inferred_TaikoNative_GetFisrtOnpuTillSpecifiedTimeOnpuBase",
+    "signature": "void inferred_TaikoNative_GetFisrtOnpuTillSpecifiedTimeOnpuBase (BlittablesInternal_OnpuStatusBase_o* onpu);",
+    "wrapperAddress": 17564976,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371556,
+    "name": "inferred_TaikoNative_GetHitResultSize",
+    "signature": "int32_t inferred_TaikoNative_GetHitResultSize ();",
+    "wrapperAddress": 17562316,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371640,
+    "name": "inferred_TaikoNative_GetHitResultBase",
+    "signature": "void inferred_TaikoNative_GetHitResultBase (BlittablesInternal_HitResultInfoBase_o* dst, int32_t index);",
+    "wrapperAddress": 17565592,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371696,
+    "name": "inferred_TaikoNative_GetHitResultOnpuBase",
+    "signature": "void inferred_TaikoNative_GetHitResultOnpuBase (BlittablesInternal_OnpuStatusBase_o* dst, int32_t index);",
+    "wrapperAddress": 17565596,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  },
+  {
+    "address": 15371912,
+    "name": "inferred_TaikoNative_GetHitDifferenceDispString",
+    "signature": "void inferred_TaikoNative_GetHitDifferenceDispString ();",
+    "wrapperAddress": 17562528,
+    "evidence": "single ARM64 unconditional branch from named managed wrapper"
+  }
+]

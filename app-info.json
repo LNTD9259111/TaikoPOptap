@@ -1,0 +1,106 @@
+{
+  "BuildMachineOSBuild": "23G93",
+  "CADisableMinimumFrameDuration": false,
+  "CADisableMinimumFrameDurationOnPhone": false,
+  "CFBundleAllowMixedLocalizations": true,
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleDisplayName": "Taiko Pop Tap",
+  "CFBundleExecutable": "BNEI0361",
+  "CFBundleIcons": {
+    "CFBundlePrimaryIcon": {
+      "CFBundleIconFiles": [
+        "AppIcon60x60"
+      ],
+      "CFBundleIconName": "AppIcon"
+    }
+  },
+  "CFBundleIcons~ipad": {
+    "CFBundlePrimaryIcon": {
+      "CFBundleIconFiles": [
+        "AppIcon60x60",
+        "AppIcon76x76"
+      ],
+      "CFBundleIconName": "AppIcon"
+    }
+  },
+  "CFBundleIdentifier": "jp.co.bandainamcoent.BNEI0361",
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleLocalizations": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "ja",
+    "ja-JP",
+    "it",
+    "nl",
+    "pt-BR",
+    "ru",
+    "tr",
+    "zh-Hans",
+    "zh-Hant",
+    "ko",
+    "ko-KR"
+  ],
+  "CFBundleName": "Taiko Pop Tap",
+  "CFBundlePackageType": "APPL",
+  "CFBundleShortVersionString": "1.24.0",
+  "CFBundleSupportedPlatforms": [
+    "iPhoneOS"
+  ],
+  "CFBundleVersion": "159",
+  "DTAppStoreToolsBuild": "16C7015",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "DTPlatformBuild": "21E210",
+  "DTPlatformName": "iphoneos",
+  "DTPlatformVersion": "17.4",
+  "DTSDKBuild": "21E210",
+  "DTSDKName": "iphoneos17.4",
+  "DTXcode": "1530",
+  "DTXcodeBuild": "15E204a",
+  "GCSupportedGameControllers": [
+    {
+      "ProfileName": "ExtendedGamepad"
+    }
+  ],
+  "GCSupportsControllerUserInteraction": true,
+  "GCSupportsGameMode": true,
+  "LSRequiresIPhoneOS": true,
+  "MinimumOSVersion": "13.0",
+  "NSApplicationRequiresArcade": false,
+  "UIBackgroundModes": [
+    "remote-notification"
+  ],
+  "UIDeviceFamily": [
+    1,
+    2
+  ],
+  "UILaunchStoryboardName": "LaunchScreen-iPhone",
+  "UILaunchStoryboardName~ipad": "LaunchScreen-iPad",
+  "UILaunchStoryboardName~iphone": "LaunchScreen-iPhone",
+  "UILaunchStoryboardName~ipod": "LaunchScreen-iPhone",
+  "UIPrerenderedIcon": false,
+  "UIRequiredDeviceCapabilities": [
+    "arm64",
+    "metal",
+    "gamekit"
+  ],
+  "UIRequiresFullScreen": true,
+  "UIRequiresPersistentWiFi": false,
+  "UIStatusBarHidden": true,
+  "UIStatusBarStyle": "UIStatusBarStyleDefault",
+  "UISupportedInterfaceOrientations": [
+    "UIInterfaceOrientationLandscapeRight",
+    "UIInterfaceOrientationLandscapeLeft"
+  ],
+  "UIViewControllerBasedStatusBarAppearance": true,
+  "UnityAddRemoteNotificationCapability": true,
+  "UnityAddTimeSensitiveEntitlement": false,
+  "UnityNotificationDefaultAuthorizationOptions": 7,
+  "UnityNotificationRequestAuthorizationForRemoteNotificationsOnAppLaunch": true,
+  "UnityNotificationRequestAuthorizationOnAppLaunch": false,
+  "UnityRemoteNotificationForegroundPresentationOptions": -1,
+  "UnityUseAPSReleaseEnvironment": false,
+  "UnityUseLocationNotificationTrigger": false,
+  "Unity_LoadingActivityIndicatorStyle": -1
+}

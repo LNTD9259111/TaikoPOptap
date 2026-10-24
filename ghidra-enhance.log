@@ -1,0 +1,53 @@
+2026-10-24 16:45:34 INFO  (LoggingInitialization) Using log config file: jar:file:/C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/work/tools/ghidra/ghidra_12.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-10-24 16:45:34 INFO  (LoggingInitialization) Using log file: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-enhance.log  
+2026-10-24 16:45:34 DEBUG (GhidraObjectInputFilter) Including serial input filter: FileSystem/data/client.rmi.serial.filter  
+2026-10-24 16:45:34 INFO  (Preferences) Loading user preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\preferences  
+2026-10-24 16:45:34 INFO  (Preferences) Loading previous preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\preferences  
+2026-10-24 16:45:34 INFO  (ClassSearcher) Searching for classes...  
+2026-10-24 16:45:37 INFO  (ClassSearcher) Class search complete (2211 ms)  
+2026-10-24 16:45:37 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-10-24 16:45:37 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-10-24 16:45:37 INFO  (SecureRandomFactory) Random Number Generator initialization complete: SHA1PRNG  
+2026-10-24 16:45:37 INFO  (DefaultTrustManagerFactory) Loaded 57 trusted CA certificates from the OS trust store.  
+2026-10-24 16:45:37 INFO  (DefaultTrustManagerFactory) Loaded 118 trusted CA certificates from the Java default trust store.  
+2026-10-24 16:45:38 INFO  (AnalyzeHeadless) Headless startup complete (13873 ms)  
+2026-10-24 16:45:38 INFO  (ClassSearcher) Class searcher loaded 60 extension points (19 false positives)  
+2026-10-24 16:45:38 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Swift\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\DecompilerDependent\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PyGhidra\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts  
+2026-10-24 16:45:39 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-10-24 16:45:39 INFO  (HeadlessAnalyzer) Opening existing project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:45:39 INFO  (HeadlessProject) Opening project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:45:47 DEBUG (SleighLanguage) Took 1118ms (504ms inside lock) to initialize language C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.slaspec -> C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.sla  
+2026-10-24 16:45:48 INFO  (HeadlessAnalyzer) REPORT: Processing project file: /UnityFramework  
+2026-10-24 16:45:49 INFO  (HeadlessAnalyzer) REPORT: Execute script: EnhanceTaiko.java 'C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis'   
+2026-10-24 16:46:28 INFO  (HeadlessAnalyzer) SCRIPT: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\EnhanceTaiko.java  
+2026-10-24 16:46:34 INFO  (GhidraScript) EnhanceTaiko.java> Typed export finished OK=157 FAIL=0  
+2026-10-24 16:46:34 INFO  (HeadlessAnalyzer) REPORT: Execute script: RetryTaiko.java 'C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis'   
+2026-10-24 16:46:50 INFO  (HeadlessAnalyzer) SCRIPT: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\RetryTaiko.java  
+2026-10-24 16:46:50 INFO  (GhidraScript) RetryTaiko.java> Retry ConnectUpPlayer$$OptUpdate  
+2026-10-24 16:47:50 INFO  (GhidraScript) RetryTaiko.java> Retry SongListPlayer$$Update  
+2026-10-24 16:48:48 INFO  (GhidraScript) RetryTaiko.java> Retry SystemOptionsPlayer$$OptUpdate  
+2026-10-24 16:49:48 INFO  (GhidraScript) RetryTaiko.java> Retry complete OK=1 FAIL=2  
+2026-10-24 16:49:48 INFO  (HeadlessAnalyzer) REPORT: Save succeeded for processed file: /UnityFramework  

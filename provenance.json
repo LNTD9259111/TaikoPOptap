@@ -1,0 +1,19 @@
+{
+  "input_path": "C:\\Users\\trung\\Downloads\\taiko-no-tatsujin-pop-tap-beat-v1.24.0.ipa",
+  "size": 1126828985,
+  "sha256": "38671effecdc2a5583a667b01f27583b6289c63d63a731f82f3bc2c8fde5edfe",
+  "files": {
+    "extracted/Payload/BNEI0361.app/BNEI0361": {
+      "size": 80944,
+      "sha256": "c504ab14072cbd339756f877d4df1cc6da3d17d5e55c260566e6ca7097a9c940"
+    },
+    "extracted/Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework": {
+      "size": 51884080,
+      "sha256": "7eef88baf6d2c37064769f287b2755e8af21e4297278530aba0f500d53731503"
+    },
+    "extracted/Payload/BNEI0361.app/Data/Managed/Metadata/global-metadata.dat": {
+      "size": 8429464,
+      "sha256": "29c11cca8e1f463ed35b6fab0c4317df3f3d501412c68ff49cbef71481dd43b9"
+    }
+  }
+}

@@ -1,0 +1,421 @@
+2026-10-24 16:35:18 INFO  (LoggingInitialization) Using log config file: jar:file:/C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/work/tools/ghidra/ghidra_12.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-10-24 16:35:18 INFO  (LoggingInitialization) Using log file: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra.log  
+2026-10-24 16:35:18 DEBUG (GhidraObjectInputFilter) Including serial input filter: FileSystem/data/client.rmi.serial.filter  
+2026-10-24 16:35:18 INFO  (Preferences) Loading user preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\preferences  
+2026-10-24 16:35:18 INFO  (Preferences) Loading previous preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\preferences  
+2026-10-24 16:35:18 INFO  (ClassSearcher) Searching for classes...  
+2026-10-24 16:35:20 INFO  (ClassSearcher) Class search complete (2166 ms)  
+2026-10-24 16:35:20 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-10-24 16:35:21 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-10-24 16:35:21 INFO  (SecureRandomFactory) Random Number Generator initialization complete: SHA1PRNG  
+2026-10-24 16:35:21 INFO  (DefaultTrustManagerFactory) Loaded 57 trusted CA certificates from the OS trust store.  
+2026-10-24 16:35:21 INFO  (DefaultTrustManagerFactory) Loaded 118 trusted CA certificates from the Java default trust store.  
+2026-10-24 16:35:21 INFO  (FileCacheMaintenanceDaemon) Starting cache cleanup: C:\Users\trung\AppData\Local\ghidra\fscache2  
+2026-10-24 16:35:21 INFO  (FileCacheMaintenanceDaemon) Finished cache cleanup, estimated storage used: 0  
+2026-10-24 16:35:22 INFO  (AnalyzeHeadless) Headless startup complete (13520 ms)  
+2026-10-24 16:35:22 INFO  (ClassSearcher) Class searcher loaded 60 extension points (19 false positives)  
+2026-10-24 16:35:22 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Swift\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\DecompilerDependent\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PyGhidra\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts  
+2026-10-24 16:35:22 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-10-24 16:35:22 INFO  (HeadlessAnalyzer) Creating project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:35:22 DEBUG (DefaultProjectManager) No tools found; Installing default tools  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) Found the following default tools:   
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Debugger - defaultTools/Debugger.tool  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -CodeBrowser - defaultTools/CodeBrowser.tool  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Version Tracking - defaultTools/VersionTracking.tool  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Emulator - defaultTools/Emulator.tool  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) Found existing tools; merging existing tools:   
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Debugger - C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\tools\_debugger.tcd  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -CodeBrowser - C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\tools\_code_browser.tcd  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Version Tracking - C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\tools\_version _tracking.tcd  
+2026-10-24 16:35:23 DEBUG (DefaultProjectManager) -Emulator - C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\tools\_emulator.tcd  
+2026-10-24 16:35:23 INFO  (DefaultProject) Creating project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:35:23 INFO  (HeadlessAnalyzer) REPORT: Processing input files:   
+2026-10-24 16:35:23 INFO  (HeadlessAnalyzer)      project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:35:23 INFO  (HeadlessAnalyzer) IMPORTING: file:///C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/outputs/taiko-source-analysis/extracted/Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework  
+2026-10-24 16:35:34 WARN  (SleighCompile) 149 NOP constructors found  
+2026-10-24 16:35:34 WARN  (SleighCompile) Use -n switch to list each individually  
+2026-10-24 16:35:35 WARN  (SleighCompile) 24 unnecessary extensions/truncations were converted to copies  
+2026-10-24 16:35:35 WARN  (SleighCompile) Use -u switch to list each individually  
+2026-10-24 16:35:35 WARN  (SleighCompile) 1 operations wrote to temporaries that were not read  
+2026-10-24 16:35:35 WARN  (SleighCompile) Use -t switch to list each individually  
+2026-10-24 16:35:38 DEBUG (SleighLanguage) Took 7228ms (6648ms inside lock) to initialize language C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.slaspec -> C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.sla  
+2026-10-24 16:35:38 INFO  (ProgramLoader) Using Loader: Mac OS X Mach-O  
+2026-10-24 16:35:38 INFO  (ProgramLoader) Using Language/Compiler: AARCH64:LE:64:AppleSilicon:default  
+2026-10-24 16:35:38 INFO  (ProgramLoader) Using Library Search Path: [., C:\Windows\SysWOW64, C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\java\jdk-25.0.4.1+1\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell, C:\Users\trung\.codex\tmp\arg0-windows\codex-arg0Q5VsTk, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\libheif\libheif\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\jxrlib\jxrlib\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override, C:\Program Files (x86)\VMware\VMware Workstation\bin\, C:\Python314\Scripts\, C:\Python314\, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR, C:\Program Files\dotnet\, C:\Program Files\Cloudflare\Cloudflare WARP\, C:\Program Files\nodejs\, C:\ProgramData\chocolatey\bin, C:\Program Files\Git\cmd, C:\Users\trung\.local\bin, C:\Users\trung\AppData\Local\Microsoft\WindowsApps, C:\Users\trung\AppData\Roaming\npm, C:\Users\trung\AppData\Local\Programs\Microsoft VS Code\bin, C:\Users\trung\.dotnet\tools, C:\Users\trung\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd, C:\Users\trung\AppData\Local\OpenAI\Codex\bin\2d8a5d5756dbf318, C:\Users\trung\AppData\Local\OpenAI\Codex\bin\37f54d68e5533a51]  
+2026-10-24 16:35:48 INFO  (ProgramLoader) Additional info:
+Loading file:///C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/outputs/taiko-source-analysis/extracted/Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework?MD5=720ea3e542d330f7ec3de492b67cb114...
+------------------------------------------------
+
+Linking the External Programs of 'UnityFramework' to imported libraries...
+  [/System/Library/Frameworks/CoreMotion.framework/CoreMotion] -> not found in project
+  [/usr/lib/libSystem.B.dylib] -> not found in project
+  [/System/Library/Frameworks/Metal.framework/Metal] -> not found in project
+  [/System/Library/Frameworks/Security.framework/Security] -> not found in project
+  [/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox] -> not found in project
+  [/System/Library/Frameworks/CoreText.framework/CoreText] -> not found in project
+  [/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox] -> not found in project
+  [/System/Library/Frameworks/AVFoundation.framework/AVFoundation] -> not found in project
+  [/System/Library/Frameworks/AVKit.framework/AVKit] -> not found in project
+  [/System/Library/Frameworks/CFNetwork.framework/CFNetwork] -> not found in project
+  [/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics] -> not found in project
+  [/System/Library/Frameworks/CoreMedia.framework/CoreMedia] -> not found in project
+  [/System/Library/Frameworks/CoreVideo.framework/CoreVideo] -> not found in project
+  [/System/Library/Frameworks/Foundation.framework/Foundation] -> not found in project
+  [/System/Library/Frameworks/OpenAL.framework/OpenAL] -> not found in project
+  [/System/Library/Frameworks/QuartzCore.framework/QuartzCore] -> not found in project
+  [/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration] -> not found in project
+  [/System/Library/Frameworks/UIKit.framework/UIKit] -> not found in project
+  [/usr/lib/libiconv.2.dylib] -> not found in project
+  [/System/Library/Frameworks/StoreKit.framework/StoreKit] -> not found in project
+  [/System/Library/Frameworks/GameController.framework/GameController] -> not found in project
+  [/System/Library/Frameworks/VideoToolbox.framework/VideoToolbox] -> not found in project
+  [/System/Library/Frameworks/OpenGLES.framework/OpenGLES] -> not found in project
+  [/System/Library/Frameworks/UserNotifications.framework/UserNotifications] -> not found in project
+  [/System/Library/Frameworks/GameKit.framework/GameKit] -> not found in project
+  [/System/Library/Frameworks/CloudKit.framework/CloudKit] -> not found in project
+  [/usr/lib/libobjc.A.dylib] -> not found in project
+  [/usr/lib/libc++.1.dylib] -> not found in project
+  [/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation] -> not found in project
+  [/usr/lib/swift/libswiftAVFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCore.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreAudio.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreImage.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreMIDI.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreMedia.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDarwin.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDataDetection.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDispatch.dylib] -> not found in project
+  [/usr/lib/swift/libswiftFileProvider.dylib] -> not found in project
+  [/usr/lib/swift/libswiftGLKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftGameplayKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftMetal.dylib] -> not found in project
+  [/usr/lib/swift/libswiftMetalKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftModelIO.dylib] -> not found in project
+  [/usr/lib/swift/libswiftObjectiveC.dylib] -> not found in project
+  [/usr/lib/swift/libswiftQuartzCore.dylib] -> not found in project
+  [/usr/lib/swift/libswiftSceneKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftSpriteKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftUniformTypeIdentifiers.dylib] -> not found in project
+  [/usr/lib/swift/libswiftXPC.dylib] -> not found in project
+  [/usr/lib/swift/libswiftos.dylib] -> not found in project
+  [/usr/lib/swift/libswiftsimd.dylib] -> not found in project
+  [/usr/lib/swift/libswiftFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftUIKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreGraphics.dylib] -> not found in project
+------------------------------------------------
+
+  
+2026-10-24 16:35:49 INFO  (HeadlessAnalyzer) IMPORTING: Loaded 0 additional files  
+2026-10-24 16:35:50 INFO  (HeadlessAnalyzer) REPORT: Execute script: ExportTaiko.java 'C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis'   
+2026-10-24 16:36:32 INFO  (HeadlessAnalyzer) SCRIPT: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\ExportTaiko.java  
+2026-10-24 16:36:32 INFO  (GhidraScript) ExportTaiko.java> Image base=00000000 starts=202720 targets=11585  
+2026-10-24 16:36:34 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 20000  
+2026-10-24 16:36:36 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 40000  
+2026-10-24 16:36:37 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 60000  
+2026-10-24 16:36:39 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 80000  
+2026-10-24 16:36:41 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 100000  
+2026-10-24 16:36:43 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 120000  
+2026-10-24 16:36:45 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 140000  
+2026-10-24 16:36:47 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 160000  
+2026-10-24 16:36:49 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 180000  
+2026-10-24 16:36:51 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 200000  
+2026-10-24 16:36:52 INFO  (GhidraScript) ExportTaiko.java> Function boundaries ready: 202720  
+2026-10-24 16:36:55 INFO  (GhidraScript) ExportTaiko.java> Metadata labels ready.  
+2026-10-24 16:36:56 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=body_068000$$.ctor  
+2026-10-24 16:36:57 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=head_047000$$.ctor  
+2026-10-24 16:37:00 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=EnsoNetworkManager.PlayerStateCoop$$.ctor  
+2026-10-24 16:37:02 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AnalyticsSettingWindowScript$$MessageCenter  
+2026-10-24 16:37:03 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AwsScript$$SetAmazonSnsSettings  
+2026-10-24 16:37:04 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AgreementPlayer$$<sendAWSMusicAnalysisData>b__100_0  
+2026-10-24 16:37:06 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SongListPlayer$$PostPlayAnalysisMatchSuccess  
+2026-10-24 16:37:08 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=UnityEngine.UI.CustomScrollRect$$GraphicUpdateComplete  
+2026-10-24 16:37:10 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SRDebugger.Profiler.SRPProfilerService.<EndOfFrameCoroutine>d__19$$MoveNext  
+2026-10-24 16:37:11 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SA.Foundation.PropertyDrawers.Attributes.SA_PD_HeaderDecoratorAttribute$$.ctor  
+2026-10-24 16:37:12 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=native_eb8fc8  
+2026-10-24 16:37:13 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=native_f26e28  
+2026-10-24 16:37:13 INFO  (GhidraScript) ExportTaiko.java> Disassembly ready; applied signatures=10686  
+2026-10-24 16:38:28 INFO  (LoggingInitialization) Using log config file: jar:file:/C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/work/tools/ghidra/ghidra_12.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-10-24 16:38:28 INFO  (LoggingInitialization) Using log file: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra.log  
+2026-10-24 16:38:28 DEBUG (GhidraObjectInputFilter) Including serial input filter: FileSystem/data/client.rmi.serial.filter  
+2026-10-24 16:38:28 INFO  (Preferences) Loading user preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.2_PUBLIC\preferences  
+2026-10-24 16:38:28 INFO  (Preferences) Loading previous preferences: C:\Users\trung\AppData\Roaming\ghidra\ghidra_12.0.1_PUBLIC\preferences  
+2026-10-24 16:38:28 INFO  (ClassSearcher) Searching for classes...  
+2026-10-24 16:38:30 INFO  (ClassSearcher) Class search complete (1914 ms)  
+2026-10-24 16:38:30 INFO  (DefaultSSLContextInitializer) Initializing SSL Context  
+2026-10-24 16:38:30 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-10-24 16:38:30 INFO  (SecureRandomFactory) Random Number Generator initialization complete: SHA1PRNG  
+2026-10-24 16:38:30 INFO  (DefaultTrustManagerFactory) Loaded 57 trusted CA certificates from the OS trust store.  
+2026-10-24 16:38:31 INFO  (DefaultTrustManagerFactory) Loaded 118 trusted CA certificates from the Java default trust store.  
+2026-10-24 16:38:31 INFO  (AnalyzeHeadless) Headless startup complete (4844 ms)  
+2026-10-24 16:38:31 INFO  (ClassSearcher) Class searcher loaded 60 extension points (19 false positives)  
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer) HEADLESS Script Paths:
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\SystemEmulation\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\WildcardAssembler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FileFormats\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PDB\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\DATA\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\FunctionID\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Swift\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\VersionTracking\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\DecompilerDependent\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Debug\Debugger-rmi-trace\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Decompiler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\GnuDemangler\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\PIC\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\8051\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\Atmel\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\Base\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BSim\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\BytePatterns\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Features\PyGhidra\ghidra_scripts
+    C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\JVM\ghidra_scripts  
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer) HEADLESS: execution starts  
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer) Opening existing project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:38:32 INFO  (HeadlessProject) Opening project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer) REPORT: Processing input files:   
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer)      project: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis\ghidra-project\Taiko  
+2026-10-24 16:38:32 INFO  (HeadlessAnalyzer) IMPORTING: file:///C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/outputs/taiko-source-analysis/extracted/Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework  
+2026-10-24 16:38:39 DEBUG (SleighLanguage) Took 859ms (343ms inside lock) to initialize language C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.slaspec -> C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\ghidra\ghidra_12.2_PUBLIC\Ghidra\Processors\AARCH64\data\languages\AARCH64_AppleSilicon.sla  
+2026-10-24 16:38:39 INFO  (ProgramLoader) Using Loader: Mac OS X Mach-O  
+2026-10-24 16:38:39 INFO  (ProgramLoader) Using Language/Compiler: AARCH64:LE:64:AppleSilicon:default  
+2026-10-24 16:38:39 INFO  (ProgramLoader) Using Library Search Path: [., C:\Windows\SysWOW64, C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\tools\java\jdk-25.0.4.1+1\bin, C:\Windows\Sun\Java\bin, C:\Windows\system32, C:\Windows, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell, C:\Users\trung\.codex\tmp\arg0-windows\codex-arg0Q5VsTk, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\libheif\libheif\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\jxrlib\jxrlib\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override, C:\Program Files (x86)\VMware\VMware Workstation\bin\, C:\Python314\Scripts\, C:\Python314\, C:\Windows\System32\Wbem, C:\Windows\System32\WindowsPowerShell\v1.0\, C:\Windows\System32\OpenSSH\, C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common, C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR, C:\Program Files\dotnet\, C:\Program Files\Cloudflare\Cloudflare WARP\, C:\Program Files\nodejs\, C:\ProgramData\chocolatey\bin, C:\Program Files\Git\cmd, C:\Users\trung\.local\bin, C:\Users\trung\AppData\Local\Microsoft\WindowsApps, C:\Users\trung\AppData\Roaming\npm, C:\Users\trung\AppData\Local\Programs\Microsoft VS Code\bin, C:\Users\trung\.dotnet\tools, C:\Users\trung\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin, C:\Users\trung\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd, C:\Users\trung\AppData\Local\OpenAI\Codex\bin\2d8a5d5756dbf318, C:\Users\trung\AppData\Local\OpenAI\Codex\bin\37f54d68e5533a51]  
+2026-10-24 16:38:50 INFO  (ProgramLoader) Additional info:
+Loading file:///C:/Users/trung/Documents/Codex/2026-10-24/ta-x20/outputs/taiko-source-analysis/extracted/Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework?MD5=720ea3e542d330f7ec3de492b67cb114...
+------------------------------------------------
+
+Linking the External Programs of 'UnityFramework' to imported libraries...
+  [/System/Library/Frameworks/CoreMotion.framework/CoreMotion] -> not found in project
+  [/usr/lib/libSystem.B.dylib] -> not found in project
+  [/System/Library/Frameworks/Metal.framework/Metal] -> not found in project
+  [/System/Library/Frameworks/Security.framework/Security] -> not found in project
+  [/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox] -> not found in project
+  [/System/Library/Frameworks/CoreText.framework/CoreText] -> not found in project
+  [/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox] -> not found in project
+  [/System/Library/Frameworks/AVFoundation.framework/AVFoundation] -> not found in project
+  [/System/Library/Frameworks/AVKit.framework/AVKit] -> not found in project
+  [/System/Library/Frameworks/CFNetwork.framework/CFNetwork] -> not found in project
+  [/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics] -> not found in project
+  [/System/Library/Frameworks/CoreMedia.framework/CoreMedia] -> not found in project
+  [/System/Library/Frameworks/CoreVideo.framework/CoreVideo] -> not found in project
+  [/System/Library/Frameworks/Foundation.framework/Foundation] -> not found in project
+  [/System/Library/Frameworks/OpenAL.framework/OpenAL] -> not found in project
+  [/System/Library/Frameworks/QuartzCore.framework/QuartzCore] -> not found in project
+  [/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration] -> not found in project
+  [/System/Library/Frameworks/UIKit.framework/UIKit] -> not found in project
+  [/usr/lib/libiconv.2.dylib] -> not found in project
+  [/System/Library/Frameworks/StoreKit.framework/StoreKit] -> not found in project
+  [/System/Library/Frameworks/GameController.framework/GameController] -> not found in project
+  [/System/Library/Frameworks/VideoToolbox.framework/VideoToolbox] -> not found in project
+  [/System/Library/Frameworks/OpenGLES.framework/OpenGLES] -> not found in project
+  [/System/Library/Frameworks/UserNotifications.framework/UserNotifications] -> not found in project
+  [/System/Library/Frameworks/GameKit.framework/GameKit] -> not found in project
+  [/System/Library/Frameworks/CloudKit.framework/CloudKit] -> not found in project
+  [/usr/lib/libobjc.A.dylib] -> not found in project
+  [/usr/lib/libc++.1.dylib] -> not found in project
+  [/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation] -> not found in project
+  [/usr/lib/swift/libswiftAVFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCore.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreAudio.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreImage.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreMIDI.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreMedia.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDarwin.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDataDetection.dylib] -> not found in project
+  [/usr/lib/swift/libswiftDispatch.dylib] -> not found in project
+  [/usr/lib/swift/libswiftFileProvider.dylib] -> not found in project
+  [/usr/lib/swift/libswiftGLKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftGameplayKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftMetal.dylib] -> not found in project
+  [/usr/lib/swift/libswiftMetalKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftModelIO.dylib] -> not found in project
+  [/usr/lib/swift/libswiftObjectiveC.dylib] -> not found in project
+  [/usr/lib/swift/libswiftQuartzCore.dylib] -> not found in project
+  [/usr/lib/swift/libswiftSceneKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftSpriteKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftUniformTypeIdentifiers.dylib] -> not found in project
+  [/usr/lib/swift/libswiftXPC.dylib] -> not found in project
+  [/usr/lib/swift/libswiftos.dylib] -> not found in project
+  [/usr/lib/swift/libswiftsimd.dylib] -> not found in project
+  [/usr/lib/swift/libswiftFoundation.dylib] -> not found in project
+  [/usr/lib/swift/libswiftUIKit.dylib] -> not found in project
+  [/usr/lib/swift/libswiftCoreGraphics.dylib] -> not found in project
+------------------------------------------------
+
+  
+2026-10-24 16:38:50 INFO  (HeadlessAnalyzer) IMPORTING: Loaded 0 additional files  
+2026-10-24 16:38:51 INFO  (HeadlessAnalyzer) REPORT: Execute script: ExportTaiko.java 'C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\outputs\taiko-source-analysis'   
+2026-10-24 16:39:15 INFO  (HeadlessAnalyzer) SCRIPT: C:\Users\trung\Documents\Codex\2026-10-24\ta-x20\work\ExportTaiko.java  
+2026-10-24 16:39:16 INFO  (GhidraScript) ExportTaiko.java> Image base=00000000 starts=202720 targets=11585  
+2026-10-24 16:39:17 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 20000  
+2026-10-24 16:39:19 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 40000  
+2026-10-24 16:39:21 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 60000  
+2026-10-24 16:39:22 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 80000  
+2026-10-24 16:39:24 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 100000  
+2026-10-24 16:39:26 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 120000  
+2026-10-24 16:39:28 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 140000  
+2026-10-24 16:39:30 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 160000  
+2026-10-24 16:39:32 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 180000  
+2026-10-24 16:39:34 INFO  (GhidraScript) ExportTaiko.java> Created function boundaries: 200000  
+2026-10-24 16:39:34 INFO  (GhidraScript) ExportTaiko.java> Function boundaries ready: 202720  
+2026-10-24 16:39:38 INFO  (GhidraScript) ExportTaiko.java> Metadata labels ready.  
+2026-10-24 16:39:39 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=body_068000$$.ctor  
+2026-10-24 16:39:40 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=head_047000$$.ctor  
+2026-10-24 16:39:43 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=EnsoNetworkManager.PlayerStateCoop$$.ctor  
+2026-10-24 16:39:45 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AnalyticsSettingWindowScript$$MessageCenter  
+2026-10-24 16:39:47 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AwsScript$$SetAmazonSnsSettings  
+2026-10-24 16:39:49 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=AgreementPlayer$$<sendAWSMusicAnalysisData>b__100_0  
+2026-10-24 16:39:52 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SongListPlayer$$PostPlayAnalysisMatchSuccess  
+2026-10-24 16:39:55 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=UnityEngine.UI.CustomScrollRect$$GraphicUpdateComplete  
+2026-10-24 16:39:57 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SRDebugger.Profiler.SRPProfilerService.<EndOfFrameCoroutine>d__19$$MoveNext  
+2026-10-24 16:39:59 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=SA.Foundation.PropertyDrawers.Attributes.SA_PD_HeaderDecoratorAttribute$$.ctor  
+2026-10-24 16:40:00 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=native_eb8fc8  
+2026-10-24 16:40:01 INFO  (GhidraScript) ExportTaiko.java> Disassembled targets; current=native_f26e28  
+2026-10-24 16:40:05 INFO  (GhidraScript) ExportTaiko.java> Fixed tail branches=4722 boundary fallthroughs=4567  
+2026-10-24 16:40:05 INFO  (GhidraScript) ExportTaiko.java> Disassembly ready; applied signatures=10686  
+2026-10-24 16:40:07 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 100/11585 OK=100 FAIL=0  
+2026-10-24 16:40:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 200/11585 OK=200 FAIL=0  
+2026-10-24 16:40:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 300/11585 OK=300 FAIL=0  
+2026-10-24 16:40:09 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 400/11585 OK=400 FAIL=0  
+2026-10-24 16:40:10 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 500/11585 OK=500 FAIL=0  
+2026-10-24 16:40:10 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 600/11585 OK=600 FAIL=0  
+2026-10-24 16:40:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 700/11585 OK=700 FAIL=0  
+2026-10-24 16:40:12 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 800/11585 OK=800 FAIL=0  
+2026-10-24 16:40:12 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 900/11585 OK=900 FAIL=0  
+2026-10-24 16:40:13 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1000/11585 OK=1000 FAIL=0  
+2026-10-24 16:40:13 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1100/11585 OK=1100 FAIL=0  
+2026-10-24 16:40:14 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1200/11585 OK=1200 FAIL=0  
+2026-10-24 16:40:15 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1300/11585 OK=1300 FAIL=0  
+2026-10-24 16:40:15 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1400/11585 OK=1400 FAIL=0  
+2026-10-24 16:40:16 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1500/11585 OK=1500 FAIL=0  
+2026-10-24 16:40:17 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1600/11585 OK=1600 FAIL=0  
+2026-10-24 16:40:18 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1700/11585 OK=1700 FAIL=0  
+2026-10-24 16:40:20 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1800/11585 OK=1800 FAIL=0  
+2026-10-24 16:40:21 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 1900/11585 OK=1900 FAIL=0  
+2026-10-24 16:40:23 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2000/11585 OK=2000 FAIL=0  
+2026-10-24 16:40:25 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2100/11585 OK=2100 FAIL=0  
+2026-10-24 16:40:27 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2200/11585 OK=2200 FAIL=0  
+2026-10-24 16:40:29 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2300/11585 OK=2300 FAIL=0  
+2026-10-24 16:40:31 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2400/11585 OK=2400 FAIL=0  
+2026-10-24 16:40:32 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2500/11585 OK=2500 FAIL=0  
+2026-10-24 16:40:35 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2600/11585 OK=2600 FAIL=0  
+2026-10-24 16:40:36 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2700/11585 OK=2700 FAIL=0  
+2026-10-24 16:40:37 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2800/11585 OK=2800 FAIL=0  
+2026-10-24 16:40:40 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 2900/11585 OK=2900 FAIL=0  
+2026-10-24 16:40:42 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3000/11585 OK=3000 FAIL=0  
+2026-10-24 16:40:45 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3100/11585 OK=3100 FAIL=0  
+2026-10-24 16:40:46 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3200/11585 OK=3200 FAIL=0  
+2026-10-24 16:40:48 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3300/11585 OK=3300 FAIL=0  
+2026-10-24 16:40:49 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3400/11585 OK=3400 FAIL=0  
+2026-10-24 16:40:51 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3500/11585 OK=3500 FAIL=0  
+2026-10-24 16:40:54 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3600/11585 OK=3600 FAIL=0  
+2026-10-24 16:40:55 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3700/11585 OK=3700 FAIL=0  
+2026-10-24 16:40:57 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3800/11585 OK=3800 FAIL=0  
+2026-10-24 16:40:59 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 3900/11585 OK=3900 FAIL=0  
+2026-10-24 16:41:00 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4000/11585 OK=4000 FAIL=0  
+2026-10-24 16:41:00 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4100/11585 OK=4100 FAIL=0  
+2026-10-24 16:41:04 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4200/11585 OK=4200 FAIL=0  
+2026-10-24 16:41:05 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4300/11585 OK=4300 FAIL=0  
+2026-10-24 16:41:07 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4400/11585 OK=4400 FAIL=0  
+2026-10-24 16:41:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4500/11585 OK=4500 FAIL=0  
+2026-10-24 16:41:09 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4600/11585 OK=4600 FAIL=0  
+2026-10-24 16:41:10 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4700/11585 OK=4700 FAIL=0  
+2026-10-24 16:41:12 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4800/11585 OK=4800 FAIL=0  
+2026-10-24 16:41:24 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 4900/11585 OK=4900 FAIL=0  
+2026-10-24 16:41:26 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5000/11585 OK=5000 FAIL=0  
+2026-10-24 16:41:27 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5100/11585 OK=5100 FAIL=0  
+2026-10-24 16:41:29 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5200/11585 OK=5200 FAIL=0  
+2026-10-24 16:41:32 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5300/11585 OK=5300 FAIL=0  
+2026-10-24 16:42:05 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5400/11585 OK=5399 FAIL=1  
+2026-10-24 16:42:06 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5500/11585 OK=5499 FAIL=1  
+2026-10-24 16:42:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5600/11585 OK=5599 FAIL=1  
+2026-10-24 16:42:13 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5700/11585 OK=5699 FAIL=1  
+2026-10-24 16:42:21 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5800/11585 OK=5799 FAIL=1  
+2026-10-24 16:42:25 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 5900/11585 OK=5899 FAIL=1  
+2026-10-24 16:42:29 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6000/11585 OK=5999 FAIL=1  
+2026-10-24 16:42:30 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6100/11585 OK=6099 FAIL=1  
+2026-10-24 16:42:30 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6200/11585 OK=6199 FAIL=1  
+2026-10-24 16:43:23 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6300/11585 OK=6298 FAIL=2  
+2026-10-24 16:43:27 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6400/11585 OK=6398 FAIL=2  
+2026-10-24 16:43:29 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6500/11585 OK=6498 FAIL=2  
+2026-10-24 16:43:31 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6600/11585 OK=6598 FAIL=2  
+2026-10-24 16:44:09 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6700/11585 OK=6697 FAIL=3  
+2026-10-24 16:44:10 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6800/11585 OK=6797 FAIL=3  
+2026-10-24 16:44:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 6900/11585 OK=6897 FAIL=3  
+2026-10-24 16:44:19 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7000/11585 OK=6997 FAIL=3  
+2026-10-24 16:44:20 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7100/11585 OK=7097 FAIL=3  
+2026-10-24 16:44:21 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7200/11585 OK=7197 FAIL=3  
+2026-10-24 16:44:22 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7300/11585 OK=7297 FAIL=3  
+2026-10-24 16:44:24 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7400/11585 OK=7397 FAIL=3  
+2026-10-24 16:44:25 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7500/11585 OK=7497 FAIL=3  
+2026-10-24 16:44:26 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7600/11585 OK=7597 FAIL=3  
+2026-10-24 16:44:28 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7700/11585 OK=7697 FAIL=3  
+2026-10-24 16:44:29 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7800/11585 OK=7797 FAIL=3  
+2026-10-24 16:44:31 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 7900/11585 OK=7897 FAIL=3  
+2026-10-24 16:44:33 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8000/11585 OK=7997 FAIL=3  
+2026-10-24 16:44:34 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8100/11585 OK=8097 FAIL=3  
+2026-10-24 16:44:36 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8200/11585 OK=8197 FAIL=3  
+2026-10-24 16:44:42 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8300/11585 OK=8297 FAIL=3  
+2026-10-24 16:44:44 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8400/11585 OK=8397 FAIL=3  
+2026-10-24 16:44:47 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8500/11585 OK=8497 FAIL=3  
+2026-10-24 16:44:49 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8600/11585 OK=8597 FAIL=3  
+2026-10-24 16:44:51 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8700/11585 OK=8697 FAIL=3  
+2026-10-24 16:44:53 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8800/11585 OK=8797 FAIL=3  
+2026-10-24 16:44:54 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 8900/11585 OK=8897 FAIL=3  
+2026-10-24 16:44:55 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9000/11585 OK=8997 FAIL=3  
+2026-10-24 16:44:56 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9100/11585 OK=9097 FAIL=3  
+2026-10-24 16:44:58 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9200/11585 OK=9197 FAIL=3  
+2026-10-24 16:45:02 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9300/11585 OK=9297 FAIL=3  
+2026-10-24 16:45:04 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9400/11585 OK=9397 FAIL=3  
+2026-10-24 16:45:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9500/11585 OK=9497 FAIL=3  
+2026-10-24 16:45:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9600/11585 OK=9597 FAIL=3  
+2026-10-24 16:45:08 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9700/11585 OK=9697 FAIL=3  
+2026-10-24 16:45:09 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9800/11585 OK=9797 FAIL=3  
+2026-10-24 16:45:09 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 9900/11585 OK=9897 FAIL=3  
+2026-10-24 16:45:10 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10000/11585 OK=9997 FAIL=3  
+2026-10-24 16:45:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10100/11585 OK=10097 FAIL=3  
+2026-10-24 16:45:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10200/11585 OK=10197 FAIL=3  
+2026-10-24 16:45:11 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10300/11585 OK=10297 FAIL=3  
+2026-10-24 16:45:12 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10400/11585 OK=10397 FAIL=3  
+2026-10-24 16:45:12 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10500/11585 OK=10497 FAIL=3  
+2026-10-24 16:45:13 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10600/11585 OK=10597 FAIL=3  
+2026-10-24 16:45:13 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10700/11585 OK=10697 FAIL=3  
+2026-10-24 16:45:14 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10800/11585 OK=10797 FAIL=3  
+2026-10-24 16:45:15 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 10900/11585 OK=10897 FAIL=3  
+2026-10-24 16:45:16 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11000/11585 OK=10997 FAIL=3  
+2026-10-24 16:45:17 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11100/11585 OK=11097 FAIL=3  
+2026-10-24 16:45:17 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11200/11585 OK=11197 FAIL=3  
+2026-10-24 16:45:18 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11300/11585 OK=11297 FAIL=3  
+2026-10-24 16:45:19 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11400/11585 OK=11397 FAIL=3  
+2026-10-24 16:45:20 INFO  (GhidraScript) ExportTaiko.java> DECOMPILE 11500/11585 OK=11497 FAIL=3  
+2026-10-24 16:45:20 INFO  (GhidraScript) ExportTaiko.java> FINISHED OK=11582 FAIL=3  
+2026-10-24 16:45:22 INFO  (LocalFileSystem) /UnityFramework: file created (trung)  
+2026-10-24 16:45:22 INFO  (HeadlessAnalyzer) REPORT: Save succeeded for: /UnityFramework (Taiko:/UnityFramework)  
+2026-10-24 16:45:22 INFO  (HeadlessAnalyzer) REPORT: Import succeeded  

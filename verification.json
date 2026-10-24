@@ -1,0 +1,27 @@
+{
+  "method_targets": 11585,
+  "decompiled_ok": 11583,
+  "decompiled_failed": [
+    {
+      "address": "0xf9fec4",
+      "class_file": "02784_ConnectUpPlayer.c",
+      "method": "ConnectUpPlayer$$OptUpdate",
+      "status": "failed"
+    },
+    {
+      "address": "0x100e294",
+      "class_file": "02923_SystemOptionsPlayer.c",
+      "method": "SystemOptionsPlayer$$OptUpdate",
+      "status": "failed"
+    }
+  ],
+  "csharp_types": 1697,
+  "viewer_entries": 1699,
+  "viewer_entries_with_native": 1340,
+  "native_output_blocks": 11585,
+  "viewer_javascript_syntax": "passed",
+  "viewer_link_targets": "passed",
+  "visual_browser_review": "not performed: integrated browser blocks file:// URLs",
+  "original_binary_hashes": "verified unchanged",
+  "typed_summary": "success=157\nfailed=0\n"
+}

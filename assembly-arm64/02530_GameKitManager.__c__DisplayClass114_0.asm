@@ -1,0 +1,14 @@
+
+; GameKitManager.<>c__DisplayClass114_0$$.ctor | RVA 0x110024c
+; void GameKitManager___c__DisplayClass114_0___ctor (GameKitManager___c__DisplayClass114_0_o* __this, const MethodInfo* method);
+; ARM64 disassembly of original binary; addresses use the unslid image base.
+0110024c  010080d2  mov       x1, #0
+01100250  e2333c14  b         #0x200d1d8 ; System.Object$$.ctor
+
+; GameKitManager.<>c__DisplayClass114_0$$<ResetRankUpData>b__0 | RVA 0x11012e4
+; bool GameKitManager___c__DisplayClass114_0___ResetRankUpData_b__0 (GameKitManager___c__DisplayClass114_0_o* __this, GameKitManager_tRankUpFlag_o f, const MethodInfo* method);
+; ARM64 disassembly of original binary; addresses use the unslid image base.
+011012e4  081040b9  ldr       w8, [x0, #0x10]
+011012e8  1f01016b  cmp       w8, w1
+011012ec  e0179f1a  cset      w0, eq
+011012f0  c0035fd6  ret       

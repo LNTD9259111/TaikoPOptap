@@ -1,0 +1,919 @@
+[
+  {
+    "name": "EnsoInput_o",
+    "class": "EnsoInput",
+    "fields": [
+      {
+        "offset": 16,
+        "type": "int32_t",
+        "size": 4,
+        "name": "InputFlagHistoryMax",
+        "originalType": "int"
+      },
+      {
+        "offset": 20,
+        "type": "int32_t",
+        "size": 4,
+        "name": "RendaHitFrame",
+        "originalType": "int"
+      },
+      {
+        "offset": 24,
+        "type": "int32_t",
+        "size": 4,
+        "name": "DaiRendaHitFrame",
+        "originalType": "int"
+      },
+      {
+        "offset": 28,
+        "type": "int32_t",
+        "size": 4,
+        "name": "GekiRendaHitFrame",
+        "originalType": "int"
+      },
+      {
+        "offset": 32,
+        "type": "int32_t",
+        "size": 4,
+        "name": "ImoRendaHitFrame",
+        "originalType": "int"
+      },
+      {
+        "offset": 36,
+        "type": "float",
+        "size": 4,
+        "name": "AutoTimeOffset",
+        "originalType": "float"
+      },
+      {
+        "offset": 40,
+        "type": "*void",
+        "size": 8,
+        "name": "playerInfo",
+        "originalType": "EnsoInput.PlayerInfo[]"
+      },
+      {
+        "offset": 48,
+        "type": "int32_t",
+        "size": 4,
+        "name": "playerNum",
+        "originalType": "int"
+      },
+      {
+        "offset": 56,
+        "type": "*void",
+        "size": 8,
+        "name": "touchInput",
+        "originalType": "BaseTouchTaiko"
+      },
+      {
+        "offset": 64,
+        "type": "*void",
+        "size": 8,
+        "name": "keyInput",
+        "originalType": "KeyInput"
+      },
+      {
+        "offset": 72,
+        "type": "*void",
+        "size": 8,
+        "name": "ensoParam",
+        "originalType": "EnsoPlayingParameter"
+      },
+      {
+        "offset": 80,
+        "type": "float",
+        "size": 4,
+        "name": "offsetTimeAdjustMent",
+        "originalType": "float"
+      },
+      {
+        "offset": 84,
+        "type": "bool",
+        "size": 1,
+        "name": "inputBlocked",
+        "originalType": "bool"
+      }
+    ],
+    "size": 85
+  },
+  {
+    "name": "TaikoCorePlayer_o",
+    "class": "TaikoCorePlayer",
+    "fields": [
+      {
+        "offset": 16,
+        "type": "*void",
+        "size": 8,
+        "name": "dataManager",
+        "originalType": "EnsoDataManager"
+      },
+      {
+        "offset": 24,
+        "type": "*FumenLoader_o",
+        "size": 8,
+        "name": "fumenLoader",
+        "originalType": "FumenLoader"
+      },
+      {
+        "offset": 32,
+        "type": "*LibTaikoWrapper_o",
+        "size": 8,
+        "name": "wrapper",
+        "originalType": "LibTaikoWrapper"
+      },
+      {
+        "offset": 40,
+        "type": "*EnsoInput_o",
+        "size": 8,
+        "name": "ensoInput",
+        "originalType": "EnsoInput"
+      },
+      {
+        "offset": 48,
+        "type": "*void",
+        "size": 8,
+        "name": "ensoSound",
+        "originalType": "EnsoSound"
+      },
+      {
+        "offset": 56,
+        "type": "bytes:136",
+        "size": 136,
+        "name": "settings",
+        "originalType": "EnsoData.Settings"
+      },
+      {
+        "offset": 192,
+        "type": "*void",
+        "size": 8,
+        "name": "simpleInput",
+        "originalType": "TaikoCorePlayer.SimpleInput[]"
+      },
+      {
+        "offset": 200,
+        "type": "float",
+        "size": 4,
+        "name": "totalTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 204,
+        "type": "bool",
+        "size": 1,
+        "name": "isPlaying",
+        "originalType": "bool"
+      },
+      {
+        "offset": 205,
+        "type": "bool",
+        "size": 1,
+        "name": "isFirstUpdate",
+        "originalType": "bool"
+      },
+      {
+        "offset": 206,
+        "type": "bool",
+        "size": 1,
+        "name": "isInitialized",
+        "originalType": "bool"
+      }
+    ],
+    "size": 207
+  },
+  {
+    "name": "LibTaikoWrapper_o",
+    "class": "LibTaikoWrapper",
+    "fields": [
+      {
+        "offset": 16,
+        "type": "*void",
+        "size": 8,
+        "name": "fumenFileData",
+        "originalType": "LibTaikoWrapper.FumenFileData[]"
+      },
+      {
+        "offset": 24,
+        "type": "bytes:16",
+        "size": 16,
+        "name": "initDesc",
+        "originalType": "CoreInitDesc"
+      },
+      {
+        "offset": 40,
+        "type": "*void",
+        "size": 8,
+        "name": "playerSettings",
+        "originalType": "PlayerSetting[]"
+      },
+      {
+        "offset": 48,
+        "type": "bool",
+        "size": 1,
+        "name": "isLibTaikoInitialized",
+        "originalType": "bool"
+      },
+      {
+        "offset": 56,
+        "type": "*void",
+        "size": 8,
+        "name": "_CoreResults_k__BackingField",
+        "originalType": "TaikoCoreFrameResults"
+      },
+      {
+        "offset": 64,
+        "type": "*void",
+        "size": 8,
+        "name": "coreResultsInternal",
+        "originalType": "TaikoCoreFrameResultsInteranal"
+      }
+    ],
+    "size": 72
+  },
+  {
+    "name": "FumenLoader_o",
+    "class": "FumenLoader",
+    "fields": [
+      {
+        "offset": 32,
+        "type": "int32_t",
+        "size": 4,
+        "name": "state",
+        "originalType": "FumenLoader.State"
+      },
+      {
+        "offset": 36,
+        "type": "bool",
+        "size": 1,
+        "name": "isSucceed",
+        "originalType": "bool"
+      },
+      {
+        "offset": 40,
+        "type": "*void",
+        "size": 8,
+        "name": "ensoDataManager",
+        "originalType": "EnsoDataManager"
+      },
+      {
+        "offset": 48,
+        "type": "bytes:136",
+        "size": 136,
+        "name": "settings",
+        "originalType": "EnsoData.Settings"
+      },
+      {
+        "offset": 184,
+        "type": "*void",
+        "size": 8,
+        "name": "playerData",
+        "originalType": "FumenLoader.PlayerData[]"
+      }
+    ],
+    "size": 192
+  },
+  {
+    "name": "ScorePlayer_o",
+    "class": "ScorePlayer",
+    "fields": [
+      {
+        "offset": 48,
+        "type": "*void",
+        "size": 8,
+        "name": "scoreDigits",
+        "originalType": "ScoreDigitPlayer[]"
+      },
+      {
+        "offset": 56,
+        "type": "*void",
+        "size": 8,
+        "name": "addScorePrefab",
+        "originalType": "GameObject"
+      },
+      {
+        "offset": 64,
+        "type": "*void",
+        "size": 8,
+        "name": "highScoreMaster",
+        "originalType": "AnimClips"
+      },
+      {
+        "offset": 72,
+        "type": "*void",
+        "size": 8,
+        "name": "highScoreBackground",
+        "originalType": "StandardAnimClips"
+      },
+      {
+        "offset": 80,
+        "type": "*void",
+        "size": 8,
+        "name": "highScoreEffect",
+        "originalType": "AnimClips"
+      },
+      {
+        "offset": 88,
+        "type": "*void",
+        "size": 8,
+        "name": "uiHighScoreText",
+        "originalType": "Text"
+      },
+      {
+        "offset": 96,
+        "type": "int32_t",
+        "size": 4,
+        "name": "addScorePoolNum",
+        "originalType": "int"
+      },
+      {
+        "offset": 100,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bReady",
+        "originalType": "bool"
+      },
+      {
+        "offset": 101,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bOncePerGame",
+        "originalType": "bool"
+      },
+      {
+        "offset": 104,
+        "type": "int32_t",
+        "size": 4,
+        "name": "m_iHighScore",
+        "originalType": "int"
+      },
+      {
+        "offset": 108,
+        "type": "int32_t",
+        "size": 4,
+        "name": "m_iReachScore",
+        "originalType": "int"
+      },
+      {
+        "offset": 112,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bIsHighScoreReach",
+        "originalType": "bool"
+      },
+      {
+        "offset": 113,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bIsHighScoreUpdate",
+        "originalType": "bool"
+      },
+      {
+        "offset": 116,
+        "type": "int32_t",
+        "size": 4,
+        "name": "m_iPrevScore",
+        "originalType": "int"
+      },
+      {
+        "offset": 120,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bPrevEnableGreenLight",
+        "originalType": "bool"
+      },
+      {
+        "offset": 121,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bPrevEnableHighScoreBG",
+        "originalType": "bool"
+      },
+      {
+        "offset": 122,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bPrevEnableHighScoreEffect",
+        "originalType": "bool"
+      },
+      {
+        "offset": 123,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bPrevHighScoreBG",
+        "originalType": "bool"
+      },
+      {
+        "offset": 124,
+        "type": "bool",
+        "size": 1,
+        "name": "m_bPrevHighScoreEffect",
+        "originalType": "bool"
+      },
+      {
+        "offset": 128,
+        "type": "*void",
+        "size": 8,
+        "name": "cAddScores",
+        "originalType": "List<ScorePlayer.CAddScore>"
+      },
+      {
+        "offset": 136,
+        "type": "int32_t",
+        "size": 4,
+        "name": "addScoreCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 144,
+        "type": "*void",
+        "size": 8,
+        "name": "frameResults",
+        "originalType": "TaikoCoreFrameResults"
+      },
+      {
+        "offset": 152,
+        "type": "*void",
+        "size": 8,
+        "name": "wordDataMgr",
+        "originalType": "WordDataManager"
+      },
+      {
+        "offset": 160,
+        "type": "int32_t",
+        "size": 4,
+        "name": "prepareTime",
+        "originalType": "int"
+      },
+      {
+        "offset": 164,
+        "type": "int32_t",
+        "size": 4,
+        "name": "prepareCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 168,
+        "type": "int32_t",
+        "size": 4,
+        "name": "state",
+        "originalType": "ScorePlayer.State"
+      }
+    ],
+    "size": 172
+  },
+  {
+    "name": "EnsoGameManager_o",
+    "class": "EnsoGameManager",
+    "fields": [
+      {
+        "offset": 32,
+        "type": "int32_t",
+        "size": 4,
+        "name": "StartWaitCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 36,
+        "type": "int32_t",
+        "size": 4,
+        "name": "FixWaitCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 40,
+        "type": "*void",
+        "size": 8,
+        "name": "playerDelay",
+        "originalType": "float[]"
+      },
+      {
+        "offset": 48,
+        "type": "float",
+        "size": 4,
+        "name": "offsetTimeAdjustment",
+        "originalType": "float"
+      },
+      {
+        "offset": 56,
+        "type": "*void",
+        "size": 8,
+        "name": "playerInputFlag",
+        "originalType": "EnsoInput.EnsoInputFlag[]"
+      },
+      {
+        "offset": 64,
+        "type": "float",
+        "size": 4,
+        "name": "paramTempo",
+        "originalType": "float"
+      },
+      {
+        "offset": 68,
+        "type": "float",
+        "size": 4,
+        "name": "paramAnimeSpeed",
+        "originalType": "float"
+      },
+      {
+        "offset": 72,
+        "type": "float",
+        "size": 4,
+        "name": "fumenLength",
+        "originalType": "float"
+      },
+      {
+        "offset": 76,
+        "type": "float",
+        "size": 4,
+        "name": "paramTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 80,
+        "type": "float",
+        "size": 4,
+        "name": "songTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 84,
+        "type": "float",
+        "size": 4,
+        "name": "subTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 88,
+        "type": "bool",
+        "size": 1,
+        "name": "paramIsEnd",
+        "originalType": "bool"
+      },
+      {
+        "offset": 89,
+        "type": "bool",
+        "size": 1,
+        "name": "paramIsAllOnpuEnd",
+        "originalType": "bool"
+      },
+      {
+        "offset": 90,
+        "type": "bool",
+        "size": 1,
+        "name": "paramIsPastLastOnpuJustTime",
+        "originalType": "bool"
+      },
+      {
+        "offset": 92,
+        "type": "int32_t",
+        "size": 4,
+        "name": "hitResultNum",
+        "originalType": "int"
+      },
+      {
+        "offset": 96,
+        "type": "*void",
+        "size": 8,
+        "name": "debugHitResults",
+        "originalType": "EnsoGameManager.DebugHitResultInfo[]"
+      },
+      {
+        "offset": 104,
+        "type": "float",
+        "size": 4,
+        "name": "hitJustTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 108,
+        "type": "float",
+        "size": 4,
+        "name": "hitDiffTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 112,
+        "type": "*void",
+        "size": 8,
+        "name": "hitDiffTimes",
+        "originalType": "List<float>"
+      },
+      {
+        "offset": 120,
+        "type": "float",
+        "size": 4,
+        "name": "hitAverage",
+        "originalType": "float"
+      },
+      {
+        "offset": 124,
+        "type": "float",
+        "size": 4,
+        "name": "hitTotalAverage",
+        "originalType": "float"
+      },
+      {
+        "offset": 128,
+        "type": "*TaikoCorePlayer_o",
+        "size": 8,
+        "name": "taikoCorePlayer",
+        "originalType": "TaikoCorePlayer"
+      },
+      {
+        "offset": 136,
+        "type": "*void",
+        "size": 8,
+        "name": "ensoSound",
+        "originalType": "EnsoSound"
+      },
+      {
+        "offset": 144,
+        "type": "*EnsoInput_o",
+        "size": 8,
+        "name": "ensoInput",
+        "originalType": "EnsoInput"
+      },
+      {
+        "offset": 152,
+        "type": "*void",
+        "size": 8,
+        "name": "dataManager",
+        "originalType": "EnsoDataManager"
+      },
+      {
+        "offset": 160,
+        "type": "*void",
+        "size": 8,
+        "name": "graphicManager",
+        "originalType": "EnsoGraphicManager"
+      },
+      {
+        "offset": 168,
+        "type": "*void",
+        "size": 8,
+        "name": "ensoParam",
+        "originalType": "EnsoPlayingParameter"
+      },
+      {
+        "offset": 176,
+        "type": "*FumenLoader_o",
+        "size": 8,
+        "name": "fumenLoader",
+        "originalType": "FumenLoader"
+      },
+      {
+        "offset": 184,
+        "type": "*void",
+        "size": 8,
+        "name": "loading",
+        "originalType": "LoadingScript"
+      },
+      {
+        "offset": 192,
+        "type": "*void",
+        "size": 8,
+        "name": "networkManager",
+        "originalType": "EnsoNetworkManager"
+      },
+      {
+        "offset": 200,
+        "type": "bytes:136",
+        "size": 136,
+        "name": "settings",
+        "originalType": "EnsoData.Settings"
+      },
+      {
+        "offset": 336,
+        "type": "bool",
+        "size": 1,
+        "name": "isEnableTouchTaiko",
+        "originalType": "bool"
+      },
+      {
+        "offset": 340,
+        "type": "int32_t",
+        "size": 4,
+        "name": "playerNum",
+        "originalType": "int"
+      },
+      {
+        "offset": 344,
+        "type": "int32_t",
+        "size": 4,
+        "name": "state",
+        "originalType": "EnsoGameManager.State"
+      },
+      {
+        "offset": 348,
+        "type": "int32_t",
+        "size": 4,
+        "name": "stateTimer",
+        "originalType": "int"
+      },
+      {
+        "offset": 352,
+        "type": "bool",
+        "size": 1,
+        "name": "isKanpekiOptionEnable",
+        "originalType": "bool"
+      },
+      {
+        "offset": 356,
+        "type": "int32_t",
+        "size": 4,
+        "name": "endWaitCounter",
+        "originalType": "int"
+      },
+      {
+        "offset": 360,
+        "type": "double",
+        "size": 8,
+        "name": "totalTime",
+        "originalType": "double"
+      },
+      {
+        "offset": 368,
+        "type": "double",
+        "size": 8,
+        "name": "songPositionDirect",
+        "originalType": "double"
+      },
+      {
+        "offset": 376,
+        "type": "double",
+        "size": 8,
+        "name": "SongPositionDiffMax",
+        "originalType": "double"
+      },
+      {
+        "offset": 384,
+        "type": "double",
+        "size": 8,
+        "name": "songPositionDirectBak",
+        "originalType": "double"
+      },
+      {
+        "offset": 392,
+        "type": "int32_t",
+        "size": 4,
+        "name": "songPositionStopCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 396,
+        "type": "int32_t",
+        "size": 4,
+        "name": "AdjustCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 400,
+        "type": "double",
+        "size": 8,
+        "name": "adjustTime",
+        "originalType": "double"
+      },
+      {
+        "offset": 408,
+        "type": "double",
+        "size": 8,
+        "name": "adjustSubTime",
+        "originalType": "double"
+      },
+      {
+        "offset": 416,
+        "type": "int32_t",
+        "size": 4,
+        "name": "adjustCounter",
+        "originalType": "int"
+      },
+      {
+        "offset": 424,
+        "type": "double",
+        "size": 8,
+        "name": "prevSongPosition",
+        "originalType": "double"
+      },
+      {
+        "offset": 432,
+        "type": "int32_t",
+        "size": 4,
+        "name": "forceAdjustCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 440,
+        "type": "double",
+        "size": 8,
+        "name": "pauseAdjustTotalTime",
+        "originalType": "double"
+      },
+      {
+        "offset": 448,
+        "type": "int32_t",
+        "size": 4,
+        "name": "pauseAdjustCounter",
+        "originalType": "int"
+      },
+      {
+        "offset": 452,
+        "type": "int32_t",
+        "size": 4,
+        "name": "PauseAdjustCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 456,
+        "type": "bool",
+        "size": 1,
+        "name": "isAppBackground",
+        "originalType": "bool"
+      },
+      {
+        "offset": 460,
+        "type": "int32_t",
+        "size": 4,
+        "name": "timeoutStateTime",
+        "originalType": "int"
+      },
+      {
+        "offset": 464,
+        "type": "float",
+        "size": 4,
+        "name": "coopPeriodEndTime",
+        "originalType": "float"
+      },
+      {
+        "offset": 468,
+        "type": "int32_t",
+        "size": 4,
+        "name": "coopFixedPeriodGrade",
+        "originalType": "EnsoData.CoopPeriodGrade"
+      },
+      {
+        "offset": 472,
+        "type": "int32_t",
+        "size": 4,
+        "name": "coopPeriodGrade",
+        "originalType": "EnsoData.CoopPeriodGrade"
+      },
+      {
+        "offset": 480,
+        "type": "*void",
+        "size": 8,
+        "name": "wordDataMgr",
+        "originalType": "WordDataManager"
+      },
+      {
+        "offset": 488,
+        "type": "*void",
+        "size": 8,
+        "name": "playDataMgr",
+        "originalType": "PlayDataManager"
+      },
+      {
+        "offset": 496,
+        "type": "int32_t",
+        "size": 4,
+        "name": "dropCount",
+        "originalType": "int"
+      },
+      {
+        "offset": 500,
+        "type": "bool",
+        "size": 1,
+        "name": "isDropped",
+        "originalType": "bool"
+      },
+      {
+        "offset": 501,
+        "type": "bool",
+        "size": 1,
+        "name": "isFinalized",
+        "originalType": "bool"
+      },
+      {
+        "offset": 502,
+        "type": "bool",
+        "size": 1,
+        "name": "isTuned",
+        "originalType": "bool"
+      },
+      {
+        "offset": 503,
+        "type": "bool",
+        "size": 1,
+        "name": "isLoadingOne",
+        "originalType": "bool"
+      },
+      {
+        "offset": 504,
+        "type": "bool",
+        "size": 1,
+        "name": "isNetworkLoadingOut",
+        "originalType": "bool"
+      }
+    ],
+    "size": 505
+  }
+]
