@@ -1,0 +1,39 @@
+{
+  "reset_differential_tests": [
+    {
+      "pattern": 0,
+      "metadata_initialized": 0,
+      "result": "passed"
+    },
+    {
+      "pattern": 85,
+      "metadata_initialized": 0,
+      "result": "passed"
+    },
+    {
+      "pattern": 255,
+      "metadata_initialized": 0,
+      "result": "passed"
+    },
+    {
+      "pattern": 0,
+      "metadata_initialized": 1,
+      "result": "passed"
+    },
+    {
+      "pattern": 85,
+      "metadata_initialized": 1,
+      "result": "passed"
+    },
+    {
+      "pattern": 255,
+      "metadata_initialized": 1,
+      "result": "passed"
+    }
+  ],
+  "title_tutorial_proc_tests": {
+    "false": "starts tutorial",
+    "true": "advances to state 4 without starting tutorial"
+  },
+  "limitations": "External Unity/runtime calls are stubbed. No iOS signing, installation, cloud-save, resource-loading, or gameplay execution was tested."
+}

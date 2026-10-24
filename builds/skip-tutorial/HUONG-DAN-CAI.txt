@@ -1,0 +1,44 @@
+Taiko Pop Tap 1.24.0 (159) — tutorial mặc định true
+
+File: TaikoPopTap-1.24.0-skip-tutorial-needs-signing.ipa
+
+Đây là bản IPA đã chỉnh mã máy, CẦN KÝ LẠI bằng Sideloadly.
+Không phải project Unity được build lại. Chữ ký cũ không còn hợp lệ.
+Chưa kiểm thử cài đặt hoặc chạy trên iPhone; không có bảo đảm không crash.
+
+Cách dùng:
+1. Lưu bản sao dữ liệu chơi hiện tại trước khi thử. Không xóa dữ liệu đang cần giữ.
+2. Kết nối iPhone với máy tính và mở Sideloadly; chọn đúng thiết bị.
+3. Kéo file IPA đầu ra vào Sideloadly, dùng Apple ID của bạn và bấm Start.
+   Chỉ nhập thông tin đăng nhập trong công cụ bạn tin cậy, không gửi vào chat.
+4. Làm theo yêu cầu Trust / Developer Mode của iOS nếu có.
+5. Kiểm tra với hồ sơ người chơi mới. Chấp nhận điều khoản theo giao diện game.
+   Sau màn hình đầu, xác nhận game không tự mở How to Play và vào chọn bài.
+6. Chơi một bài, thoát và mở lại để kiểm tra lưu dữ liệu và khả năng chạy ổn định.
+
+Phạm vi: PlayerInfo.Reset đặt tutorial=true, skipDispSplash=false.
+Các cờ acceptTerms, acceptPolicies, acceptDataCollect vẫn được đặt false như gốc.
+Bản sửa không di chuyển/sửa các save cũ. Save được khôi phục từ đám mây có thể
+mang tutorial=false và cần được kiểm tra riêng; không xóa save đám mây để thử.
+
+Xác minh trong môi trường Linux:
+- So sánh SHA-256 IPA đầu vào với bản đã phân tích.
+- Kiểm tra ARM64, ánh xạ segment thực thi, padding và bytes gốc trước khi sửa.
+- Mô phỏng 6 trường hợp PlayerInfo.Reset và 2 nhánh Title.TutorialProc.
+  Các lời gọi Unity/runtime bên ngoài được giả lập; không tương đương chạy toàn game.
+- Đọc và kiểm tra hash tất cả entry ZIP; chỉ UnityFramework được thay đổi.
+- Báo cáo kết quả và SHA-256 đầu ra nằm ở file .report.json.
+
+Chi tiết sửa:
+0x1129310: strh wzr,[x19,#0x70] -> b 0x2d2bfe0
+Padding trong segment __TEXT, ngoài các section:
+0x2d2bfe0: mov w8,#1
+0x2d2bfe4: strh w8,[x19,#0x70]
+0x2d2bfe8: b 0x1129314
+x8 là thanh ghi tạm caller-saved, không còn giá trị sống trước lời gọi kế tiếp.
+Không thay kích thước binary, địa chỉ hàm, metadata, bundle ID hoặc phiên bản.
+
+Tái tạo: Python 3.11+; chạy:
+python patch_ipa.py <IPA-goc> <IPA-dau-ra-moi>
+Kiểm thử mô phỏng cần capstone==5.0.7 và unicorn==2.1.4; test_patch.py đang trỏ
+vào vị trí binary gốc trong workspace này.

@@ -1,0 +1,16 @@
+{
+  "input_sha256": "38671effecdc2a5583a667b01f27583b6289c63d63a731f82f3bc2c8fde5edfe",
+  "output_sha256": "ae6f5943999b0e1db606c8575b32a3c653e2fea087bb12c9d621c6be827539f9",
+  "output_bytes": 1135816069,
+  "original_framework_sha256": "7eef88baf6d2c37064769f287b2755e8af21e4297278530aba0f500d53731503",
+  "patched_framework_sha256": "fc7353fc85dd12c8c3fc57efbeaea4eb06b17e3fb0baa42a0ef96d30e859630b",
+  "changed_members": [
+    "Payload/BNEI0361.app/Frameworks/UnityFramework.framework/UnityFramework"
+  ],
+  "archive_entries_verified": 3035,
+  "patch_site": "0x1129310",
+  "trampoline": "0x2d2bfe0",
+  "signing": "Existing signatures are invalid after modification. Re-sign the entire app with Sideloadly.",
+  "device_validation": "NOT RUN. Linux host has no iPhone/iOS runtime.",
+  "scope": "PlayerInfo.Reset initializes tutorial=true; existing save data is not migrated."
+}
