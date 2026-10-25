@@ -12,7 +12,7 @@ DEMOSTART:43.660
 //Note: In official AC, this track can only be played while the invisible drumroll anomaly happens.
 
 COURSE:Oni
-LEVEL:1
+LEVEL:10
 BALLOON:
 SCOREINIT:0
 SCOREDIFF:0
