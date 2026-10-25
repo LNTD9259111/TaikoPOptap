@@ -1,0 +1,101 @@
+{
+  "v3_single_request": {
+    "serialization_count": 3,
+    "foreground": 1,
+    "background": 2,
+    "local_writes": 2,
+    "cloud_writes": 1
+  },
+  "v4_single_request": {
+    "serialization_count": 1,
+    "foreground": 0,
+    "background": 1,
+    "local_writes": 2,
+    "cloud_writes": 1
+  },
+  "native_scheduling_worker_continuation": "PASS",
+  "coalesced_requests_and_update_after_serialization": "PASS: latest value 500 persisted by second worker, no concurrent worker launch",
+  "captured_slot_and_both_paths": "PASS; snapshot retains original value 600 after live data changed to 777",
+  "identical_payload_main_backup_cloud": "PASS",
+  "cloud_context": "PASS in deterministic harness: UI continuation only; SetBytes BLR return PC stays inside original protected MoveNext call site",
+  "exception_releases_busy_preserves_error": "PASS; pending cleared to avoid retry loop",
+  "padding_bounds": "PASS",
+  "v4_serialization_trace": [
+    {
+      "phase": "worker",
+      "entry": "0x13ec178",
+      "value": 100,
+      "payload": 68158800
+    },
+    {
+      "phase": "worker",
+      "entry": "0x13ec178",
+      "value": 500,
+      "payload": 68160224
+    },
+    {
+      "phase": "worker",
+      "entry": "0x13ec178",
+      "value": 600,
+      "payload": 68161648
+    }
+  ],
+  "v4_file_trace": [
+    {
+      "phase": "worker",
+      "path": 87031808,
+      "payload": 68158800,
+      "value": 100
+    },
+    {
+      "phase": "worker",
+      "path": 87032064,
+      "payload": 68158800,
+      "value": 100
+    },
+    {
+      "phase": "worker",
+      "path": 87031808,
+      "payload": 68160224,
+      "value": 500
+    },
+    {
+      "phase": "worker",
+      "path": 87032064,
+      "payload": 68160224,
+      "value": 500
+    },
+    {
+      "phase": "worker",
+      "path": 87032576,
+      "payload": 68161648,
+      "value": 600
+    },
+    {
+      "phase": "worker",
+      "path": 87032832,
+      "payload": 68161648,
+      "value": 600
+    }
+  ],
+  "v4_cloud_trace": [
+    {
+      "key": 87032320,
+      "payload": 68158800,
+      "value": 100
+    },
+    {
+      "key": 87032320,
+      "payload": 68160224,
+      "value": 500
+    },
+    {
+      "key": 87033088,
+      "payload": 68161648,
+      "value": 600
+    }
+  ],
+  "method": "Execute real ARM64 save scheduling, worker, and continuation with service shims.\nTask scheduling is deterministic/manual; this is not an iOS timing benchmark.\n",
+  "shims": "Managed allocation/type init, device/date/path, SystemOption load, async builder/Task services, XML+encryption, file IO and CloudKit. Native SaveObjectAsync/MoveNext/worker instructions execute.",
+  "device_latency_and_save_reload": "NOT RUN; instruction/service counts are not measured iPhone times"
+}

@@ -1,0 +1,9 @@
+{
+  "layout_compile": "Recovered il2cpp.h compiled with g++ on 64-bit Linux",
+  "PlayDataManager_size": "0x2e8",
+  "last_declared_field": "0x2e0",
+  "pending_byte": "0x2e1",
+  "remaining_padding_sentinels": "PASS: bytes 0x2e2..0x2e7 untouched",
+  "v3_native_patch_bytes": "PASS: every v3 save-enum, cosmetic and New-end patch unchanged",
+  "v3_resource_entries_unchanged": 1562
+}

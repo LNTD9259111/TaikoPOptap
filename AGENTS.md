@@ -1,10 +1,14 @@
 # Taiko Pop Tap workflow
 
-Latest candidate: `builds/library-fixes-v3/REPORT.md`. Read
-`library-tools/FIXES-v3.md` before changing it. It retains 230 songs/1030 charts
-after removal of three proven duplicate song-list entries, with all difficulties
-preserved. Do not reintroduce removed IDs or pad the audio/chart twice.
-No physical-device confirmation has been recorded for v3.
+Latest performance candidate: `builds/library-performance-v4/REPORT.md`.
+Read `library-tools/PERFORMANCE-v4.md` before changing its native save path.
+The user reported v3 working generally, with 5–15 second transition freezes;
+see `builds/library-fixes-v3/USER-FEEDBACK.md`. No device timing/save-reload
+confirmation exists for v4 yet. V4 uses the exact pre-signing v3 IPA as input.
+
+For content/runtime behavior read `library-tools/FIXES-v3.md`: 230 songs/1030
+charts, all retained difficulties, 9 New entries. Do not reintroduce removed
+IDs, repad chart/audio, or discard v3/v4 fixes in later builds.
 
 Previous incremental artifact: `builds/library-speed-v2/REPORT.md`. Read
 `library-tools/UPDATE-v2.md` before adding songs; preserve its stable IDs and

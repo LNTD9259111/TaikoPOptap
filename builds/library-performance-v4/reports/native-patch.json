@@ -1,0 +1,173 @@
+{
+  "input_v3_binary_sha256": "e6fde4cd755ba7e8425ddc7cfd2122119ba6fb80f50ab089902f1f7e0050ef2a",
+  "output_binary_sha256": "7fb27dea2c20d394ae0edde8115da8c19148b9c3d868ba6ae43f467ef81b14b4",
+  "changes": [
+    {
+      "name": "coalesce_saves_while_worker_active",
+      "address": "0x2c90",
+      "before": "000000000000000000000000000000000000000000000000",
+      "after": "880000342800805268860b392a7944147f860b39b1784414"
+    },
+    {
+      "name": "save gate 0x1120e74",
+      "address": "0x1120e74",
+      "before": "88160035",
+      "after": "8787bb17"
+    },
+    {
+      "name": "save gate 0x1120f44",
+      "address": "0x1120f44",
+      "before": "08100035",
+      "after": "5387bb17"
+    },
+    {
+      "name": "save gate 0x1120f64",
+      "address": "0x1120f64",
+      "before": "080f0035",
+      "after": "4b87bb17"
+    },
+    {
+      "name": "return after scheduling, omit duplicate foreground XML",
+      "address": "0x11210bc",
+      "before": "686241f9",
+      "after": "22000014"
+    },
+    {
+      "name": "retain_worker_result_carrier",
+      "address": "0x2ca8",
+      "before": "00000000000000000000000000000000",
+      "after": "741a00f9550000b471944414bb944414"
+    },
+    {
+      "name": "retain_worker_result_carrier entry",
+      "address": "0x1127e70",
+      "before": "950900b4",
+      "after": "8e6bbb17"
+    },
+    {
+      "name": "capture_save_struct_before_worker",
+      "address": "0x2cb8",
+      "before": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "after": "a05e41f9000040f921008052b0023b94800a00f900800091a1820091023c8052bacb9f94c00240f974944414"
+    },
+    {
+      "name": "capture_save_struct_before_worker entry",
+      "address": "0x1127eac",
+      "before": "c00240f9",
+      "after": "836bbb17"
+    },
+    {
+      "name": "retain_first_serialized_payload",
+      "address": "0x2ce4",
+      "before": "000000000000000000000000",
+      "after": "f40300aa610e40f92d924414"
+    },
+    {
+      "name": "retain_first_serialized_payload entry",
+      "address": "0x112759c",
+      "before": "610e40f9",
+      "after": "d26dbb17"
+    },
+    {
+      "name": "reuse_payload_for_backup_and_cloud",
+      "address": "0x2cf0",
+      "before": "000000000000000000000000",
+      "after": "740e00f9e00314aa3c924414"
+    },
+    {
+      "name": "reuse_payload_for_backup_and_cloud entry",
+      "address": "0x11275b0",
+      "before": "680a40f9",
+      "after": "d06dbb17"
+    },
+    {
+      "name": "flush_pending_on_update",
+      "address": "0x2cfc",
+      "before": "00000000000000000000000000000000000000000000000000000000",
+      "after": "08804b39a800003508844b3968000034010080d23a784414c0035fd6"
+    },
+    {
+      "name": "flush_pending_on_update entry",
+      "address": "0x1120050",
+      "before": "c0035fd6",
+      "after": "2b8bbb17"
+    },
+    {
+      "name": "finish_background_save",
+      "address": "0x2d18",
+      "before": "000000000000000000000000",
+      "after": "9f820b392800801295944414"
+    },
+    {
+      "name": "select_action_constructor",
+      "address": "0x2d24",
+      "before": "00000000000000000000000000000000",
+      "after": "10f800b010220491030080d267944414"
+    },
+    {
+      "name": "select_action_constructor entry",
+      "address": "0x1127ec8",
+      "before": "030080d2",
+      "after": "976bbb17"
+    },
+    {
+      "name": "protected call: Action constructor or cloud SetBytes",
+      "address": "0x1127ecc",
+      "before": "8f6c3794",
+      "after": "00023fd6"
+    },
+    {
+      "name": "return_from_protected_call",
+      "address": "0x2d34",
+      "before": "0000000000000000000000000000000000000000",
+      "after": "df0600b160000054487a01f065944414f5ffff17"
+    },
+    {
+      "name": "return_from_protected_call entry",
+      "address": "0x1127ed0",
+      "before": "28f100d0",
+      "after": "996bbb17"
+    },
+    {
+      "name": "publish_completed_save",
+      "address": "0x2d48",
+      "before": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "after": "741640f9f40200b4751a40f9b50200b4886241f9680200b4090940f9290200b42a0140b96b4240b97f010a6bc20100542a0940f95f0900f1690100546b7d0a9b080d0b8b001940f9a10e40f9020080d2b08400b010f23491160080924a9444147e94441481944414"
+    },
+    {
+      "name": "publish_completed_save entry",
+      "address": "0x1127f70",
+      "before": "28008012",
+      "after": "766bbb17"
+    },
+    {
+      "name": "release_save_gate_on_async_failure",
+      "address": "0x2db0",
+      "before": "000000000000000000000000000000000000000000000000",
+      "after": "681640f9680000b41f810b391f850b392800801298944414"
+    },
+    {
+      "name": "release_save_gate_on_async_failure entry",
+      "address": "0x1128020",
+      "before": "28008012",
+      "after": "646bbb17"
+    }
+  ],
+  "symbols": {
+    "coalesce_saves_while_worker_active": 11408,
+    "retain_worker_result_carrier": 11432,
+    "capture_save_struct_before_worker": 11448,
+    "retain_first_serialized_payload": 11492,
+    "reuse_payload_for_backup_and_cloud": 11504,
+    "flush_pending_on_update": 11516,
+    "finish_background_save": 11544,
+    "select_action_constructor": 11556,
+    "return_from_protected_call": 11572,
+    "publish_completed_save": 11592,
+    "release_save_gate_on_async_failure": 11696
+  },
+  "cave_end": "0x2dc8",
+  "scope": "Normal SaveObjectAsync: one background XML/encryption pass, identical bytes for main/backup/cloud; cloud stays on original async continuation. Busy spans worker; pending requests coalesce and flush on the next Unity Update. Cloud invocation shares an existing protected MoveNext call site; async failure releases the gate without automatic retry loops. Explicit synchronous SaveObject unchanged.",
+  "layout": "Recovered il2cpp.h compiled on 64-bit host: PlayDataManager sizeof 0x2e8, last field IsSaveProcessing at 0x2e0; pending byte uses tail padding 0x2e1. State-machine filename field is a GC-tracked reference reused for closure after paths copied.",
+  "limits": "No iPhone profiling or thread scheduling verification. SaveData value copied into GC-described SaveData[1] before scheduling; nested arrays retain existing reference semantics and pending saves flush latest updates. Not an atomic filesystem replacement or new save format."
+}
