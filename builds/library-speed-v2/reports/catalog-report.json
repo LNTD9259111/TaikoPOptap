@@ -1,0 +1,3139 @@
+{
+  "source_commit": "63415a595e9ab75a666047f4cdac97d151564087",
+  "playable_songs": 233,
+  "removed_playable_ids": [
+    "20t765",
+    "20tanm",
+    "20tbc",
+    "20tbtu",
+    "20tcty",
+    "20tdnc",
+    "20tfes",
+    "20tftb",
+    "20tftr",
+    "20thei",
+    "20tidl",
+    "20tvcl",
+    "2ge8ji",
+    "72mono",
+    "acex2",
+    "adsho2",
+    "anayu2",
+    "angel3",
+    "ankish",
+    "anp",
+    "aya10",
+    "beast2",
+    "bkmntu",
+    "bshar2",
+    "butou",
+    "butou3",
+    "butou4",
+    "butou5",
+    "butou9",
+    "cap283",
+    "carniv",
+    "cbebop",
+    "chala",
+    "cls10",
+    "cls25",
+    "clsbu",
+    "clsbut",
+    "clsca",
+    "clscds",
+    "clsdnu",
+    "clsff",
+    "clsh",
+    "clskkh",
+    "clskum",
+    "clslps",
+    "clsmao",
+    "clsmas",
+    "clsmrs",
+    "clsnut",
+    "clsplk",
+    "clsr",
+    "clsstr",
+    "clssum",
+    "clstoc",
+    "clstrk",
+    "clsvre",
+    "clsw",
+    "cpbbbb",
+    "cs4op",
+    "dai0kn",
+    "digmon",
+    "dojoae",
+    "dojoaj",
+    "dora4",
+    "doyo",
+    "druaga",
+    "dsgame",
+    "edison",
+    "eva",
+    "evam20",
+    "flkmio",
+    "friere",
+    "frnsrb",
+    "gdmchr",
+    "gegeg2",
+    "genpe",
+    "genpe3",
+    "getwld",
+    "gimcho",
+    "ginga",
+    "giogio",
+    "giosto",
+    "go2",
+    "gojira",
+    "goth",
+    "haryu",
+    "helhal",
+    "hiyam2",
+    "hvride",
+    "ia6cho",
+    "indyjo",
+    "inoki2",
+    "jazamp",
+    "jazmen",
+    "jaznoc",
+    "kaneda",
+    "kata",
+    "kecha",
+    "keion2",
+    "kekka2",
+    "kfphon",
+    "kimetu",
+    "klwind",
+    "koi907",
+    "kokoo",
+    "konant",
+    "kouka9",
+    "krdoto",
+    "lam",
+    "linda",
+    "lupin",
+    "lvx",
+    "mgwrt",
+    "mgwrt2",
+    "mgwrt4",
+    "mikuaa",
+    "mlpony",
+    "mndoor",
+    "moana2",
+    "moeyod",
+    "nainai",
+    "nanori",
+    "natsu",
+    "numu10",
+    "o4noko",
+    "odoru",
+    "ohdmi2",
+    "pacm40",
+    "pirate",
+    "pkmdkm",
+    "pkmmzs",
+    "plstlv",
+    "powlov",
+    "psplsb",
+    "qp3min",
+    "rideot",
+    "rlnedy",
+    "rot",
+    "rr1",
+    "rr22",
+    "rr42",
+    "rrsam",
+    "rwrite",
+    "rydeen",
+    "santa",
+    "seiya",
+    "sesami",
+    "shing2",
+    "siuryu",
+    "skorpg",
+    "skrnb",
+    "smoon2",
+    "sonic1",
+    "sora1x",
+    "ssn3rd",
+    "ssnkjs",
+    "ssnrns",
+    "starws",
+    "struin",
+    "tek7he",
+    "teken6",
+    "teken8",
+    "th7171",
+    "thbad",
+    "thchil",
+    "timing",
+    "tkrcop",
+    "tkym2",
+    "tmbeat",
+    "totoro",
+    "toystr",
+    "trance",
+    "trigun",
+    "tugaru",
+    "turk",
+    "twctt",
+    "udtmgl",
+    "valk",
+    "weare0",
+    "xday2k",
+    "xjapan",
+    "yugen",
+    "yugio2",
+    "yzmsct",
+    "zaba",
+    "zense"
+  ],
+  "preserved_hidden_system_ids": [
+    "dojoaet",
+    "dojoajt",
+    "kakunin3",
+    "quickmatch",
+    "tmap4"
+  ],
+  "fonts": [
+    {
+      "font_type": 0,
+      "name": "NotoSansCJKjp-Regular",
+      "asset": "sharedassets0.assets",
+      "path_id": 80,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 0,
+      "name": "NotoSansCJKjp-Bold",
+      "asset": "sharedassets0.assets",
+      "path_id": 81,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabic-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 775,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabicUI-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 776,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabic-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 777,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 3,
+      "name": "NotoSans-CondensedBold",
+      "asset": "sharedassets1.assets",
+      "path_id": 778,
+      "codepoints": 2793
+    },
+    {
+      "font_type": 2,
+      "name": "NotoSansCJKkr-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 779,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabic-CondensedBold",
+      "asset": "sharedassets1.assets",
+      "path_id": 780,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 4,
+      "name": "NotoSansCJKsc-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 781,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 2,
+      "name": "NotoSansCJKkr-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 782,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 4,
+      "name": "NotoSansCJKsc-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 783,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 3,
+      "name": "NotoSans-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 784,
+      "codepoints": 2793
+    },
+    {
+      "font_type": 1,
+      "name": "NotoSansCJKtc-Bold",
+      "asset": "sharedassets1.assets",
+      "path_id": 785,
+      "codepoints": 44683
+    },
+    {
+      "font_type": 3,
+      "name": "NotoSans-Condensed",
+      "asset": "sharedassets1.assets",
+      "path_id": 786,
+      "codepoints": 2793
+    },
+    {
+      "font_type": 3,
+      "name": "NotoSans-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 787,
+      "codepoints": 2793
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabic-Condensed",
+      "asset": "sharedassets1.assets",
+      "path_id": 788,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 5,
+      "name": "NotoSansArabicUI-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 789,
+      "codepoints": 1159
+    },
+    {
+      "font_type": 1,
+      "name": "NotoSansCJKtc-Regular",
+      "asset": "sharedassets1.assets",
+      "path_id": 790,
+      "codepoints": 44683
+    }
+  ],
+  "font_changes": [
+    {
+      "key": "song_tl0004",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_tl0004",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "AI♡SCREAM!"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_sub_tl0008",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "YOASOBI / 【Oshi No Ko】"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0012",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "夏祭り / ジッタリン・ジン"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0014",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Anata To Tu Lat Tat Ta♪"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0037",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "ヒバナ"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0039",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "東京テディベア"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0042",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "ワールズエンド・ダンスホール"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0044",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "天ノ弱"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0049",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Luka Luka★Night Fever"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0057",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "エビカニクス"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0059",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Kero⑨destiny"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0060",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "仙酌絶唱のファンタジア"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0061",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "明星ロケット"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0062",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "幻想に咲いた花"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0069",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Saisyuu Kichiku Imouto Frandre・S"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_tl0090",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "無慈悲な王"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0091",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Yoshihito Yano/SOULCALIBUR Ⅱ"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0095",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "エンジェル ドリーム"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0096",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "自分REST@RT"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0098",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "待ち受けプリンス"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0106",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【150 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0107",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【180 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_tl0108",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "UMA FORCE TRAINnisenING【240 BPM ver.】"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_sub_tl0109",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "MisoilePunch♪"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_tl0111",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "DARK EX MACHINA♡"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0113",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Δ→Low"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_sub_tl0127",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪ & Masahiro “Godspeed” Aoki"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_tl0129",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "MEGAMI NA SEKAI Ⅱ"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0130",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Ponchi♪ feat. haxchi"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0133",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0135",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "彁"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0154",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "ピコピコ ルイン"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0156",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "TSUN-DERE Café E YOKOSO☆"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0158",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "蒼の旋律"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_tl0198",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Clotho クロートー"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0199",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0200",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0201",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_sub_tl0202",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "Azu♪"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "englishUs",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "french",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "italian",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "german",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "spanish",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "portuguese",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "russian",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "turkish",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "arabic",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    },
+    {
+      "key": "song_tl0205",
+      "locale": "dutch",
+      "old": 3,
+      "new": 0,
+      "text": "DOKU LO C A N dy♡"
+    }
+  ],
+  "display_glyph_coverage": "PASS: every non-whitespace character covered by all bundled regular/bold variants of selected font",
+  "sorting": "Within game genre, numeric source folder prefix ascending where present; then unnumbered titles sorted by NFC + Unicode casefold; source relative path breaks ties. Children merges into Anime.",
+  "english_genre_labels": {
+    "genre_variety": "Variety",
+    "genre_vocalo": "Vocaloid",
+    "genre_namco": "Namco Original"
+  },
+  "songinfo_offset_policy": "TJA OFFSET encoded in fumen; fumenOffsetPos=0",
+  "shinuti_policy": "Estimated per-chart coefficients; P1 estimate supplies shared Duet field. No claim of official scores.",
+  "on_device_rendering": "NOT RUN"
+}

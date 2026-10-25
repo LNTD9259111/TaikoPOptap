@@ -29,8 +29,8 @@ def main(base,build,output):
     songs=json.loads((build/'source-manifest.json').read_text())['songs']
     source_charts=sum(len(s['blocks']) for s in songs)
     assets={RAW+str(p.relative_to(build/'assets')):p for p in (build/'assets').rglob('*') if p.is_file()}
-    assert len(list((build/'assets/fumen').rglob('*.bin')))==source_charts==999
-    assert len(list((build/'assets/sound').glob('*.bin')))==len(songs)==223
+    assert len(list((build/'assets/fumen').rglob('*.bin')))==source_charts
+    assert len(list((build/'assets/sound').glob('*.bin')))==len(songs)
     assets[FRAMEWORK]=build/'UnityFramework.patched'
     for name in ('sharedassets2.assets','sharedassets3.assets','level3'):assets[APP+'Data/'+name]=build/'unity-patched'/name
     files={k:sha_file(v) for k,v in assets.items()};deleted=[];unchanged={};changed=[]

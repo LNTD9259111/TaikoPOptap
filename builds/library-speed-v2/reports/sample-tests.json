@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tl0224_x.bin",
+    "native_measures": 139,
+    "native_note_counts": {
+      "normal": 629
+    },
+    "max_native_timing_error_ms": 0.007151636586058885,
+    "heap_overflow_measures": 0,
+    "peak_probe_heap_bytes": 49736,
+    "load_and_dispose": "PASS",
+    "device_playthrough": "NOT RUN"
+  },
+  {
+    "file": "tl0228_m.bin",
+    "native_measures": 38,
+    "native_note_counts": {
+      "normal": 166
+    },
+    "max_native_timing_error_ms": 0.003143706875562202,
+    "heap_overflow_measures": 0,
+    "peak_probe_heap_bytes": 13168,
+    "load_and_dispose": "PASS",
+    "device_playthrough": "NOT RUN"
+  },
+  {
+    "file": "tl0231_m.bin",
+    "native_measures": 9,
+    "native_note_counts": {
+      "normal": 9
+    },
+    "max_native_timing_error_ms": 0.000275069423878449,
+    "heap_overflow_measures": 0,
+    "peak_probe_heap_bytes": 936,
+    "load_and_dispose": "PASS",
+    "device_playthrough": "NOT RUN"
+  },
+  {
+    "file": "tl0232_m.bin",
+    "native_measures": 35,
+    "native_note_counts": {
+      "normal": 2
+    },
+    "max_native_timing_error_ms": 0,
+    "heap_overflow_measures": 0,
+    "peak_probe_heap_bytes": 1264,
+    "load_and_dispose": "PASS",
+    "device_playthrough": "NOT RUN"
+  },
+  {
+    "file": "tl0233_m.bin",
+    "native_measures": 14,
+    "native_note_counts": {
+      "normal": 1
+    },
+    "max_native_timing_error_ms": 0,
+    "heap_overflow_measures": 0,
+    "peak_probe_heap_bytes": 520,
+    "load_and_dispose": "PASS",
+    "device_playthrough": "NOT RUN"
+  }
+]

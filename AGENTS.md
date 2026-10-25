@@ -1,5 +1,9 @@
 # Taiko Pop Tap workflow
 
+Latest incremental artifact: `builds/library-speed-v2/REPORT.md`. Read
+`library-tools/UPDATE-v2.md` before adding songs; preserve its stable IDs and
+explicit per-song New flags. No iPhone confirmation has been recorded for v2.
+
 For the replacement TJA-LISTED library and decimal scroll speeds, read
 `library-tools/README.md` and `builds/library-speed-v1/REPORT.md` first. This
 user-authorized replacement supersedes the preserve-old-playable-songs rule

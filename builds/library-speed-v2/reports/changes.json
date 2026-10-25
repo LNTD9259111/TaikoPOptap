@@ -1,0 +1,67 @@
+[
+  [
+    "tl0225",
+    "Oni",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0225",
+    "Hard",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0225",
+    "Normal",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0225",
+    "Easy",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0231",
+    "Oni",
+    "LEVEL 10SS -> 10; SS retained in source"
+  ],
+  [
+    "tl0231",
+    "Oni",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0231",
+    "Hard",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0231",
+    "Normal",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0231",
+    "Easy",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0232",
+    "Oni",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0232",
+    "Hard",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0232",
+    "Normal",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ],
+  [
+    "tl0232",
+    "Easy",
+    "SCOREINIT exceeds uint16; estimate mod scoring"
+  ]
+]

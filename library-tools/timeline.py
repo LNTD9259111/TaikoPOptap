@@ -54,7 +54,7 @@ def parse_route(meta, block, route, initial=None, final=True):
                 elif cmd=='#BARLINEON':barline=True
                 elif cmd=='#BARLINEOFF':barline=False
                 elif cmd=='#LYRIC':lyrics.append({'ms':time,'text':arg,'line':record['line']})
-                elif cmd in ('#SECTION','#_BRANCH'):markers.append({'ms':time,'type':cmd,'value':arg,'line':record['line']})
+                elif cmd in ('#SECTION','#_BRANCH','#LEVELHOLD'):markers.append({'ms':time,'type':cmd,'value':arg,'line':record['line']})
                 elif cmd=='#MEASURE':pass
                 else:raise ValueError('Unsupported command '+cmd)
                 if not math.isfinite(bpm) or bpm<=0 or not math.isfinite(scroll):raise ValueError('Invalid BPM/SCROLL')

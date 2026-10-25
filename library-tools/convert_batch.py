@@ -70,6 +70,7 @@ def aligned_convert(course,timeline):
             for marker in r['markers']:
                 if abs(marker['ms']-start)<1e-5:
                     if marker['type']=='#SECTION':m.section=True
+                    elif marker['type']=='#LEVELHOLD':m.levelhold=True
                     else:
                         kind,a,b=marker['value'].split(',');m.branch_type=kind
                         m.branch_cond=(float(a)/(100 if kind=='p' else 1),float(b)/(100 if kind=='p' else 1))

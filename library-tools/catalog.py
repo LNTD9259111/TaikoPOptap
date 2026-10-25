@@ -75,7 +75,7 @@ def main(build,unity):
         assert all(course in cs for course in ('Easy','Normal','Hard','Oni'))
         entry=copy.deepcopy(template)
         entry.update(uniqueId=song['uniqueId'],id=ident,songFileName='song_'+ident,order=song['order'],
-                     genreNo=song['genre'],isLock=False,isNew=True,debug=False,temp=False,temp2=False)
+                     genreNo=song['genre'],isLock=False,isNew=song.get('isNew',True),debug=False,temp=False,temp2=False)
         for name,key in COURSES.items():
             c=cs.get(name);duet=cs.get(name+'P1',c)
             entry['star'+key]=c['stars'] if c else 0
