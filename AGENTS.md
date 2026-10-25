@@ -1,6 +1,12 @@
 # Taiko Pop Tap workflow
 
-Latest incremental artifact: `builds/library-speed-v2/REPORT.md`. Read
+Latest candidate: `builds/library-fixes-v3/REPORT.md`. Read
+`library-tools/FIXES-v3.md` before changing it. It retains 230 songs/1030 charts
+after removal of three proven duplicate song-list entries, with all difficulties
+preserved. Do not reintroduce removed IDs or pad the audio/chart twice.
+No physical-device confirmation has been recorded for v3.
+
+Previous incremental artifact: `builds/library-speed-v2/REPORT.md`. Read
 `library-tools/UPDATE-v2.md` before adding songs; preserve its stable IDs and
 explicit per-song New flags. No iPhone confirmation has been recorded for v2.
 

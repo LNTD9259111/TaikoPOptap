@@ -8,3 +8,5 @@ builds/yugen-preview-fix1/*.ipa filter=lfs diff=lfs merge=lfs -text
 builds/library-speed-v1/*.ipa filter=lfs diff=lfs merge=lfs -text
 
 builds/library-speed-v2/*.ipa filter=lfs diff=lfs merge=lfs -text
+
+builds/library-fixes-v3/*.ipa filter=lfs diff=lfs merge=lfs -text

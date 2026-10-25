@@ -1,0 +1,87 @@
+{
+  "v2_long_audio_tail_reproduction": [
+    {
+      "uniqueId": 1248,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 0,
+        "result_dispatch_calls": 0,
+        "isFixResult": 0
+      }
+    },
+    {
+      "uniqueId": 1254,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 0,
+        "result_dispatch_calls": 0,
+        "isFixResult": 0
+      }
+    },
+    {
+      "uniqueId": 1256,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 0,
+        "result_dispatch_calls": 0,
+        "isFixResult": 0
+      }
+    },
+    {
+      "uniqueId": 1247,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 0,
+        "result_dispatch_calls": 0,
+        "isFixResult": 0
+      }
+    }
+  ],
+  "v3_same_scenario": [
+    {
+      "uniqueId": 1248,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 1,
+        "result_dispatch_calls": 1,
+        "isFixResult": 1
+      }
+    },
+    {
+      "uniqueId": 1254,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 1,
+        "result_dispatch_calls": 1,
+        "isFixResult": 1
+      }
+    },
+    {
+      "uniqueId": 1256,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 1,
+        "result_dispatch_calls": 1,
+        "isFixResult": 1
+      }
+    },
+    {
+      "uniqueId": 1247,
+      "before_final_note": "wait",
+      "after_final_note_89_frames": "wait",
+      "after_90_frames": {
+        "stop_audio_calls": 0,
+        "result_dispatch_calls": 0,
+        "isFixResult": 0
+      }
+    }
+  ],
+  "shims": "Audio IsPlaying=true, position advancing; Unity object presence; frame result boolean; result/analytics services stubbed. Native CheckEnsoEnd executes unmodified except new decision hook. No actual iPhone result rendering/save test."
+}

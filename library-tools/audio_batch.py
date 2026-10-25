@@ -57,7 +57,7 @@ def build(row):
     song_id=row['id'];report_path=OUT/'audio-reports'/f'{song_id}.json';target=OUT/'assets/sound'/f'song_{song_id}.bin'
     if report_path.exists() and target.exists():
         saved=json.loads(report_path.read_text())
-        if saved.get('input_sha256')==row['audio_sha256'] and saved.get('bank_sha256')==hashlib.sha256(target.read_bytes()).hexdigest():return saved
+        if saved.get('lead_in_frames',0)==row.get('lead_in_frames',0) and saved.get('input_sha256')==row['audio_sha256'] and saved.get('bank_sha256')==hashlib.sha256(target.read_bytes()).hexdigest():return saved
     work=OUT/'audio-work'/song_id
     if work.exists():shutil.rmtree(work)
     work.mkdir(parents=True)
@@ -70,6 +70,11 @@ def build(row):
             run(*cmd,work/'source.wav')
             with wave.open(str(work/'source.wav')) as source:
                 params=source.getparams();pcm=source.readframes(source.getnframes())
+            lead=int(row.get('lead_in_frames',0))
+            if lead:
+                pcm=bytes(lead*4)+pcm
+                with wave.open(str(work/'source.wav'),'wb') as dest:
+                    dest.setparams(params);dest.writeframes(pcm)
             with wave.open(str(work/'encode.wav'),'wb') as dest:
                 dest.setparams(params);dest.writeframes(pcm+bytes(128*4))
             run(CLI,work/'encode.wav','--encode','-f','hca','--header-version','0x0200','--quality','highest','-o',work/'audio.hca','-q')
@@ -80,7 +85,7 @@ def build(row):
             run(sys.executable,KIT/'audio_check.py',work)
         report=json.loads((work/'audio-validation.json').read_text())
         bank=CODEC.encrypt((work/'song.acb').read_bytes())
-        report.update(id=song_id,title=row['title'],input_sha256=row['audio_sha256'],bank_sha256=hashlib.sha256(bank).hexdigest(),
+        report.update(id=song_id,title=row['title'],lead_in_frames=lead,input_sha256=row['audio_sha256'],bank_sha256=hashlib.sha256(bank).hexdigest(),
                       source_volume_multiplier=volume,compensation='Append 128 silent frames before encoding; increase HCA encoder-delay metadata 128→256 and recompute header CRC. No source attack samples removed.',
                       native=native_check(CODEC.decrypt(bank)))
         target.write_bytes(bank);report_path.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

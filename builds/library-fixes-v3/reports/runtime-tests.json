@@ -1,0 +1,96 @@
+{
+  "cosmetic_arrays_and_readers": "PASS; both categories unlocked, timestamps/New flags/other category preserved, idempotent and null-safe",
+  "end_decision_cases": [
+    {
+      "uniqueId": 1248,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1249,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1250,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1251,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1252,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1253,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1254,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1255,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1256,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": true
+    },
+    {
+      "uniqueId": 1247,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": false
+    },
+    {
+      "uniqueId": 1257,
+      "mode": 0,
+      "end_type": 1,
+      "stop_audio_after_native_end": false
+    },
+    {
+      "uniqueId": 1248,
+      "mode": 1,
+      "end_type": 1,
+      "stop_audio_after_native_end": false
+    },
+    {
+      "uniqueId": 1248,
+      "mode": 2,
+      "end_type": 1,
+      "stop_audio_after_native_end": false
+    },
+    {
+      "uniqueId": 1248,
+      "mode": 0,
+      "end_type": 0,
+      "stop_audio_after_native_end": false
+    },
+    {
+      "uniqueId": 1248,
+      "mode": 0,
+      "end_type": 4,
+      "stop_audio_after_native_end": false
+    }
+  ],
+  "device_result_screen": "NOT RUN"
+}

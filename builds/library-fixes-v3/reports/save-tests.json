@@ -1,0 +1,96 @@
+{
+  "constructor_and_native_xml_read_write_mapping": "PASS",
+  "values": [
+    {
+      "code": 0,
+      "xml_text": "Normal",
+      "enum_parse_text": "Normal",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 1,
+      "xml_text": "X2",
+      "enum_parse_text": "X2",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 2,
+      "xml_text": "X3",
+      "enum_parse_text": "X3",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 3,
+      "xml_text": "X4",
+      "enum_parse_text": "X4",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 4,
+      "xml_text": "Num",
+      "enum_parse_text": "Num",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 5,
+      "xml_text": "5",
+      "enum_parse_text": "5",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 6,
+      "xml_text": "6",
+      "enum_parse_text": "6",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 7,
+      "xml_text": "7",
+      "enum_parse_text": "7",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 8,
+      "xml_text": "8",
+      "enum_parse_text": "8",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 9,
+      "xml_text": "9",
+      "enum_parse_text": "9",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 10,
+      "xml_text": "10",
+      "enum_parse_text": "10",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 11,
+      "xml_text": "11",
+      "enum_parse_text": "11",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 12,
+      "xml_text": "12",
+      "enum_parse_text": "12",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 13,
+      "xml_text": "13",
+      "enum_parse_text": "13",
+      "write_lookup": "PASS"
+    },
+    {
+      "code": 14,
+      "xml_text": "14",
+      "enum_parse_text": "14",
+      "write_lookup": "PASS"
+    }
+  ],
+  "device_save_reload": "NOT RUN"
+}
