@@ -11,7 +11,7 @@ DEMOSTART:153.694
 //Limitation: LEVELHOLD command may not work on all simulators, which was used to hold the #E branch in Bar 77 while allowing unconditional #N->#M.
 
 COURSE:Oni
-LEVEL:1
+LEVEL:10
 BALLOON:
 SCOREINIT:3440
 SCOREDIFF:0
